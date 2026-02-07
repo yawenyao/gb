@@ -1,0 +1,73 @@
+{
+  "tables": {
+    "additives": {
+      "rows": 292,
+      "expected_min": 292,
+      "unique_faid": 292,
+      "issues": [],
+      "complete": true
+    },
+    "categories": {
+      "rows": 388,
+      "expected_min": 388,
+      "unique_category_code": 388,
+      "issues": [],
+      "complete": true
+    },
+    "additive_usage": {
+      "rows": 30518,
+      "unique_faid_in_usage": 292,
+      "unique_category_code_in_usage": 364,
+      "issues": [],
+      "complete": true
+    },
+    "processing_aids": {
+      "rows": 118,
+      "expected_min": 118,
+      "issues": [],
+      "complete": true
+    },
+    "enzymes": {
+      "rows": 226,
+      "expected_min": 226,
+      "issues": [],
+      "complete": true
+    },
+    "spices_b1_prohibited": {
+      "rows": 29,
+      "expected_min": 29,
+      "issues": [],
+      "complete": true
+    },
+    "spices_b2_natural": {
+      "rows": 388,
+      "expected_min": 388,
+      "issues": [],
+      "complete": true
+    },
+    "spices_b3_synthetic": {
+      "rows": 1505,
+      "expected_min": 1505,
+      "issues": [],
+      "complete": true
+    },
+    "appendix_d_functions": {
+      "rows": 23,
+      "expected_min": 23,
+      "issues": [],
+      "complete": true
+    }
+  },
+  "cross_checks": [
+    {
+      "name": "index_vs_entities",
+      "by_additive_keys": 292,
+      "by_category_keys": 388,
+      "issues": []
+    }
+  ],
+  "summary": {
+    "complete": true,
+    "issues": []
+  }
+}

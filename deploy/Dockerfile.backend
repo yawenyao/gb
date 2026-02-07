@@ -1,0 +1,26 @@
+# 在项目根目录构建：docker build -f deploy/Dockerfile.backend -t gb2760-backend .
+FROM eclipse-temurin:17-jdk-alpine AS builder
+WORKDIR /build
+
+# 复制 Maven 与源码
+COPY gb-backend/pom.xml .
+COPY gb-backend/src ./src
+
+# 构建（跳过测试以加快镜像构建）
+RUN apk add --no-cache maven && \
+    mvn -q -DskipTests package -Dmaven.javadoc.skip=true && \
+    mv target/*.jar app.jar
+
+# 运行阶段（数据集通过 compose 挂载到 /app/dataset）
+FROM eclipse-temurin:17-jre-alpine
+WORKDIR /app
+
+RUN apk add --no-cache dumb-init
+COPY --from=builder /build/app.jar ./app.jar
+
+ENV DATASET_PATH=/app/dataset
+EXPOSE 8080
+
+USER nobody
+ENTRYPOINT ["dumb-init", "--"]
+CMD ["java", "-jar", "app.jar"]

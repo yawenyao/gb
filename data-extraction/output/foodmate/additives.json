@@ -1,0 +1,2630 @@
+[
+  {
+    "id": 1,
+    "name_cn": "阿拉伯胶",
+    "name_en": "arabic gum",
+    "cns": "20.008",
+    "ins": "414",
+    "function": "增稠剂、其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/1.html"
+  },
+  {
+    "id": 2,
+    "name_cn": "β－阿朴－8’－胡萝卜素醛",
+    "name_en": "β-apo-8’-carotenal",
+    "cns": "08.018",
+    "ins": "160e",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/2.html"
+  },
+  {
+    "id": 3,
+    "name_cn": "爱德万甜（又名N-{N-[3-（3-羟基-4-甲氧基苯基）丙基]-L-α-天冬氨酰}-L-苯丙氨酸-1-甲酯）",
+    "name_en": "advantame(N-[N-[3-(3-hydroxy-4-methoxyphenyl) propyl]-L-α-aspartyl]-L-phenylalanine 1-methyl ester)",
+    "cns": "19.026",
+    "ins": "969",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/3.html"
+  },
+  {
+    "id": 4,
+    "name_cn": "氨基乙酸（又名甘氨酸）",
+    "name_en": "glycine",
+    "cns": "12.007",
+    "ins": "640",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/4.html"
+  },
+  {
+    "id": 5,
+    "name_cn": "铵磷脂",
+    "name_en": "ammonium phosphatide",
+    "cns": "10.033",
+    "ins": "442",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/5.html"
+  },
+  {
+    "id": 6,
+    "name_cn": "巴西棕榈蜡",
+    "name_en": "carnauba wax",
+    "cns": "14.008",
+    "ins": "903",
+    "function": "被膜剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/6.html"
+  },
+  {
+    "id": 7,
+    "name_cn": "白油（又名液体石蜡）",
+    "name_en": "mineral oil, white (liquid paraffin)",
+    "cns": "14.003",
+    "ins": "905a",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/7.html"
+  },
+  {
+    "id": 8,
+    "name_cn": "L-半胱氨酸盐酸盐",
+    "name_en": "L-cysteine hydrochlorides sodium and potassium salts",
+    "cns": "13.003",
+    "ins": "920",
+    "function": "面粉处理剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/8.html"
+  },
+  {
+    "id": 9,
+    "name_cn": "半乳甘露聚糖",
+    "name_en": "galactomannan",
+    "cns": "00.014",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/9.html"
+  },
+  {
+    "id": 10,
+    "name_cn": "苯甲酸及其钠盐（包括苯甲酸，苯甲酸钠）",
+    "name_en": "benzoic acid, sodium benzoate",
+    "cns": "17.001,17.002",
+    "ins": "210,211",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/10.html"
+  },
+  {
+    "id": 11,
+    "name_cn": "冰乙酸（又名冰醋酸）",
+    "name_en": "acetic acid",
+    "cns": "01.107",
+    "ins": "260",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/11.html"
+  },
+  {
+    "id": 12,
+    "name_cn": "冰乙酸（低压羰基化法）",
+    "name_en": "acetic acid",
+    "cns": "01.112",
+    "ins": "",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/12.html"
+  },
+  {
+    "id": 13,
+    "name_cn": "冰结构蛋白",
+    "name_en": "ice structuring protein",
+    "cns": "00.020",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/13.html"
+  },
+  {
+    "id": 14,
+    "name_cn": "L-丙氨酸",
+    "name_en": "L-alanine",
+    "cns": "12.006",
+    "ins": "",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/14.html"
+  },
+  {
+    "id": 15,
+    "name_cn": "丙二醇",
+    "name_en": "propylene glycol",
+    "cns": "18.004",
+    "ins": "1520",
+    "function": "稳定剂和凝固剂、抗结剂、乳化剂、水分保持剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/15.html"
+  },
+  {
+    "id": 16,
+    "name_cn": "丙二醇脂肪酸酯",
+    "name_en": "propylene glycol esters of fatty acids",
+    "cns": "10.020",
+    "ins": "477",
+    "function": "乳化剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/16.html"
+  },
+  {
+    "id": 17,
+    "name_cn": "丙酸及其钠盐、钙盐（包括丙酸，丙酸钠，丙酸钙）",
+    "name_en": "propionic acid, sodium propionate, calcium propionate",
+    "cns": "17.029,17.006,17.005",
+    "ins": "280,281,282",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/17.html"
+  },
+  {
+    "id": 18,
+    "name_cn": "茶多酚（又名维多酚，简称“TP”）",
+    "name_en": "tea polyphenol (TP)",
+    "cns": "04.005",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/18.html"
+  },
+  {
+    "id": 19,
+    "name_cn": "茶多酚棕榈酸酯",
+    "name_en": "tea polyphenol palmitate",
+    "cns": "04.021",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/19.html"
+  },
+  {
+    "id": 20,
+    "name_cn": "茶黄素",
+    "name_en": "theaflavins",
+    "cns": "04.023",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/20.html"
+  },
+  {
+    "id": 21,
+    "name_cn": "5’-呈味核苷酸二钠（又名呈味核苷酸二钠）",
+    "name_en": "disodium 5'-ribonucleotide",
+    "cns": "12.004",
+    "ins": "635",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/21.html"
+  },
+  {
+    "id": 22,
+    "name_cn": "赤藓红及其铝色淀（包括赤藓红，赤藓红铝色淀）",
+    "name_en": "erythrosine, erythrosine aluminum lake",
+    "cns": "08.003",
+    "ins": "127",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/22.html"
+  },
+  {
+    "id": 23,
+    "name_cn": "赤藓糖醇",
+    "name_en": "erythritol",
+    "cns": "19.018",
+    "ins": "968",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/23.html"
+  },
+  {
+    "id": 24,
+    "name_cn": "刺梧桐胶",
+    "name_en": "karaya gum",
+    "cns": "18.010",
+    "ins": "416",
+    "function": "稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/24.html"
+  },
+  {
+    "id": 25,
+    "name_cn": "刺云实胶",
+    "name_en": "tara gum",
+    "cns": "20.041",
+    "ins": "417",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/25.html"
+  },
+  {
+    "id": 26,
+    "name_cn": "醋酸酯淀粉",
+    "name_en": "starch acetate",
+    "cns": "20.039",
+    "ins": "1420",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/26.html"
+  },
+  {
+    "id": 27,
+    "name_cn": "达瓦树胶",
+    "name_en": "ghatti gum",
+    "cns": "10.043",
+    "ins": "419",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/27.html"
+  },
+  {
+    "id": 28,
+    "name_cn": "单，双甘油脂肪酸酯",
+    "name_en": "mono-and diglycerides of fatty acids",
+    "cns": "10.006",
+    "ins": "471",
+    "function": "乳化剂、被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/28.html"
+  },
+  {
+    "id": 29,
+    "name_cn": "单辛酸甘油酯",
+    "name_en": "capryl monoglyceride",
+    "cns": "17.031",
+    "ins": "",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/29.html"
+  },
+  {
+    "id": 30,
+    "name_cn": "氮气（液氮）",
+    "name_en": "nitrogen",
+    "cns": "00.024",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/30.html"
+  },
+  {
+    "id": 31,
+    "name_cn": "淀粉磷酸酯钠（又名淀粉磷酸酯，磷酸酯淀粉，单淀粉磷酸酯）",
+    "name_en": "sodium starch phosphate (monostarch phosphate)",
+    "cns": "20.013",
+    "ins": "1410",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/31.html"
+  },
+  {
+    "id": 32,
+    "name_cn": "靛蓝及其铝色淀（包括靛蓝，靛蓝铝色淀）",
+    "name_en": "indigotine, indigotine aluminum lake",
+    "cns": "08.008",
+    "ins": "132",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/32.html"
+  },
+  {
+    "id": 33,
+    "name_cn": "丁基羟基茴香醚（简称“BHA”）",
+    "name_en": "butylated hydroxyanisole (BHA)",
+    "cns": "04.001",
+    "ins": "320",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/33.html"
+  },
+  {
+    "id": 34,
+    "name_cn": "对羟基苯甲酸酯类及其钠盐（包括对羟基苯甲酸甲酯钠，对羟基苯甲酸乙酯，对羟基苯甲酸乙酯钠）",
+    "name_en": "p-hydroxy benzoates and its salts (sodium methyl p-hydroxy benzoate, ethyl p-hydroxy benzoate, sodium ethyl p-hydroxy benzoate)",
+    "cns": "17.032,17.007,17.036",
+    "ins": "219,214,215",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/34.html"
+  },
+  {
+    "id": 35,
+    "name_cn": "二丁基羟基甲苯（简称“BHT”）",
+    "name_en": "butylated hydroxytoluene (BHT)",
+    "cns": "04.002",
+    "ins": "321",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/35.html"
+  },
+  {
+    "id": 36,
+    "name_cn": "纽甜（又名N-[N-（3，3-二甲基丁基）]-L-α-天门冬氨-L-苯丙氨酸1-甲酯）",
+    "name_en": "neotame",
+    "cns": "19.019",
+    "ins": "961",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/36.html"
+  },
+  {
+    "id": 37,
+    "name_cn": "二甲基二碳酸盐（又名维果灵）",
+    "name_en": "dimethyl dicarbonate",
+    "cns": "17.033",
+    "ins": "242",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/37.html"
+  },
+  {
+    "id": 38,
+    "name_cn": "二氧化硅",
+    "name_en": "silicon dioxide",
+    "cns": "02.004",
+    "ins": "551",
+    "function": "抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/38.html"
+  },
+  {
+    "id": 39,
+    "name_cn": "二氧化硫及亚硫酸盐（包括二氧化硫，焦亚硫酸钾，焦亚硫酸钠，亚硫酸钠，亚硫酸氢钠，低亚硫酸钠）",
+    "name_en": "sulfur dioxide, potassium metabisulphite, sodium metabisulphite, sodium sulfite, sodium hydrogen sulfite, sodium hyposulfite",
+    "cns": "05.001,05.002,05.003,05.004,05.005,05.006",
+    "ins": "220,224,223,221,222 ,",
+    "function": "漂白剂、防腐剂、抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/39.html"
+  },
+  {
+    "id": 40,
+    "name_cn": "二氧化钛",
+    "name_en": "titanium dioxide",
+    "cns": "08.011",
+    "ins": "171",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/40.html"
+  },
+  {
+    "id": 41,
+    "name_cn": "二氧化碳",
+    "name_en": "carbon dioxide",
+    "cns": "17.014",
+    "ins": "290",
+    "function": "防腐剂、其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/41.html"
+  },
+  {
+    "id": 42,
+    "name_cn": "番茄红",
+    "name_en": "tomato red",
+    "cns": "08.150",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/42.html"
+  },
+  {
+    "id": 43,
+    "name_cn": "番茄红素",
+    "name_en": "lycopene, synthetic;lycopene, Blakeslea trispora",
+    "cns": "08.017",
+    "ins": "160d(i),160d(iii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/43.html"
+  },
+  {
+    "id": 44,
+    "name_cn": "蜂蜡",
+    "name_en": "beeswax",
+    "cns": "14.013",
+    "ins": "901",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/44.html"
+  },
+  {
+    "id": 45,
+    "name_cn": "富马酸",
+    "name_en": "fumaric acid",
+    "cns": "01.110",
+    "ins": "297",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/45.html"
+  },
+  {
+    "id": 46,
+    "name_cn": "富马酸一钠",
+    "name_en": "monosodium fumarate",
+    "cns": "01.311",
+    "ins": "365",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/46.html"
+  },
+  {
+    "id": 47,
+    "name_cn": "改性大豆磷脂",
+    "name_en": "modified soybean phospholipid",
+    "cns": "10.019",
+    "ins": "",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/47.html"
+  },
+  {
+    "id": 48,
+    "name_cn": "甘草抗氧化物",
+    "name_en": "antioxidant of glycyrrhiza",
+    "cns": "04.008",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/48.html"
+  },
+  {
+    "id": 49,
+    "name_cn": "甘草酸盐（包括甘草酸铵，甘草酸一钾，甘草酸三钾）",
+    "name_en": "ammonium glycyrrhizinate, monopotassium and tripotassium glycyrrhizinate",
+    "cns": "19.012,19.010,19.025",
+    "ins": "958",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/49.html"
+  },
+  {
+    "id": 50,
+    "name_cn": "甘油（又名丙三醇）",
+    "name_en": "glycerine (glycerol)",
+    "cns": "15.014",
+    "ins": "422",
+    "function": "水分保持剂、乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/50.html"
+  },
+  {
+    "id": 51,
+    "name_cn": "柑橘黄",
+    "name_en": "orange yellow",
+    "cns": "08.143",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/51.html"
+  },
+  {
+    "id": 52,
+    "name_cn": "高粱红",
+    "name_en": "sorghum red",
+    "cns": "08.115",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/52.html"
+  },
+  {
+    "id": 53,
+    "name_cn": "D-甘露糖醇",
+    "name_en": "D-mannitol",
+    "cns": "19.017",
+    "ins": "421",
+    "function": "甜味剂、乳化剂、膨松剂、稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/53.html"
+  },
+  {
+    "id": 54,
+    "name_cn": "高锰酸钾",
+    "name_en": "potassium permanganate",
+    "cns": "00.001",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/54.html"
+  },
+  {
+    "id": 55,
+    "name_cn": "谷氨酸钠",
+    "name_en": "monosodium glutamate",
+    "cns": "12.001",
+    "ins": "621",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/55.html"
+  },
+  {
+    "id": 56,
+    "name_cn": "谷氨酰胺转氨酶",
+    "name_en": "glutamine transaminase",
+    "cns": "18.013",
+    "ins": "",
+    "function": "稳定剂和凝固剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/56.html"
+  },
+  {
+    "id": 57,
+    "name_cn": "瓜尔胶",
+    "name_en": "guar gum",
+    "cns": "20.025",
+    "ins": "412",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/57.html"
+  },
+  {
+    "id": 58,
+    "name_cn": "硅酸钙",
+    "name_en": "calcium silicate",
+    "cns": "02.009",
+    "ins": "552",
+    "function": "抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/58.html"
+  },
+  {
+    "id": 59,
+    "name_cn": "果胶",
+    "name_en": "pectins",
+    "cns": "20.006",
+    "ins": "440",
+    "function": "乳化剂、稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/59.html"
+  },
+  {
+    "id": 60,
+    "name_cn": "海藻酸丙二醇酯",
+    "name_en": "propylene glycol alginate",
+    "cns": "20.010",
+    "ins": "405",
+    "function": "增稠剂、乳化剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/60.html"
+  },
+  {
+    "id": 61,
+    "name_cn": "海藻酸钙（又名褐藻酸钙）",
+    "name_en": "calcium alginate",
+    "cns": "20.046",
+    "ins": "404",
+    "function": "增稠剂、稳定剂和凝固剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/61.html"
+  },
+  {
+    "id": 62,
+    "name_cn": "海藻酸钾（又名褐藻酸钾）",
+    "name_en": "potassium alginate",
+    "cns": "20.005",
+    "ins": "402",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/62.html"
+  },
+  {
+    "id": 63,
+    "name_cn": "海藻酸钠（又名褐藻酸钠）",
+    "name_en": "sodium alginate",
+    "cns": "20.004",
+    "ins": "401",
+    "function": "增稠剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/63.html"
+  },
+  {
+    "id": 64,
+    "name_cn": "核黄素",
+    "name_en": "riboflavin",
+    "cns": "08.148",
+    "ins": "101(i),101(iii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/64.html"
+  },
+  {
+    "id": 65,
+    "name_cn": "黑豆红",
+    "name_en": "black bean red",
+    "cns": "08.114",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/65.html"
+  },
+  {
+    "id": 66,
+    "name_cn": "黑加仑红",
+    "name_en": "black currant red",
+    "cns": "08.122",
+    "ins": "163(iii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/66.html"
+  },
+  {
+    "id": 67,
+    "name_cn": "红花黄",
+    "name_en": "carthamins yellow",
+    "cns": "08.103",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/67.html"
+  },
+  {
+    "id": 68,
+    "name_cn": "红米红",
+    "name_en": "red rice red",
+    "cns": "08.111",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/68.html"
+  },
+  {
+    "id": 69,
+    "name_cn": "红曲黄色素",
+    "name_en": "monascus yellow pigment",
+    "cns": "08.152",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/69.html"
+  },
+  {
+    "id": 70,
+    "name_cn": "红曲米，红曲红",
+    "name_en": "red kojic rice, monascus red",
+    "cns": "08.119,08.120",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/70.html"
+  },
+  {
+    "id": 71,
+    "name_cn": "β-胡萝卜素",
+    "name_en": "beta-carotene synthetic, beta-carotene, Blakeslea trispora, beta-carotene, algal",
+    "cns": "08.010",
+    "ins": "160a(i),160a(iii),160a(iv)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/71.html"
+  },
+  {
+    "id": 72,
+    "name_cn": "琥珀酸单甘油酯",
+    "name_en": "succinylated monoglycerides",
+    "cns": "10.038",
+    "ins": "472g",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/72.html"
+  },
+  {
+    "id": 73,
+    "name_cn": "琥珀酸二钠",
+    "name_en": "disodium succinate",
+    "cns": "12.005",
+    "ins": "364(ii)",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/73.html"
+  },
+  {
+    "id": 74,
+    "name_cn": "花生衣红",
+    "name_en": "peanut skin red",
+    "cns": "08.134",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/74.html"
+  },
+  {
+    "id": 75,
+    "name_cn": "槐豆胶（又名刺槐豆胶）",
+    "name_en": "carob bean gum",
+    "cns": "20.023",
+    "ins": "410",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/75.html"
+  },
+  {
+    "id": 76,
+    "name_cn": "甜蜜素（又名环己基氨基磺酸钠），环己基氨基磺酸钙",
+    "name_en": "sodium cyclamate, calcium cyclamate",
+    "cns": "19.002,19.024",
+    "ins": "952(iv),952(ii)",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/76.html"
+  },
+  {
+    "id": 77,
+    "name_cn": "黄原胶（又名汉生胶）",
+    "name_en": "xanthan gum",
+    "cns": "20.009",
+    "ins": "415",
+    "function": "稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/77.html"
+  },
+  {
+    "id": 78,
+    "name_cn": "α-环状糊精",
+    "name_en": "alpha -cyclodextrin",
+    "cns": "18.011",
+    "ins": "457",
+    "function": "稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/78.html"
+  },
+  {
+    "id": 79,
+    "name_cn": "γ-环状糊精",
+    "name_en": "gamma-cyclodextrin",
+    "cns": "18.012",
+    "ins": "458",
+    "function": "稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/79.html"
+  },
+  {
+    "id": 80,
+    "name_cn": "β-环状糊精",
+    "name_en": "beta-cyclodextrin",
+    "cns": "20.024",
+    "ins": "459",
+    "function": "增稠剂、其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/80.html"
+  },
+  {
+    "id": 81,
+    "name_cn": "5’-肌苷酸二钠",
+    "name_en": "disodium 5'-inosinate",
+    "cns": "12.003",
+    "ins": "631",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/81.html"
+  },
+  {
+    "id": 82,
+    "name_cn": "己二酸",
+    "name_en": "adipic acid",
+    "cns": "01.109",
+    "ins": "355",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/82.html"
+  },
+  {
+    "id": 83,
+    "name_cn": "4-己基间苯二酚",
+    "name_en": "4-hexylresorcinol",
+    "cns": "04.013",
+    "ins": "586",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/83.html"
+  },
+  {
+    "id": 84,
+    "name_cn": "甲基纤维素",
+    "name_en": "methyl cellulose",
+    "cns": "20.043",
+    "ins": "461",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/84.html"
+  },
+  {
+    "id": 85,
+    "name_cn": "甲壳素（又名几丁质）",
+    "name_en": "chitin",
+    "cns": "20.018",
+    "ins": "",
+    "function": "增稠剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/85.html"
+  },
+  {
+    "id": 86,
+    "name_cn": "姜黄",
+    "name_en": "turmeric",
+    "cns": "08.102",
+    "ins": "100(ii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/86.html"
+  },
+  {
+    "id": 87,
+    "name_cn": "姜黄素",
+    "name_en": "curcumin",
+    "cns": "08.132",
+    "ins": "100(i)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/87.html"
+  },
+  {
+    "id": 88,
+    "name_cn": "焦糖色（加氨生产）",
+    "name_en": "caramel colour class Ⅲ-ammonia process",
+    "cns": "08.110",
+    "ins": "150c",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/88.html"
+  },
+  {
+    "id": 89,
+    "name_cn": "焦糖色（苛性硫酸盐法）",
+    "name_en": "caramel colour classⅡ-caustic sulfite",
+    "cns": "08.151",
+    "ins": "150b",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/89.html"
+  },
+  {
+    "id": 90,
+    "name_cn": "焦糖色（普通法）",
+    "name_en": "caramel colour classⅠ-plain",
+    "cns": "08.108",
+    "ins": "150a",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/90.html"
+  },
+  {
+    "id": 91,
+    "name_cn": "焦糖色（亚硫酸铵法）",
+    "name_en": "caramel colour class Ⅳ-ammonia sulphite process",
+    "cns": "08.109",
+    "ins": "150d",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/91.html"
+  },
+  {
+    "id": 92,
+    "name_cn": "结冷胶",
+    "name_en": "gellan gum",
+    "cns": "20.027",
+    "ins": "418",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/92.html"
+  },
+  {
+    "id": 93,
+    "name_cn": "金樱子棕",
+    "name_en": "rose laevigata michx brown",
+    "cns": "08.131",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/93.html"
+  },
+  {
+    "id": 94,
+    "name_cn": "L（+）-酒石酸，dl-酒石酸",
+    "name_en": "L (+)-tartaric acid, dl-tartaric acid",
+    "cns": "01.111,01.313",
+    "ins": "334,",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/94.html"
+  },
+  {
+    "id": 95,
+    "name_cn": "酒石酸氢钾",
+    "name_en": "potassium bitartrate",
+    "cns": "06.007",
+    "ins": "336",
+    "function": "膨松剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/95.html"
+  },
+  {
+    "id": 96,
+    "name_cn": "酒石酸铁",
+    "name_en": "iron tartrate",
+    "cns": "02.011",
+    "ins": "",
+    "function": "抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/96.html"
+  },
+  {
+    "id": 97,
+    "name_cn": "菊花黄浸膏",
+    "name_en": "coreopsis yellow",
+    "cns": "08.113",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/97.html"
+  },
+  {
+    "id": 98,
+    "name_cn": "聚丙烯酸钠",
+    "name_en": "sodium polyacrylate",
+    "cns": "20.036",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/98.html"
+  },
+  {
+    "id": 99,
+    "name_cn": "聚二甲基硅氧烷及其乳液（包括聚二甲基硅氧烷，聚二甲基硅氧烷乳液）",
+    "name_en": "polydimethyl siloxane and emulsion",
+    "cns": "03.007",
+    "ins": "900a",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/99.html"
+  },
+  {
+    "id": 100,
+    "name_cn": "聚甘油蓖麻醇酸酯（简称“PGPR”）",
+    "name_en": "polyglycerol polyricinoleate (polyglycerol esters of interesterified ricinoleic acid) (PGPR)",
+    "cns": "10.029",
+    "ins": "476",
+    "function": "乳化剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/100.html"
+  },
+  {
+    "id": 101,
+    "name_cn": "聚甘油脂肪酸酯",
+    "name_en": "polyglycerol esters of fatty acids (polyglycerol fatty acid esters)",
+    "cns": "10.022",
+    "ins": "475",
+    "function": "乳化剂、稳定剂、增稠剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/101.html"
+  },
+  {
+    "id": 102,
+    "name_cn": "ε-聚赖氨酸",
+    "name_en": "ε-polylysine",
+    "cns": "17.037",
+    "ins": "",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/102.html"
+  },
+  {
+    "id": 103,
+    "name_cn": "ε-聚赖氨酸盐酸盐",
+    "name_en": "ε-polylysine hydrochloride",
+    "cns": "17.038",
+    "ins": "",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/103.html"
+  },
+  {
+    "id": 104,
+    "name_cn": "聚葡萄糖",
+    "name_en": "polydextroses",
+    "cns": "20.022",
+    "ins": "1200",
+    "function": "增稠剂、膨松剂、水分保持剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/104.html"
+  },
+  {
+    "id": 105,
+    "name_cn": "聚天冬氨酸钾",
+    "name_en": "potassium polyaspartate",
+    "cns": "18.014",
+    "ins": "456",
+    "function": "稳定剂和凝固剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/105.html"
+  },
+  {
+    "id": 106,
+    "name_cn": "吐温类[包括聚氧乙烯（20）山梨醇酐单月桂酸酯（又名吐温20），聚氧乙烯（20）山梨醇酐单棕榈酸酯（又名吐温40），聚氧乙烯（20）山梨醇酐单硬脂酸酯（又名吐温60），聚氧乙烯（20）山梨醇酐单油酸酯（又名吐温80）]",
+    "name_en": "polysorbates, polyoxyethylene (20) sorbitan monolaurate, polyoxyethylene (20) sorbitan monopalmitate, polyoxyethylene (20) sorbitan monostearate, polyoxyethylene (20) sorbitan monooleate",
+    "cns": "10.025,10.026,10.015,10.016",
+    "ins": "432,434,435,433",
+    "function": "乳化剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/106.html"
+  },
+  {
+    "id": 107,
+    "name_cn": "聚乙二醇",
+    "name_en": "polyethylene glycol",
+    "cns": "14.012",
+    "ins": "1521",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/107.html"
+  },
+  {
+    "id": 108,
+    "name_cn": "聚乙烯醇",
+    "name_en": "polyvinyl alcohol",
+    "cns": "14.010",
+    "ins": "1203",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/108.html"
+  },
+  {
+    "id": 109,
+    "name_cn": "决明胶",
+    "name_en": "cassia gum",
+    "cns": "20.045",
+    "ins": "427",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/109.html"
+  },
+  {
+    "id": 110,
+    "name_cn": "咖啡因",
+    "name_en": "caffeine",
+    "cns": "00.007",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/110.html"
+  },
+  {
+    "id": 111,
+    "name_cn": "卡拉胶",
+    "name_en": "carrageenan",
+    "cns": "20.007",
+    "ins": "407",
+    "function": "乳化剂、稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/111.html"
+  },
+  {
+    "id": 112,
+    "name_cn": "抗坏血酸（又名维生素C）",
+    "name_en": "ascorbic acid (vitamin C)",
+    "cns": "04.014",
+    "ins": "300",
+    "function": "面粉处理剂、抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/112.html"
+  },
+  {
+    "id": 113,
+    "name_cn": "抗坏血酸钙",
+    "name_en": "calcium ascorbate",
+    "cns": "04.009",
+    "ins": "302",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/113.html"
+  },
+  {
+    "id": 114,
+    "name_cn": "抗坏血酸钠",
+    "name_en": "sodium ascorbate",
+    "cns": "04.015",
+    "ins": "301",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/114.html"
+  },
+  {
+    "id": 115,
+    "name_cn": "抗坏血酸棕榈酸酯",
+    "name_en": "ascorbyl palmitate",
+    "cns": "04.011",
+    "ins": "304",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/115.html"
+  },
+  {
+    "id": 116,
+    "name_cn": "抗坏血酸棕榈酸酯（酶法）",
+    "name_en": "ascorbyl palmitate (enzymatic)",
+    "cns": "04.024",
+    "ins": "304",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/116.html"
+  },
+  {
+    "id": 117,
+    "name_cn": "可得然胶",
+    "name_en": "curdlan",
+    "cns": "20.042",
+    "ins": "424",
+    "function": "稳定剂和凝固剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/117.html"
+  },
+  {
+    "id": 118,
+    "name_cn": "可可壳色",
+    "name_en": "cocao husk pigment",
+    "cns": "08.118",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/118.html"
+  },
+  {
+    "id": 119,
+    "name_cn": "可溶性大豆多糖",
+    "name_en": "soluble soybean polysaccharide",
+    "cns": "20.044",
+    "ins": "",
+    "function": "增稠剂、乳化剂、被膜剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/119.html"
+  },
+  {
+    "id": 120,
+    "name_cn": "喹啉黄及其铝色淀（包括喹啉黄，喹啉黄铝色淀）",
+    "name_en": "quinoline yellow, quinoline yellow aluminum lake",
+    "cns": "08.016",
+    "ins": "104",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/120.html"
+  },
+  {
+    "id": 121,
+    "name_cn": "辣椒橙",
+    "name_en": "paprika orange",
+    "cns": "08.107",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/121.html"
+  },
+  {
+    "id": 122,
+    "name_cn": "辣椒红",
+    "name_en": "paprika red",
+    "cns": "08.106",
+    "ins": "160c(ii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/122.html"
+  },
+  {
+    "id": 123,
+    "name_cn": "辣椒油树脂",
+    "name_en": "paprika oleoresin",
+    "cns": "00.012",
+    "ins": "160c(i)",
+    "function": "增味剂、着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/123.html"
+  },
+  {
+    "id": 124,
+    "name_cn": "蓝锭果红",
+    "name_en": "uguisukagura red",
+    "cns": "08.136",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/124.html"
+  },
+  {
+    "id": 125,
+    "name_cn": "酪蛋白酸钠（又名酪朊酸钠）",
+    "name_en": "sodium caseinate",
+    "cns": "10.002",
+    "ins": "",
+    "function": "乳化剂、其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/125.html"
+  },
+  {
+    "id": 126,
+    "name_cn": "联苯醚（又名二苯醚）",
+    "name_en": "diphenyl ether (diphenyl oxide)",
+    "cns": "17.022",
+    "ins": "",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/126.html"
+  },
+  {
+    "id": 127,
+    "name_cn": "亮蓝及其铝色淀（包括亮蓝，亮蓝铝色淀）",
+    "name_en": "brilliant blue, brilliant blue aluminum lake",
+    "cns": "08.007",
+    "ins": "133",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/127.html"
+  },
+  {
+    "id": 128,
+    "name_cn": "磷酸及磷酸盐[包括磷酸，焦磷酸二氢二钠，焦磷酸钠，磷酸二氢钙，磷酸二氢钾，磷酸氢二铵，磷酸氢二钾，磷酸氢钙，磷酸三钙，磷酸三钾，磷酸三钠，多聚磷酸钠（包括六偏磷酸钠），三聚磷酸钠，磷酸二氢钠，磷酸氢二钠，焦磷酸四钾，焦磷酸一氢三钠，聚偏磷酸钾，酸式焦磷酸钙]",
+    "name_en": "phosphoric acid, disodium dihydrogen pyrophosphate, tetrasodium pyrophosphate, calcium dihydrogen phosphate, potassium dihydrogen phosphate, diammonium hydrogen phosphate, dipotassium hydrogen phosphate, calcium hydrogen phosphate (dicalcium orthophosphate), tricalcium orthophosphate (calcium phosphate), tripotassium orthophosphate, trisodium orthophosphate, sodium polyphosphate, sodium tripolyphosphate, sodium dihydrogen phosphate, disodium hydrogen phosphate, tetrapotassium pyrophosphate, trisodium monohydrogen diphosphate, potassium polymetaphosphate, calcium acid pyrophosphate",
+    "cns": "01.106,15.008,15.004,15.007,15.010,06.008,15.009,06.006,02.003,01.308,15.001,15.002,15.003,15.005,15.006,15.017,15.013,15.015,15.016",
+    "ins": "338,450(i),450(iii),341(i),340(i),342(ii),340(ii),341(ii),341(iii),340(iii),339(iii),452(i),451(i),339(i),339(ii),450(v),450(ii),452(ii),450(vii)",
+    "function": "水分保持剂、膨松剂、酸度调节剂、稳定剂、凝固剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/128.html"
+  },
+  {
+    "id": 130,
+    "name_cn": "磷酸化二淀粉磷酸酯",
+    "name_en": "phosphated distarch phosphate",
+    "cns": "20.017",
+    "ins": "1413",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/130.html"
+  },
+  {
+    "id": 131,
+    "name_cn": "磷酸酯双淀粉",
+    "name_en": "distarch phosphate",
+    "cns": "20.034",
+    "ins": "1412",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/131.html"
+  },
+  {
+    "id": 132,
+    "name_cn": "磷脂",
+    "name_en": "phospholipid",
+    "cns": "04.010",
+    "ins": "322",
+    "function": "抗氧化剂、乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/132.html"
+  },
+  {
+    "id": 133,
+    "name_cn": "硫代二丙酸二月桂酯",
+    "name_en": "dilauryl thiodipropionate",
+    "cns": "04.012",
+    "ins": "389",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/133.html"
+  },
+  {
+    "id": 134,
+    "name_cn": "硫磺",
+    "name_en": "sulfur (sulphur)",
+    "cns": "05.007",
+    "ins": "",
+    "function": "漂白剂、防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/134.html"
+  },
+  {
+    "id": 135,
+    "name_cn": "硫酸钙（又名石膏）",
+    "name_en": "calcium sulfate",
+    "cns": "18.001",
+    "ins": "516",
+    "function": "稳定剂和凝固剂、增稠剂、酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/135.html"
+  },
+  {
+    "id": 136,
+    "name_cn": "硫酸铝钾（又名钾明矾），硫酸铝铵（又名铵明矾）",
+    "name_en": "aluminium potassium sulfate, aluminium ammonium sulfate",
+    "cns": "06.004,06.005",
+    "ins": "522,523",
+    "function": "膨松剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/136.html"
+  },
+  {
+    "id": 137,
+    "name_cn": "硫酸镁",
+    "name_en": "magnesium sulfate",
+    "cns": "00.021",
+    "ins": "518",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/137.html"
+  },
+  {
+    "id": 138,
+    "name_cn": "硫酸锌",
+    "name_en": "zinc sulfate",
+    "cns": "00.018",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/138.html"
+  },
+  {
+    "id": 139,
+    "name_cn": "硫酸亚铁",
+    "name_en": "ferrous sulfate",
+    "cns": "00.022",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/139.html"
+  },
+  {
+    "id": 140,
+    "name_cn": "罗汉果甜苷",
+    "name_en": "lo-han-kuo extract",
+    "cns": "19.015",
+    "ins": "",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/140.html"
+  },
+  {
+    "id": 141,
+    "name_cn": "罗望子多糖胶",
+    "name_en": "tamarind polysaccharide gum",
+    "cns": "20.011",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/141.html"
+  },
+  {
+    "id": 142,
+    "name_cn": "萝卜红",
+    "name_en": "radish red",
+    "cns": "08.117",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/142.html"
+  },
+  {
+    "id": 143,
+    "name_cn": "氯化钙",
+    "name_en": "calcium chloride",
+    "cns": "18.002",
+    "ins": "509",
+    "function": "稳定剂和凝固剂、增稠剂、其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/143.html"
+  },
+  {
+    "id": 144,
+    "name_cn": "氯化钾",
+    "name_en": "potassium chloride",
+    "cns": "00.008",
+    "ins": "508",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/144.html"
+  },
+  {
+    "id": 145,
+    "name_cn": "氯化镁",
+    "name_en": "magnesium chloride",
+    "cns": "18.003",
+    "ins": "511",
+    "function": "稳定剂和凝固剂、增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/145.html"
+  },
+  {
+    "id": 146,
+    "name_cn": "吗啉脂肪酸盐果蜡",
+    "name_en": "morpholine fatty acid salt (fruit wax)",
+    "cns": "14.004",
+    "ins": "",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/146.html"
+  },
+  {
+    "id": 147,
+    "name_cn": "麦芽糖醇，麦芽糖醇液",
+    "name_en": "maltitol and maltitol syrup",
+    "cns": "19.005,19.022",
+    "ins": "965(i),965(ii)",
+    "function": "甜味剂、稳定剂、水分保持剂、乳化剂、膨松剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/147.html"
+  },
+  {
+    "id": 148,
+    "name_cn": "没食子酸丙酯（简称“PG”）",
+    "name_en": "propyl gallate (PG)",
+    "cns": "04.003",
+    "ins": "310",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/148.html"
+  },
+  {
+    "id": 149,
+    "name_cn": "玫瑰茄红",
+    "name_en": "roselle red",
+    "cns": "08.125",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/149.html"
+  },
+  {
+    "id": 150,
+    "name_cn": "酶解大豆磷脂",
+    "name_en": "enzymatically decomposed soybean phospholipid",
+    "cns": "10.040",
+    "ins": "",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/150.html"
+  },
+  {
+    "id": 151,
+    "name_cn": "迷迭香提取物",
+    "name_en": "rosemary extract",
+    "cns": "04.017",
+    "ins": "392",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/151.html"
+  },
+  {
+    "id": 152,
+    "name_cn": "明胶",
+    "name_en": "gelatin",
+    "cns": "20.002",
+    "ins": "428",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/152.html"
+  },
+  {
+    "id": 153,
+    "name_cn": "木松香甘油酯",
+    "name_en": "glycerol ester of wood rosin",
+    "cns": "10.041",
+    "ins": "445(iii)",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/153.html"
+  },
+  {
+    "id": 154,
+    "name_cn": "木糖醇",
+    "name_en": "xylitol",
+    "cns": "19.007",
+    "ins": "967",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/154.html"
+  },
+  {
+    "id": 155,
+    "name_cn": "木糖醇酐单硬脂酸酯",
+    "name_en": "xylitan monostearate",
+    "cns": "10.007",
+    "ins": "",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/155.html"
+  },
+  {
+    "id": 156,
+    "name_cn": "纳他霉素",
+    "name_en": "natamycin",
+    "cns": "17.030",
+    "ins": "235",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/156.html"
+  },
+  {
+    "id": 157,
+    "name_cn": "5’-鸟苷酸二钠",
+    "name_en": "disodium 5'-guanylate",
+    "cns": "12.002",
+    "ins": "627",
+    "function": "增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/157.html"
+  },
+  {
+    "id": 158,
+    "name_cn": "柠檬黄及其铝色淀（包括柠檬黄，柠檬黄铝色淀）",
+    "name_en": "tartrazine, tartrazine aluminum lake",
+    "cns": "08.005",
+    "ins": "102",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/158.html"
+  },
+  {
+    "id": 159,
+    "name_cn": "柠檬酸",
+    "name_en": "citric acid",
+    "cns": "01.101",
+    "ins": "330",
+    "function": "酸度调节剂、抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/159.html"
+  },
+  {
+    "id": 160,
+    "name_cn": "柠檬酸钾",
+    "name_en": "tripotassium citrate",
+    "cns": "01.304",
+    "ins": "332(ii)",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/160.html"
+  },
+  {
+    "id": 161,
+    "name_cn": "柠檬酸钠",
+    "name_en": "trisodium citrate",
+    "cns": "01.303",
+    "ins": "331(iii)",
+    "function": "酸度调节剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/161.html"
+  },
+  {
+    "id": 162,
+    "name_cn": "柠檬酸铁铵",
+    "name_en": "ferric ammonium citrate",
+    "cns": "02.010",
+    "ins": "381",
+    "function": "抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/162.html"
+  },
+  {
+    "id": 163,
+    "name_cn": "柠檬酸亚锡二钠",
+    "name_en": "disodium stannous citrate",
+    "cns": "18.006",
+    "ins": "",
+    "function": "稳定剂和凝固剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/163.html"
+  },
+  {
+    "id": 164,
+    "name_cn": "柠檬酸一钠",
+    "name_en": "sodium dihydrogen citrate",
+    "cns": "01.306",
+    "ins": "331(i)",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/164.html"
+  },
+  {
+    "id": 165,
+    "name_cn": "柠檬酸脂肪酸甘油酯",
+    "name_en": "citric and fatty acid esters of glycerol",
+    "cns": "10.032",
+    "ins": "472c",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/165.html"
+  },
+  {
+    "id": 166,
+    "name_cn": "DL-苹果酸钠",
+    "name_en": "sodium DL-malate",
+    "cns": "01.314",
+    "ins": "350（ii）",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/166.html"
+  },
+  {
+    "id": 167,
+    "name_cn": "L-苹果酸",
+    "name_en": "L-malic acid",
+    "cns": "01.104",
+    "ins": "",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/167.html"
+  },
+  {
+    "id": 168,
+    "name_cn": "L-苹果酸钠",
+    "name_en": "L- (-)-malic acid disodium salt",
+    "cns": "01.315",
+    "ins": "",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/168.html"
+  },
+  {
+    "id": 169,
+    "name_cn": "DL-苹果酸",
+    "name_en": "DL -malic acid",
+    "cns": "01.309",
+    "ins": "296",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/169.html"
+  },
+  {
+    "id": 170,
+    "name_cn": "偏酒石酸",
+    "name_en": "metatartaric acid",
+    "cns": "01.105",
+    "ins": "353",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/170.html"
+  },
+  {
+    "id": 171,
+    "name_cn": "葡萄皮红",
+    "name_en": "grape skin extract",
+    "cns": "08.135",
+    "ins": "163(ii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/171.html"
+  },
+  {
+    "id": 172,
+    "name_cn": "葡萄糖酸-δ-内酯",
+    "name_en": "glucono delta-lactone",
+    "cns": "18.007",
+    "ins": "575",
+    "function": "稳定和凝固剂、酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/172.html"
+  },
+  {
+    "id": 173,
+    "name_cn": "葡萄糖酸钠",
+    "name_en": "sodium gluconate",
+    "cns": "01.312",
+    "ins": "576",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/173.html"
+  },
+  {
+    "id": 174,
+    "name_cn": "葡萄糖酸亚铁",
+    "name_en": "ferrous gluconate",
+    "cns": "09.005",
+    "ins": "579",
+    "function": "护色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/174.html"
+  },
+  {
+    "id": 175,
+    "name_cn": "普鲁兰多糖",
+    "name_en": "pullulan",
+    "cns": "14.011",
+    "ins": "1204",
+    "function": "被膜剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/175.html"
+  },
+  {
+    "id": 176,
+    "name_cn": "羟丙基淀粉",
+    "name_en": "hydroxypropyl starch",
+    "cns": "20.014",
+    "ins": "1440",
+    "function": "增稠剂、膨松剂、乳化剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/176.html"
+  },
+  {
+    "id": 177,
+    "name_cn": "羟丙基二淀粉磷酸酯",
+    "name_en": "hydroxypropyl distarch phosphate",
+    "cns": "20.016",
+    "ins": "1442",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/177.html"
+  },
+  {
+    "id": 178,
+    "name_cn": "羟丙基甲基纤维素（简称“HPMC”）",
+    "name_en": "hydroxypropyl methyl cellulose",
+    "cns": "20.028",
+    "ins": "464",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/178.html"
+  },
+  {
+    "id": 179,
+    "name_cn": "羟基硬脂精（又名氧化硬脂精）",
+    "name_en": "oxystearin",
+    "cns": "00.017",
+    "ins": "387",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/179.html"
+  },
+  {
+    "id": 180,
+    "name_cn": "氢化松香甘油酯",
+    "name_en": "glycerol ester of hydrogenated rosin",
+    "cns": "10.013",
+    "ins": "",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/180.html"
+  },
+  {
+    "id": 181,
+    "name_cn": "氢氧化钙",
+    "name_en": "calcium hydroxide",
+    "cns": "01.202",
+    "ins": "526",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/181.html"
+  },
+  {
+    "id": 182,
+    "name_cn": "氢氧化钾",
+    "name_en": "potassium hydroxide",
+    "cns": "01.203",
+    "ins": "525",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/182.html"
+  },
+  {
+    "id": 183,
+    "name_cn": "琼脂",
+    "name_en": "agar",
+    "cns": "20.001",
+    "ins": "406",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/183.html"
+  },
+  {
+    "id": 184,
+    "name_cn": "日落黄及其铝色淀（包括日落黄，日落黄铝色淀）",
+    "name_en": "sunset yellow, sunset yellow aluminum lake",
+    "cns": "08.006",
+    "ins": "110",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/184.html"
+  },
+  {
+    "id": 185,
+    "name_cn": "溶菌酶",
+    "name_en": "lysozyme",
+    "cns": "17.035",
+    "ins": "1105",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/185.html"
+  },
+  {
+    "id": 186,
+    "name_cn": "肉桂醛",
+    "name_en": "cinnamaldehyde",
+    "cns": "17.012",
+    "ins": "",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/186.html"
+  },
+  {
+    "id": 187,
+    "name_cn": "乳酸",
+    "name_en": "lactic acid",
+    "cns": "01.102",
+    "ins": "270",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/187.html"
+  },
+  {
+    "id": 188,
+    "name_cn": "乳酸钙",
+    "name_en": "calcium lactate",
+    "cns": "01.310",
+    "ins": "327",
+    "function": "酸度调节剂、抗氧化剂、乳化剂、稳定剂和凝固剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/188.html"
+  },
+  {
+    "id": 189,
+    "name_cn": "乳酸钾",
+    "name_en": "potassium lactate",
+    "cns": "15.011",
+    "ins": "326",
+    "function": "水分保持剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/189.html"
+  },
+  {
+    "id": 190,
+    "name_cn": "乳酸链球菌素",
+    "name_en": "nisin",
+    "cns": "17.019",
+    "ins": "234",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/190.html"
+  },
+  {
+    "id": 191,
+    "name_cn": "乳酸钠",
+    "name_en": "sodium lactate",
+    "cns": "15.012",
+    "ins": "325",
+    "function": "水分保持剂、酸度调节剂、抗氧化剂、膨松剂、增稠剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/191.html"
+  },
+  {
+    "id": 192,
+    "name_cn": "乳酸脂肪酸甘油酯",
+    "name_en": "lactic and fatty acid esters of glycerol",
+    "cns": "10.031",
+    "ins": "472b",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/192.html"
+  },
+  {
+    "id": 193,
+    "name_cn": "乳糖醇（又名4－β－D吡喃半乳糖－D－山梨醇）",
+    "name_en": "lactitol",
+    "cns": "19.014",
+    "ins": "966",
+    "function": "乳化剂、稳定剂、增稠剂、甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/193.html"
+  },
+  {
+    "id": 194,
+    "name_cn": "乳糖酶",
+    "name_en": "lactase",
+    "cns": "00.023",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/194.html"
+  },
+  {
+    "id": 195,
+    "name_cn": "三氯蔗糖（又名蔗糖素）",
+    "name_en": "sucralose",
+    "cns": "19.016",
+    "ins": "955",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/195.html"
+  },
+  {
+    "id": 196,
+    "name_cn": "三赞胶",
+    "name_en": "sanzan gum",
+    "cns": "20.047",
+    "ins": "",
+    "function": "增稠剂、稳定剂、凝固剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/196.html"
+  },
+  {
+    "id": 197,
+    "name_cn": "桑椹红",
+    "name_en": "mulberry red",
+    "cns": "08.129",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/197.html"
+  },
+  {
+    "id": 198,
+    "name_cn": "沙蒿胶",
+    "name_en": "rtemisia gum (sa-hao seed gum)",
+    "cns": "20.037",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/198.html"
+  },
+  {
+    "id": 199,
+    "name_cn": "沙棘黄",
+    "name_en": "hippophae rhamnoides yellow",
+    "cns": "08.124",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/199.html"
+  },
+  {
+    "id": 200,
+    "name_cn": "司盘类[包括山梨醇酐单月桂酸酯（又名司盘20），山梨醇酐单棕榈酸酯（又名司盘40），山梨醇酐单硬脂酸酯（又名司盘60），山梨醇酐三硬脂酸酯（又名司盘65），山梨醇酐单油酸酯（又名司盘80）]",
+    "name_en": "sorbitan esters of fatty acids, sorbitan monolaurate, sorbitan monopalmitate, sorbitan monostearate, sorbitan tristearate, sorbitan monooleate",
+    "cns": "10.024,10.008,10.003,10.004,10.005",
+    "ins": "493,495,491,492,494",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/200.html"
+  },
+  {
+    "id": 201,
+    "name_cn": "山梨酸及其钾盐（包括山梨酸，山梨酸钾）",
+    "name_en": "sorbic acid, potassium sorbate",
+    "cns": "17.003,17.004",
+    "ins": "200,202",
+    "function": "防腐剂、抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/201.html"
+  },
+  {
+    "id": 202,
+    "name_cn": "山梨糖醇，山梨糖醇液",
+    "name_en": "sorbitol and sorbitol syrup",
+    "cns": "19.006,19.023",
+    "ins": "420(i),420(ii)",
+    "function": "甜味剂、膨松剂、乳化剂、水分保持剂、稳定剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/202.html"
+  },
+  {
+    "id": 203,
+    "name_cn": "双乙酸钠（又名二醋酸钠）",
+    "name_en": "sodium diacetate",
+    "cns": "17.013",
+    "ins": "262(ii)",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/203.html"
+  },
+  {
+    "id": 204,
+    "name_cn": "双乙酰酒石酸单双甘油酯（简称“DATEM”）",
+    "name_en": "diacetyle tartaric acid esters of mono (di)glycerides (DATEM)",
+    "cns": "10.010",
+    "ins": "472e",
+    "function": "乳化剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/204.html"
+  },
+  {
+    "id": 205,
+    "name_cn": "松香季戊四醇酯",
+    "name_en": "pentaerythritol ester of wood rosin",
+    "cns": "14.005",
+    "ins": "",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/205.html"
+  },
+  {
+    "id": 206,
+    "name_cn": "酸处理淀粉",
+    "name_en": "acid treated starch",
+    "cns": "20.032",
+    "ins": "1401",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/206.html"
+  },
+  {
+    "id": 207,
+    "name_cn": "酸性红（又名偶氮玉红）",
+    "name_en": "carmoisine (azorubine)",
+    "cns": "08.013",
+    "ins": "122",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/207.html"
+  },
+  {
+    "id": 208,
+    "name_cn": "羧甲基淀粉钠",
+    "name_en": "sodium carboxy methyl starch",
+    "cns": "20.012",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/208.html"
+  },
+  {
+    "id": 209,
+    "name_cn": "羧甲基纤维素钠",
+    "name_en": "sodium carboxy methyl cellulose",
+    "cns": "20.003",
+    "ins": "466",
+    "function": "增稠剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/209.html"
+  },
+  {
+    "id": 210,
+    "name_cn": "索马甜",
+    "name_en": "thaumatin",
+    "cns": "19.020",
+    "ins": "957",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/210.html"
+  },
+  {
+    "id": 211,
+    "name_cn": "碳酸铵",
+    "name_en": "ammonium carbonate",
+    "cns": "06.009",
+    "ins": "503(i)",
+    "function": "膨松剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/211.html"
+  },
+  {
+    "id": 212,
+    "name_cn": "碳酸钙（包括轻质碳酸钙，重质碳酸钙）",
+    "name_en": "calcium carbonate (light and heavy)",
+    "cns": "13.006",
+    "ins": "170(i)",
+    "function": "膨松剂、面粉处理剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/212.html"
+  },
+  {
+    "id": 213,
+    "name_cn": "碳酸钾",
+    "name_en": "potassium carbonate",
+    "cns": "01.301",
+    "ins": "501(i)",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/213.html"
+  },
+  {
+    "id": 214,
+    "name_cn": "碳酸镁（包括轻质碳酸镁，重质碳酸镁）",
+    "name_en": "magnesium carbonate",
+    "cns": "13.005",
+    "ins": "504(i)",
+    "function": "面粉处理剂、膨松剂、稳定剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/214.html"
+  },
+  {
+    "id": 215,
+    "name_cn": "碳酸钠",
+    "name_en": "sodium carbonate",
+    "cns": "01.302",
+    "ins": "500(i)",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/215.html"
+  },
+  {
+    "id": 216,
+    "name_cn": "碳酸氢铵",
+    "name_en": "ammonium hydrogen carbonate",
+    "cns": "06.002",
+    "ins": "503(ii)",
+    "function": "膨松剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/216.html"
+  },
+  {
+    "id": 217,
+    "name_cn": "碳酸氢钾",
+    "name_en": "potassium hydrogen carbonate",
+    "cns": "01.307",
+    "ins": "501(ii)",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/217.html"
+  },
+  {
+    "id": 218,
+    "name_cn": "碳酸氢钠",
+    "name_en": "sodium hydrogen carbonate",
+    "cns": "06.001",
+    "ins": "500(ii)",
+    "function": "膨松剂、酸度调节剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/218.html"
+  },
+  {
+    "id": 219,
+    "name_cn": "碳酸氢三钠（又名倍半碳酸钠）",
+    "name_en": "sodium sesquicarbonate",
+    "cns": "01.305",
+    "ins": "500(iii)",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/219.html"
+  },
+  {
+    "id": 220,
+    "name_cn": "糖精钠",
+    "name_en": "sodium saccharin",
+    "cns": "19.001",
+    "ins": "954(iv)",
+    "function": "甜味剂、增味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/220.html"
+  },
+  {
+    "id": 221,
+    "name_cn": "特丁基对苯二酚（简称“TBHQ”）",
+    "name_en": "tertiary butylhydroquinone (TBHQ)",
+    "cns": "04.007",
+    "ins": "319",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/221.html"
+  },
+  {
+    "id": 222,
+    "name_cn": "阿力甜（又名L-α-天冬氨酰-N-（2，2，4，4-四甲基-3-硫化三亚甲基）-D-丙氨酰胺）",
+    "name_en": "alitame",
+    "cns": "19.013",
+    "ins": "956",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/222.html"
+  },
+  {
+    "id": 223,
+    "name_cn": "阿斯巴甜（又名天门冬酰苯丙氨酸甲酯）",
+    "name_en": "aspartame",
+    "cns": "19.004",
+    "ins": "951",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/223.html"
+  },
+  {
+    "id": 224,
+    "name_cn": "天门冬酰苯丙氨酸甲酯乙酰磺胺酸",
+    "name_en": "aspartame-acesulfame salt",
+    "cns": "19.021",
+    "ins": "962",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/224.html"
+  },
+  {
+    "id": 225,
+    "name_cn": "天然胡萝卜素",
+    "name_en": "natural carotene",
+    "cns": "08.147",
+    "ins": "160a(ii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/225.html"
+  },
+  {
+    "id": 226,
+    "name_cn": "天然苋菜红",
+    "name_en": "natural amaranthus red",
+    "cns": "08.130",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/226.html"
+  },
+  {
+    "id": 227,
+    "name_cn": "田菁胶",
+    "name_en": "sesbania gum",
+    "cns": "20.021",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/227.html"
+  },
+  {
+    "id": 228,
+    "name_cn": "甜菜红",
+    "name_en": "beet red",
+    "cns": "08.101",
+    "ins": "162",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/228.html"
+  },
+  {
+    "id": 229,
+    "name_cn": "甜菊糖苷",
+    "name_en": "steviol glycosides",
+    "cns": "19.008",
+    "ins": "960a",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/229.html"
+  },
+  {
+    "id": 293,
+    "name_cn": "甜菊糖苷（发酵法）",
+    "name_en": "Steviol glycosides from fermentation",
+    "cns": "",
+    "ins": "",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/293.html"
+  },
+  {
+    "id": 230,
+    "name_cn": "脱氢乙酸及其钠盐（包括脱氢乙酸，脱氢乙酸钠）",
+    "name_en": "dehydroacetic acid, sodium dehydroacetate",
+    "cns": "17.009(i),17.009 (ii)",
+    "ins": "265,266",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/230.html"
+  },
+  {
+    "id": 231,
+    "name_cn": "脱乙酰甲壳素（又名壳聚糖）",
+    "name_en": "deacetylated chitin (chitosan)",
+    "cns": "20.026",
+    "ins": "",
+    "function": "增稠剂、被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/231.html"
+  },
+  {
+    "id": 232,
+    "name_cn": "微晶纤维素",
+    "name_en": "microcrystallin cellulose",
+    "cns": "02.005",
+    "ins": "460(i)",
+    "function": "抗结剂、增稠剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/232.html"
+  },
+  {
+    "id": 233,
+    "name_cn": "维生素E（包括dl-α-生育酚，d-α-生育酚，混合生育酚浓缩物）",
+    "name_en": "vitamine E (dl-α-tocopherol , d-α- tocopherol , mixed tocopherol concentrate)",
+    "cns": "04.016",
+    "ins": "307",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/233.html"
+  },
+  {
+    "id": 234,
+    "name_cn": "稳定态二氧化氯",
+    "name_en": "stabilized chlorine dioxide",
+    "cns": "17.028",
+    "ins": "926",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/234.html"
+  },
+  {
+    "id": 235,
+    "name_cn": "纤维素",
+    "name_en": "cellulose",
+    "cns": "02.012",
+    "ins": "460",
+    "function": "抗结剂、稳定剂和凝固剂、增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/235.html"
+  },
+  {
+    "id": 236,
+    "name_cn": "苋菜红及其铝色淀（包括苋菜红，苋菜红铝色淀）",
+    "name_en": "amaranth, amaranth aluminum lake",
+    "cns": "08.001",
+    "ins": "123",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/236.html"
+  },
+  {
+    "id": 237,
+    "name_cn": "橡子壳棕",
+    "name_en": "acorn shell brown",
+    "cns": "08.126",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/237.html"
+  },
+  {
+    "id": 238,
+    "name_cn": "硝酸钠，硝酸钾",
+    "name_en": "sodium nitrate, potassium nitrate",
+    "cns": "09.001,09.003",
+    "ins": "251,252",
+    "function": "护色剂、防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/238.html"
+  },
+  {
+    "id": 239,
+    "name_cn": "辛，癸酸甘油酯",
+    "name_en": "octyl and decyl glycerate",
+    "cns": "10.018",
+    "ins": "",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/239.html"
+  },
+  {
+    "id": 240,
+    "name_cn": "辛烯基琥珀酸淀粉钠",
+    "name_en": "starch sodium octenyl succinate",
+    "cns": "10.030",
+    "ins": "1450",
+    "function": "乳化剂，其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/240.html"
+  },
+  {
+    "id": 241,
+    "name_cn": "新红及其铝色淀（包括新红，新红铝色淀）",
+    "name_en": "new red, new red aluminum lake",
+    "cns": "08.004",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/241.html"
+  },
+  {
+    "id": 242,
+    "name_cn": "亚麻籽胶（又名富兰克胶）",
+    "name_en": "linseed gum",
+    "cns": "20.020",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/242.html"
+  },
+  {
+    "id": 243,
+    "name_cn": "亚铁氰化钾，亚铁氰化钠",
+    "name_en": "potassium ferrocyanide, sodium ferrocyanide",
+    "cns": "02.001,02.008",
+    "ins": "536,535",
+    "function": "抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/243.html"
+  },
+  {
+    "id": 244,
+    "name_cn": "亚硝酸钠，亚硝酸钾",
+    "name_en": "sodium nitrite, potassium nitrite",
+    "cns": "09.002,09.004",
+    "ins": "250,249",
+    "function": "护色剂、防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/244.html"
+  },
+  {
+    "id": 245,
+    "name_cn": "胭脂虫红及其铝色淀（包括胭脂虫红，胭脂虫红铝色淀）",
+    "name_en": "carmine cochineal, carmine cochineal aluminum lake",
+    "cns": "08.145",
+    "ins": "120",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/245.html"
+  },
+  {
+    "id": 246,
+    "name_cn": "胭脂红及其铝色淀（包括胭脂红，胭脂红铝色淀）",
+    "name_en": "ponceau 4R, ponceau 4R aluminum lake",
+    "cns": "08.002",
+    "ins": "124",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/246.html"
+  },
+  {
+    "id": 247,
+    "name_cn": "胭脂树橙（又名红木素，降红木素）",
+    "name_en": "annatto extracts",
+    "cns": "08.144",
+    "ins": "160b",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/247.html"
+  },
+  {
+    "id": 248,
+    "name_cn": "盐酸",
+    "name_en": "hydrochloric acid",
+    "cns": "01.108",
+    "ins": "507",
+    "function": "酸度调节剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/248.html"
+  },
+  {
+    "id": 249,
+    "name_cn": "杨梅红",
+    "name_en": "mynica red",
+    "cns": "08.149",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/249.html"
+  },
+  {
+    "id": 250,
+    "name_cn": "氧化淀粉",
+    "name_en": "oxidized starch",
+    "cns": "20.030",
+    "ins": "1404",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/250.html"
+  },
+  {
+    "id": 251,
+    "name_cn": "氧化羟丙基淀粉",
+    "name_en": "oxidized hydroxypropyl starch",
+    "cns": "20.033",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/251.html"
+  },
+  {
+    "id": 252,
+    "name_cn": "氧化铁黑，氧化铁红",
+    "name_en": "iron oxide black, iron oxide red",
+    "cns": "08.014,08.015",
+    "ins": "172(i),172(ii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/252.html"
+  },
+  {
+    "id": 253,
+    "name_cn": "叶黄素",
+    "name_en": "lutein",
+    "cns": "08.146",
+    "ins": "161b(i)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/253.html"
+  },
+  {
+    "id": 254,
+    "name_cn": "叶绿素铜",
+    "name_en": "copper chlorophyll",
+    "cns": "08.153",
+    "ins": "141(i)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/254.html"
+  },
+  {
+    "id": 255,
+    "name_cn": "叶绿素铜钠盐，叶绿素铜钾盐",
+    "name_en": "chlorophyllin copper complex, sodium and potassium salts",
+    "cns": "08.009,08.155",
+    "ins": "141(ii)",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/255.html"
+  },
+  {
+    "id": 256,
+    "name_cn": "液体二氧化碳（煤气化法）",
+    "name_en": "carbon dioxide",
+    "cns": "17.034",
+    "ins": "",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/256.html"
+  },
+  {
+    "id": 257,
+    "name_cn": "乙二胺四乙酸二钠",
+    "name_en": "disodium ethylene-diamine-tetra-acetate (disodium EDTA)",
+    "cns": "18.005",
+    "ins": "386",
+    "function": "稳定剂、凝固剂、抗氧化剂、防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/257.html"
+  },
+  {
+    "id": 258,
+    "name_cn": "乙二胺四乙酸二钠钙",
+    "name_en": "calcium disodium ethylene-diamine-tetra-acetate (calcium disodium EDTA)",
+    "cns": "04.020",
+    "ins": "385",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/258.html"
+  },
+  {
+    "id": 259,
+    "name_cn": "乙酸钠（又名醋酸钠）",
+    "name_en": "sodium acetate",
+    "cns": "00.013",
+    "ins": "262(i)",
+    "function": "酸度调节剂、防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/259.html"
+  },
+  {
+    "id": 260,
+    "name_cn": "乙酰化单、双甘油脂肪酸酯",
+    "name_en": "acetylated mono- and diglyceride (acetic and fatty acid esters of glycerol)",
+    "cns": "10.027",
+    "ins": "472a",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/260.html"
+  },
+  {
+    "id": 261,
+    "name_cn": "乙酰化二淀粉磷酸酯",
+    "name_en": "acetylated distarch phosphate",
+    "cns": "20.015",
+    "ins": "1414",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/261.html"
+  },
+  {
+    "id": 262,
+    "name_cn": "乙酰化双淀粉己二酸酯",
+    "name_en": "acetylated distarch adipate",
+    "cns": "20.031",
+    "ins": "1422",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/262.html"
+  },
+  {
+    "id": 263,
+    "name_cn": "安赛蜜（又名乙酰磺胺酸钾）",
+    "name_en": "acesulfame potassium",
+    "cns": "19.011",
+    "ins": "950",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/263.html"
+  },
+  {
+    "id": 264,
+    "name_cn": "乙氧基喹",
+    "name_en": "ethoxy quin",
+    "cns": "17.010",
+    "ins": "324",
+    "function": "防腐剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/264.html"
+  },
+  {
+    "id": 265,
+    "name_cn": "D-异抗坏血酸及其钠盐（包括D-异抗坏血酸，D-异抗坏血酸钠）",
+    "name_en": "D-isoascorbic acid (erythorbic acid), sodium D-isoascorbate",
+    "cns": "04.004,04.018",
+    "ins": "315,316",
+    "function": "抗氧化剂、护色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/265.html"
+  },
+  {
+    "id": 266,
+    "name_cn": "异构化乳糖",
+    "name_en": "isomerized lactose",
+    "cns": "00.003",
+    "ins": "",
+    "function": "其他",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/266.html"
+  },
+  {
+    "id": 267,
+    "name_cn": "异麦芽酮糖",
+    "name_en": "isomaltulose (palatinose)",
+    "cns": "19.003",
+    "ins": "",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/267.html"
+  },
+  {
+    "id": 268,
+    "name_cn": "硬脂酸（又名十八烷酸）",
+    "name_en": "stearic acid (octadecanoic acid)",
+    "cns": "14.009",
+    "ins": "570",
+    "function": "被膜剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/268.html"
+  },
+  {
+    "id": 269,
+    "name_cn": "硬脂酸钙",
+    "name_en": "calcium stearate",
+    "cns": "10.039",
+    "ins": "",
+    "function": "乳化剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/269.html"
+  },
+  {
+    "id": 270,
+    "name_cn": "硬脂酸钾",
+    "name_en": "potassium stearate",
+    "cns": "10.028",
+    "ins": "",
+    "function": "乳化剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/270.html"
+  },
+  {
+    "id": 271,
+    "name_cn": "硬脂酸镁",
+    "name_en": "magnesium stearate",
+    "cns": "02.006",
+    "ins": "470(iii)",
+    "function": "乳化剂、抗结剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/271.html"
+  },
+  {
+    "id": 272,
+    "name_cn": "硬脂酰乳酸钠，硬脂酰乳酸钙",
+    "name_en": "sodium stearoyl lactylate, calcium stearoyl lactylate",
+    "cns": "10.011,10.009",
+    "ins": "481(i),482(i)",
+    "function": "乳化剂、稳定剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/272.html"
+  },
+  {
+    "id": 273,
+    "name_cn": "诱惑红及其铝色淀（包括诱惑红，诱惑红铝色淀）",
+    "name_en": "allura red, allura aluminum lake",
+    "cns": "08.012",
+    "ins": "129",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/273.html"
+  },
+  {
+    "id": 274,
+    "name_cn": "玉米黄",
+    "name_en": "corn yellow",
+    "cns": "08.116",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/274.html"
+  },
+  {
+    "id": 275,
+    "name_cn": "越橘红",
+    "name_en": "cowberry red",
+    "cns": "08.105",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/275.html"
+  },
+  {
+    "id": 276,
+    "name_cn": "藻蓝",
+    "name_en": "spirulina blue",
+    "cns": "08.137",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/276.html"
+  },
+  {
+    "id": 277,
+    "name_cn": "皂荚糖胶",
+    "name_en": "gleditsia sinenis lam gum",
+    "cns": "20.029",
+    "ins": "",
+    "function": "增稠剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/277.html"
+  },
+  {
+    "id": 278,
+    "name_cn": "皂树皮提取物",
+    "name_en": "quillaia extract",
+    "cns": "10.042",
+    "ins": "999",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/278.html"
+  },
+  {
+    "id": 279,
+    "name_cn": "蔗糖脂肪酸酯",
+    "name_en": "sucrose esters of fatty acids",
+    "cns": "10.001",
+    "ins": "473",
+    "function": "乳化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/279.html"
+  },
+  {
+    "id": 280,
+    "name_cn": "栀子黄",
+    "name_en": "gardenia yellow",
+    "cns": "08.112",
+    "ins": "164",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/280.html"
+  },
+  {
+    "id": 281,
+    "name_cn": "栀子蓝",
+    "name_en": "gardenia blue",
+    "cns": "08.123",
+    "ins": "165",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/281.html"
+  },
+  {
+    "id": 282,
+    "name_cn": "植酸（又名肌醇六磷酸），植酸钠",
+    "name_en": "phytic acid (inositol hexaphosphoric acid), sodium phytate",
+    "cns": "04.006,04.025",
+    "ins": "391,",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/282.html"
+  },
+  {
+    "id": 283,
+    "name_cn": "植物炭黑",
+    "name_en": "vegetable carbon",
+    "cns": "08.138",
+    "ins": "153",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/283.html"
+  },
+  {
+    "id": 284,
+    "name_cn": "竹叶抗氧化物",
+    "name_en": "antioxidant of bamboo leaves",
+    "cns": "04.019",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/284.html"
+  },
+  {
+    "id": 285,
+    "name_cn": "紫草红",
+    "name_en": "gromwell red",
+    "cns": "08.140",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/285.html"
+  },
+  {
+    "id": 286,
+    "name_cn": "紫甘薯色素",
+    "name_en": "purple sweet potato colour",
+    "cns": "08.154",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/286.html"
+  },
+  {
+    "id": 287,
+    "name_cn": "紫胶（又名虫胶）",
+    "name_en": "shellac",
+    "cns": "14.001",
+    "ins": "904",
+    "function": "被膜剂，胶姆糖基础剂、着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/287.html"
+  },
+  {
+    "id": 288,
+    "name_cn": "紫胶红（又名虫胶红）",
+    "name_en": "lac dye red (lac red)",
+    "cns": "08.104",
+    "ins": "",
+    "function": "着色剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/288.html"
+  },
+  {
+    "id": 289,
+    "name_cn": "混合三烯生育酚浓缩物",
+    "name_en": "Mixed tocotrienol tocopherol concentrate",
+    "cns": "",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/289.html"
+  },
+  {
+    "id": 290,
+    "name_cn": "羟基酪醇",
+    "name_en": "Hydroxytyrosol",
+    "cns": "",
+    "ins": "",
+    "function": "抗氧化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/290.html"
+  },
+  {
+    "id": 291,
+    "name_cn": "氧化镁",
+    "name_en": "Magnesium oxide",
+    "cns": "",
+    "ins": "",
+    "function": "固化剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/291.html"
+  },
+  {
+    "id": 292,
+    "name_cn": "甜菊糖苷（酶转化法）",
+    "name_en": "Enzymatically produced steviol glycosides",
+    "cns": "",
+    "ins": "",
+    "function": "甜味剂",
+    "detail_url": "https://2760.foodmate.net/addtives/faid/292.html"
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "name_cn": "氨水及液氨",
+    "name_en": "ammonia",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "甘油（又名丙三醇）",
+    "name_en": "glycerine (glycerol)",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "丙酮",
+    "name_en": "acetone",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "丙烷",
+    "name_en": "propane",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "单，双甘油脂肪酸酯",
+    "name_en": "mono-and diglycerides of fatty acids",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氮气（液氮）",
+    "name_en": "nitrogen",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "二氧化硅",
+    "name_en": "silicon dioxide",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "二氧化碳",
+    "name_en": "carbon dioxide",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "硅藻土",
+    "name_en": "diatomaceous earth",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "活性炭",
+    "name_en": "activated carbon",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "磷脂",
+    "name_en": "phospholipid",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "硫酸钙",
+    "name_en": "calcium sulfate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "硫酸镁",
+    "name_en": "magnesium sulfate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "硫酸钠",
+    "name_en": "sodium sulfate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氯化铵",
+    "name_en": "ammonium chloride",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氯化钙",
+    "name_en": "calcium chloride",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氯化钾",
+    "name_en": "potassium chloride",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "柠檬酸",
+    "name_en": "citric acid",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氢气",
+    "name_en": "hydrogen",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氢氧化钙",
+    "name_en": "calcium hydroxide",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氢氧化钾",
+    "name_en": "potassium hydroxide",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氢氧化钠",
+    "name_en": "sodium hydroxide",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "乳酸",
+    "name_en": "lactic acid",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "硅酸镁",
+    "name_en": "magnesium trisilicate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "碳酸钙（包括轻质碳酸钙，重质碳酸钙）",
+    "name_en": "calcium carbonate(light, heavy)",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "碳酸钾",
+    "name_en": "potassium carbonate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "碳酸镁（包括轻质碳酸镁，重质碳酸镁）",
+    "name_en": "magnesium carbonate (light, heavy)",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "碳酸钠",
+    "name_en": "sodium carbonate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "碳酸氢钾",
+    "name_en": "potassium hydrogen carbonate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "碳酸氢钠",
+    "name_en": "sodium hydrogen carbonate",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "纤维素",
+    "name_en": "cellulose",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "盐酸",
+    "name_en": "hydrochloric acid",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氧化钙",
+    "name_en": "calcium oxide",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "氧化镁（包括重质氧化镁，轻质氧化镁）",
+    "name_en": "magnesium oxide (heavy, light)",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "乙醇",
+    "name_en": "ethanol",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "冰乙酸（又名冰醋酸）",
+    "name_en": "acetic acid",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "植物活性炭",
+    "name_en": "vegetable carbon (activated)",
+    "function": "加工助剂",
+    "usage_scope": "在各类食品加工过程中使用，残留量不需限定"
+  },
+  {
+    "name_cn": "1-丁醇",
+    "name_en": "1-butanol",
+    "function": "萃取溶剂",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "植物油抽提溶剂",
+    "name_en": "vegetable oils extraction solvent",
+    "function": "浸油溶剂、提取溶剂",
+    "usage_scope": "发酵工艺、油脂加工提取工艺"
+  },
+  {
+    "name_cn": "D-甘露糖醇",
+    "name_en": "D-mannitol",
+    "function": "防黏剂",
+    "usage_scope": "糖果的加工工艺"
+  },
+  {
+    "name_cn": "DL-苹果酸钠",
+    "name_en": "sodium DL-malate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "L-苹果酸",
+    "name_en": "L-malic acid",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "β-环状糊精",
+    "name_en": "β-cyclodextrin",
+    "function": "胆固醇提取剂",
+    "usage_scope": "调制乳、发酵乳和风味发酵乳、稀奶油（淡奶油）及其类似品、干酪、再制干酪、干酪制品及干酪类似品的加工工艺"
+  },
+  {
+    "name_cn": "阿拉伯胶",
+    "name_en": "arabic gum",
+    "function": "澄清剂",
+    "usage_scope": "葡萄酒加工工艺"
+  },
+  {
+    "name_cn": "凹凸棒粘土",
+    "name_en": "attapulgite clay",
+    "function": "脱色剂",
+    "usage_scope": "油脂加工工艺"
+  },
+  {
+    "name_cn": "丙二醇",
+    "name_en": "1,2-propanediol",
+    "function": "冷却剂、消泡剂、提取溶剂",
+    "usage_scope": "啤酒加工工艺、提取工艺"
+  },
+  {
+    "name_cn": "巴西棕榈蜡",
+    "name_en": "carnauba wax",
+    "function": "脱模剂",
+    "usage_scope": "焙烤食品加工工艺、膨化食品加工工艺、蜜饯果糕的加工工艺"
+  },
+  {
+    "name_cn": "白油（液体石蜡）",
+    "name_en": "white mineral oil",
+    "function": "消泡剂、脱模剂、防黏剂、润滑剂",
+    "usage_scope": "薯类的加工工艺、油脂加工工艺、糖果的加工工艺、胶原蛋白肠衣的加工工艺、膨化食品加工工艺、粮食加工工艺（用于防尘）、发酵工艺、豆制品的加工工艺、鲜酵母制品加工工艺（最大使用量为0.1g/kg）"
+  },
+  {
+    "name_cn": "不溶性聚乙烯聚吡咯烷酮",
+    "name_en": "insoluble polyvinylpolypyrrolidone (PVPP)",
+    "function": "吸附剂",
+    "usage_scope": "啤酒、葡萄酒、果酒、黄酒、配制酒的加工工艺和发酵工艺，茶（类）饮料加工工艺"
+  },
+  {
+    "name_cn": "丙酸及其钠盐、钙盐",
+    "name_en": "Propionic acid, sodium propionate, calcium propionate",
+    "function": "发酵用营养物质",
+    "usage_scope": "酵母的生产工艺，残留量≤0.1 g/kg。"
+  },
+  {
+    "name_cn": "单宁（包括食用单宁，固化单宁）",
+    "name_en": "edible tannin",
+    "function": "助滤剂、澄清剂、脱色剂",
+    "usage_scope": "黄酒、啤酒、葡萄酒和配制酒的加工工艺、油脂脱色工艺、发酵工艺。食用单宁作澄清剂时，可用于制糖工艺（2023年第10号公告增补）"
+  },
+  {
+    "name_cn": "丁烷",
+    "name_en": "butane",
+    "function": "提取溶剂、推进剂",
+    "usage_scope": "提取工艺、焙烤食品用喷雾脱模油的加工工艺"
+  },
+  {
+    "name_cn": "蜂蜡",
+    "name_en": "beeswax",
+    "function": "脱模剂",
+    "usage_scope": "焙烤食品加工工艺、膨化食品加工工艺"
+  },
+  {
+    "name_cn": "高岭土",
+    "name_en": "kaolin",
+    "function": "澄清剂、助滤剂",
+    "usage_scope": "葡萄酒、果酒、黄酒、配制酒的加工工艺、发酵工艺"
+  },
+  {
+    "name_cn": "高碳醇脂肪酸酯复合物",
+    "name_en": "higher alcohol fatty acid ester complex",
+    "function": "消泡剂",
+    "usage_scope": "发酵工艺、大豆蛋白加工工艺"
+  },
+  {
+    "name_cn": "硅胶",
+    "name_en": "silica gel",
+    "function": "澄清剂",
+    "usage_scope": "啤酒、葡萄酒、果酒、配制酒和黄酒的加工工艺"
+  },
+  {
+    "name_cn": "硅酸钙",
+    "name_en": "calcium silicate",
+    "function": "助滤剂",
+    "usage_scope": "煎炸油加工工艺，最大使用量为40g/kg"
+  },
+  {
+    "name_cn": "过氧化氢",
+    "name_en": "hydrogen peroxide",
+    "function": "脱硫剂、脱色剂、去碘剂",
+    "usage_scope": "淀粉糖和淀粉加工工艺、油脂加工工艺、海藻加工工艺、胶原蛋白肠衣加工工艺、乳清粉、乳清蛋白粉；酵母衍生制品的加工工艺（2025年第3号公告增补）"
+  },
+  {
+    "name_cn": "滑石粉",
+    "name_en": "talc",
+    "function": "脱模剂、防黏剂",
+    "usage_scope": "糖果的加工工艺、发酵提取工艺"
+  },
+  {
+    "name_cn": "活性白土",
+    "name_en": "activated clay",
+    "function": "澄清剂、食用油脱色剂、吸附剂",
+    "usage_scope": "配制酒的加工工艺和发酵工艺、油脂加工工艺、水处理工艺"
+  },
+  {
+    "name_cn": "甲醇钠",
+    "name_en": "sodium methylate",
+    "function": "油脂酯交换催化剂",
+    "usage_scope": "油脂加工工艺"
+  },
+  {
+    "name_cn": "甲酸钠",
+    "name_en": "Sodium formate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "焦亚硫酸钠",
+    "name_en": "sodium metabisulphite",
+    "function": "黏度调节剂",
+    "usage_scope": "大豆蛋白的加工工艺（仅限大豆分离蛋白、大豆浓缩蛋白），最大使用量为0.03 g/kg （以二氧化硫残留量计）"
+  },
+  {
+    "name_cn": "酒石酸氢钾",
+    "name_en": "potassium bitartrate",
+    "function": "结晶剂",
+    "usage_scope": "葡萄酒加工工艺"
+  },
+  {
+    "name_cn": "聚苯乙烯",
+    "name_en": "polytyrene",
+    "function": "助滤剂",
+    "usage_scope": "啤酒加工工艺"
+  },
+  {
+    "name_cn": "聚丙烯酰胺",
+    "name_en": "polyacrylamide",
+    "function": "絮凝剂、助滤剂",
+    "usage_scope": "饮料加工工艺的水处理工艺、制糖工艺和发酵工艺、制盐工艺"
+  },
+  {
+    "name_cn": "聚二甲基硅氧烷及其乳液（包括聚二甲基硅氧烷，聚二甲基硅氧烷乳液）",
+    "name_en": "polydimethyl siloxane",
+    "function": "消泡剂、脱模剂",
+    "usage_scope": "豆制品加工工艺（最大使用量0.3 g/kg，以每千克豆类的使用量计，以聚二甲基硅氧烷计），肉制品、啤酒加工工艺（上述加工工艺最大使用量0.2 g/kg，以聚二甲基硅氧烷计），焙烤食品工艺（在模具中的最大使用量30mg/dm²，以聚二甲基硅氧烷计），油脂加工及煎炸工艺（最大使用量0.01 g/kg，以聚二甲基硅氧烷计），果冻，果汁，浓缩果汁粉、饮料，速溶食品，冰淇淋、果酱，调味品和蔬菜加工工艺（上述加工工艺最大使用量0.05 g/kg，以聚二甲基硅氧烷计），发酵工艺（最大使用量0.1g/kg，以聚二甲基硅氧烷计），薯类加工工艺（最大使用量为按生产需要适量使用），畜禽血制品加工工艺（最大使用量为0.2 g/kg，以聚二甲基硅氧烷计），酵母加工制品生产加工工艺（最大使用量0.1 g/kg，以聚二甲基硅氧烷计），胶原蛋白肠衣加工工艺"
+  },
+  {
+    "name_cn": "聚甘油脂肪酸酯",
+    "name_en": "polyglycerol esters of fatty acid",
+    "function": "消泡剂",
+    "usage_scope": "制糖工艺"
+  },
+  {
+    "name_cn": "聚氧丙烯甘油醚",
+    "name_en": "Polyoxypropylene glycerol ether (GP)",
+    "function": "消泡剂",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "聚氧丙烯氧化乙烯甘油醚",
+    "name_en": "Polyoxypropyleneoxyethylene\nglycerolether(GPE)",
+    "function": "消泡剂",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "聚氧乙烯（20）山梨醇酐单月桂酸酯（又名吐温20），聚氧乙烯（20）山梨醇酐单棕榈酸酯（又名吐温40），聚氧乙烯（20）山梨醇酐单硬脂酸酯（又名吐温60），聚氧乙烯（20）山梨醇酐单油酸酯（又名吐温80）",
+    "name_en": "polyoxyethylene (20) sorbitan monolaurate, polyoxyethylene (20) sorbitan monopalmitate, polyoxyethylene (20) sorbitan monostearate,  polyoxyethylene (20) sorbitan monooleate",
+    "function": "分散剂、提取溶剂、消泡剂",
+    "usage_scope": "制糖工艺、发酵工艺、提取工艺、果蔬汁（浆）饮料加工工艺（最大使用量为0.75g/kg）、植物蛋白饮料加工工艺（最大使用量为2.0g/kg）、豆类制品加工工艺（最大使用量为0.05g/kg，最大使用量以每千克豆类的使用量计）"
+  },
+  {
+    "name_cn": "聚氧乙烯聚氧丙烯胺醚",
+    "name_en": "polyoxyethylene polyoxypropylene amine ether(BAPE)",
+    "function": "消泡剂",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "聚氧乙烯聚氧丙烯季戊四醇醚",
+    "name_en": "polyoxyethylene polyoxypropylene pentaerythritol ether (PPE)",
+    "function": "消泡剂",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "卡拉胶",
+    "name_en": "carrageenan",
+    "function": "澄清剂",
+    "usage_scope": "啤酒加工工艺"
+  },
+  {
+    "name_cn": "离子交换树脂",
+    "name_en": "ion exchange resins",
+    "function": "脱色剂、吸附剂",
+    "usage_scope": "啤酒、葡萄酒、果酒、配制酒、黄酒、罐头食品的加工工艺、水处理工艺、制糖工艺及糖处理工艺和发酵工艺"
+  },
+  {
+    "name_cn": "磷酸",
+    "name_en": "phosphoric acid",
+    "function": "澄清剂、精炼脱胶、发酵用营养物质、自溶促进剂",
+    "usage_scope": "制糖工艺和油脂加工工艺、发酵工艺、酵母加工制品的生产工艺。注：包括磷酸（湿法），磷酸湿法仅用于制糖工艺、油脂加工工艺、发酵工艺。"
+  },
+  {
+    "name_cn": "磷酸二氢铵",
+    "name_en": "ammonium dihydrogen phosphate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "磷酸氢二铵",
+    "name_en": "diammonium hydrogen phosphate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "磷酸二氢钾",
+    "name_en": "potassium phosphate, monobasic",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "磷酸二氢钠",
+    "name_en": "sodium dihydrogen phosphate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "磷酸三钙",
+    "name_en": "tricalcium orthophosphate (calcium phosphate)",
+    "function": "分散剂",
+    "usage_scope": "乳制品加工工艺"
+  },
+  {
+    "name_cn": "磷酸氢二钠",
+    "name_en": "disodium hydrogen phosphate",
+    "function": "絮凝剂、发酵用营养物质",
+    "usage_scope": "饮料加工工艺的水处理工艺、发酵工艺"
+  },
+  {
+    "name_cn": "磷酸三钠",
+    "name_en": "trisodium phosphate",
+    "function": "絮凝剂、发酵用营养物质",
+    "usage_scope": "饮料加工工艺的水处理工艺、发酵工艺"
+  },
+  {
+    "name_cn": "多聚磷酸钠（包括六偏磷酸钠）",
+    "name_en": "Sodium polyphosphate",
+    "function": "螯合剂",
+    "usage_scope": "乳糖加工工艺（残留量为0.2 g/kg）"
+  },
+  {
+    "name_cn": "硫磺",
+    "name_en": "sulfur",
+    "function": "澄清剂、助分离剂",
+    "usage_scope": "制糖工艺、淀粉加工工艺"
+  },
+  {
+    "name_cn": "硫酸",
+    "name_en": "sulfuric acid",
+    "function": "絮凝剂、发酵用营养物质、中和除皂、破壁",
+    "usage_scope": "啤酒的加工工艺、发酵工艺、淀粉加工工艺、乳制品加工工艺、油脂加工工艺、藻类破壁工艺（2025年第4号公告增补）"
+  },
+  {
+    "name_cn": "硫酸铵",
+    "name_en": "ammonium sulfate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "硫酸锰",
+    "name_en": "manganese sulfate",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "硫酸铜",
+    "name_en": "copper sulphate",
+    "function": "澄清剂、螯合剂、发酵用营养物质",
+    "usage_scope": "葡萄酒的加工工艺、皮蛋的加工工艺、发酵工艺"
+  },
+  {
+    "name_cn": "硫酸锌",
+    "name_en": "zinc sulphate",
+    "function": "螯合剂、絮凝剂、发酵用营养物质",
+    "usage_scope": "皮蛋的加工工艺、啤酒的加工工艺、发酵工艺"
+  },
+  {
+    "name_cn": "硫酸亚铁",
+    "name_en": "ferrous sulfate",
+    "function": "絮凝剂",
+    "usage_scope": "饮料加工工艺的水处理工艺和啤酒的加工工艺"
+  },
+  {
+    "name_cn": "氯化镁",
+    "name_en": "magnesium chloride",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "明胶",
+    "name_en": "gelatin",
+    "function": "澄清剂",
+    "usage_scope": "果酒的加工工艺、葡萄酒的加工工艺"
+  },
+  {
+    "name_cn": "镍",
+    "name_en": "nickel",
+    "function": "催化剂",
+    "usage_scope": "发酵工艺、油脂加工工艺、糖醇加工工艺"
+  },
+  {
+    "name_cn": "膨润土",
+    "name_en": "bentonite",
+    "function": "吸附剂、助滤剂、澄清剂、脱色剂",
+    "usage_scope": "葡萄酒、果酒、黄酒和配制酒、油脂、调味品、果蔬汁、茶饮料、固体饮料的加工工艺、发酵工艺"
+  },
+  {
+    "name_cn": "石蜡",
+    "name_en": "paraffin",
+    "function": "脱模剂、脱毛剂",
+    "usage_scope": "糖果、焙烤食品加工工艺、畜禽脱毛处理工艺"
+  },
+  {
+    "name_cn": "石油醚",
+    "name_en": "petroleum ether",
+    "function": "提取溶剂",
+    "usage_scope": "配制酒的加工工艺、提取工艺"
+  },
+  {
+    "name_cn": "松香甘油酯",
+    "name_en": "glycerol ester of rosin",
+    "function": "脱毛剂",
+    "usage_scope": "畜禽脱毛处理工艺"
+  },
+  {
+    "name_cn": "脱乙酰甲壳素（又名壳聚糖）",
+    "name_en": "deacetylated chitin(chitosan)",
+    "function": "澄清剂",
+    "usage_scope": "果蔬汁类加工工艺、植物饮料类的加工工艺、啤酒和麦芽饮料的加工工艺、制糖工艺（2025年第4号公告增补）"
+  },
+  {
+    "name_cn": "维生素B族",
+    "name_en": "vitamin B family",
+    "function": "发酵用营养物质",
+    "usage_scope": "发酵工艺"
+  },
+  {
+    "name_cn": "五水硫化钠",
+    "name_en": "sodium sulfide pentahydrate",
+    "function": "脱酸剂、脱色剂、沉降剂",
+    "usage_scope": "制盐工艺（最大使用量 0.065 g/kg）"
+  },
+  {
+    "name_cn": "五碳双缩醛（又名戊二醛）",
+    "name_en": "glutaraldehyde",
+    "function": "交联剂",
+    "usage_scope": "胶原蛋白肠衣的加工工艺"
+  },
+  {
+    "name_cn": "辛，癸酸甘油酯",
+    "name_en": "octyl and decyl glycerate",
+    "function": "防黏剂",
+    "usage_scope": "糖果、蜜饯果糕、胶原蛋白肠衣的加工工艺，巧克力和巧克力制品加工工艺（最大使用量为0.08g/kg）"
+  },
+  {
+    "name_cn": "辛烯基琥珀酸淀粉钠",
+    "name_en": "starch sodium octenylsuccinate",
+    "function": "防黏剂",
+    "usage_scope": "胶基糖果加工工艺"
+  },
+  {
+    "name_cn": "氧化亚氮",
+    "name_en": "nitrous oxide",
+    "function": "推进剂、起泡剂",
+    "usage_scope": "水油状脂肪乳化制品（仅限植脂乳）和02.02类以外的脂肪乳化制品，包括混合的和（或）调味的脂肪乳化制品（仅限植脂奶油）的加工工艺、稀奶油（淡奶油）及其类似品的加工工艺"
+  },
+  {
+    "name_cn": "异丙醇",
+    "name_en": "isopropyl alcohol",
+    "function": "提取溶剂",
+    "usage_scope": "提取工艺"
+  },
+  {
+    "name_cn": "乙二胺四乙酸二钠",
+    "name_en": "disodium EDTA",
+    "function": "吸附剂、螯合剂",
+    "usage_scope": "熟制坚果与籽类、啤酒和配制酒的加工工艺、发酵工艺、饮料的加工工艺"
+  },
+  {
+    "name_cn": "乙醚",
+    "name_en": "ether",
+    "function": "提取溶剂",
+    "usage_scope": "配制酒的加工工艺、米糠油加工工艺（残留量≤2 mg/kg）"
+  },
+  {
+    "name_cn": "乙酸钠（又名醋酸钠）",
+    "name_en": "sodium acetate",
+    "function": "螯合剂",
+    "usage_scope": "发酵工艺、淀粉加工工艺"
+  },
+  {
+    "name_cn": "乙酸乙酯",
+    "name_en": "ethyl actetate",
+    "function": "提取溶剂",
+    "usage_scope": "配制酒的加工工艺、酵母抽提物的加工工艺。茶叶提取物的加工工艺（2023年第10号公告增补）、藻类来源的油脂加工工艺[（残留量≤20mg/kg）（2025年第4号公告增补）]"
+  },
+  {
+    "name_cn": "硬脂酸镁",
+    "name_en": "magnesium stearate",
+    "function": "润滑剂、脱模剂、防粘剂",
+    "usage_scope": "泡腾片压片工艺"
+  },
+  {
+    "name_cn": "月桂酸",
+    "name_en": "lauric acid",
+    "function": "脱皮剂",
+    "usage_scope": "果蔬脱皮"
+  },
+  {
+    "name_cn": "蔗糖聚氧丙烯醚",
+    "name_en": "sucrose polyoxypropylene ester",
+    "function": "消泡剂",
+    "usage_scope": "发酵工艺和制糖工艺"
+  },
+  {
+    "name_cn": "蔗糖脂肪酸酯",
+    "name_en": "sucrose esters of fatty acid",
+    "function": "消泡剂",
+    "usage_scope": "制糖工艺、豆制品加工工艺"
+  },
+  {
+    "name_cn": "珍珠岩",
+    "name_en": "pearl rock",
+    "function": "助滤剂",
+    "usage_scope": "啤酒、葡萄酒、果酒和配制酒的加工工艺，发酵工艺，油脂加工工艺，淀粉糖加工工艺"
+  },
+  {
+    "name_cn": "正己烷",
+    "name_en": "n-hexane",
+    "function": "提取溶剂",
+    "usage_scope": "提取工艺、大豆蛋白加工工艺"
+  },
+  {
+    "name_cn": "植物活性炭（稻壳来源）",
+    "name_en": "Vegetable activated carbon (Source of rice husk)",
+    "function": "助滤剂",
+    "usage_scope": "油脂加工工艺"
+  },
+  {
+    "name_cn": "二氯甲烷",
+    "name_en": "Methylene chloride",
+    "function": "提取溶剂",
+    "usage_scope": "茶叶脱咖啡因工艺[(残留量≤2mg/kg)（2024年第3号公告增补）]"
+  }
+]

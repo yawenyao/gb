@@ -1,0 +1,28 @@
+{
+  "source": "https://2760.foodmate.net",
+  "additives_count": 292,
+  "additives_with_usage_count": 292,
+  "categories_count": 388,
+  "processing_aids_count": 118,
+  "enzymes_count": 226,
+  "spices_b1_prohibited_count": 29,
+  "spices_b2_natural_count": 388,
+  "spices_b3_synthetic_count": 1505,
+  "files": [
+    "additives_with_usage.json",
+    "category_usage_details.json",
+    "appendix_d_functions.json",
+    "additives.json",
+    "spices_b2_natural.json",
+    "enzymes.json",
+    "category_usage_for_query.json",
+    "processing_aids.json",
+    "additive_usage_for_query.json",
+    "spices_rules.json",
+    "categories.json",
+    "spices_b3_synthetic.json",
+    "site_rules.json"
+  ],
+  "appendix_d_functions_count": 23,
+  "category_usage_details_count": 388
+}

@@ -1,0 +1,58 @@
+{
+  "source": "https://2760.foodmate.net",
+  "generated_from": "output/foodmate",
+  "files": {
+    "entities/additives.json": {
+      "rows": 292,
+      "description": "添加剂主表"
+    },
+    "entities/categories.json": {
+      "rows": 388,
+      "description": "食品分类主表"
+    },
+    "relations/additive_usage.json": {
+      "rows": 30518,
+      "description": "添加剂-食品分类使用关系（扁平，每条一行）"
+    },
+    "reference/processing_aids.json": {
+      "rows": 118,
+      "description": "processing_aids"
+    },
+    "reference/enzymes.json": {
+      "rows": 226,
+      "description": "enzymes"
+    },
+    "reference/spices_b2_natural.json": {
+      "rows": 388,
+      "description": "spices_b2_natural"
+    },
+    "reference/spices_b3_synthetic.json": {
+      "rows": 1505,
+      "description": "spices_b3_synthetic"
+    },
+    "reference/appendix_d_functions.json": {
+      "rows": 23,
+      "description": "appendix_d_functions"
+    },
+    "reference/site_rules.json": {
+      "rows": 1,
+      "description": "site_rules"
+    },
+    "reference/spices_b1_prohibited.json": {
+      "rows": 29,
+      "description": "表B.1 不得添加香精香料的食品名单"
+    },
+    "reference/spices_rules_principles.json": {
+      "rows": 1,
+      "description": "香精香料使用原则正文"
+    },
+    "index/by_additive.json": {
+      "rows": 292,
+      "description": "按 faid 查添加剂可用分类及使用细节"
+    },
+    "index/by_category.json": {
+      "rows": 388,
+      "description": "按 category_code 查该分类下可用添加剂及使用细则"
+    }
+  }
+}

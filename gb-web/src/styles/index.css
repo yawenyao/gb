@@ -1,0 +1,180 @@
+:root {
+  --color-bg: #f2f4f6;
+  --color-surface: #ffffff;
+  --color-surface-elevated: #f8f9fa;
+  --color-border: #e2e6ea;
+  --color-text: #1a1d21;
+  --color-text-muted: #5c6370;
+  --color-primary: #2563eb;
+  --color-primary-hover: #3b82f6;
+  --color-accent: #059669;
+  --color-accent-muted: #047857;
+  --font-sans: 'Noto Sans SC', system-ui, sans-serif;
+  --radius: 12px;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  --transition: 0.2s ease;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+a:hover {
+  color: var(--color-primary-hover);
+}
+
+input, button {
+  font-family: inherit;
+}
+
+/* 表格：统一对齐与列宽 */
+.data-table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  table-layout: fixed;
+}
+.data-table th,
+.data-table td {
+  padding: 0.625rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: middle;
+  word-break: break-word;
+}
+.data-table thead th {
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: none;
+  letter-spacing: 0.02em;
+  color: var(--color-text-muted);
+  background: var(--color-surface-elevated);
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  box-shadow: 0 1px 0 var(--color-border);
+}
+.data-table tbody tr:hover td {
+  background: rgba(37, 99, 235, 0.06);
+}
+/* 编号/代码列：等宽、右对齐 */
+.data-table .col-code {
+  width: 7%;
+  min-width: 4.5rem;
+  font-variant-numeric: tabular-nums;
+  font-family: ui-monospace, 'SF Mono', monospace;
+}
+.data-table .col-code th,
+.data-table .col-code td {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+/* 名称列：可换行、对齐一致 */
+.data-table .col-name {
+  min-width: 8rem;
+}
+.data-table .col-name--wide {
+  min-width: 12rem;
+  width: 22%;
+}
+/* 操作列：右对齐、不换行 */
+.data-table .col-action {
+  width: 10rem;
+  min-width: 8rem;
+  text-align: right;
+  white-space: nowrap;
+}
+.data-table .col-action th,
+.data-table .col-action td {
+  padding-right: 1rem;
+}
+/* 长文本列：限制最大宽度、省略或换行 */
+.data-table .cell-ellipsis {
+  max-width: 14rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.data-table .cell-ellipsis:hover {
+  white-space: normal;
+  overflow: visible;
+}
+.data-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 表格容器：横向滚动时表头仍对齐 */
+.table-wrap {
+  overflow-x: auto;
+  overflow-y: visible;
+}
+.table-wrap .data-table {
+  margin: 0;
+}
+
+/* 卡片 */
+.card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+/* 按钮 */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+.btn-primary {
+  background: var(--color-primary);
+  color: #fff;
+}
+.btn-primary:hover {
+  background: var(--color-primary-hover);
+}
+.btn-sm {
+  padding: 0.35rem 0.75rem;
+  font-size: 0.8rem;
+}
+.btn-ghost {
+  background: transparent;
+  color: var(--color-text-muted);
+}
+.btn-ghost:hover {
+  background: var(--color-surface-elevated);
+  color: var(--color-text);
+}

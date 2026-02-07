@@ -1,0 +1,24 @@
+# 构建阶段：本目录下需有 backend/ 与 dataset/
+FROM eclipse-temurin:17-jdk-alpine AS builder
+WORKDIR /build
+
+COPY backend/pom.xml .
+COPY backend/src ./src
+RUN apk add --no-cache maven && \
+    mvn -q -DskipTests package -Dmaven.javadoc.skip=true && \
+    mv target/*.jar app.jar
+
+# 运行阶段：内嵌 dataset，首次启动自动导入
+FROM eclipse-temurin:17-jre-alpine
+WORKDIR /app
+
+RUN apk add --no-cache dumb-init
+COPY --from=builder /build/app.jar ./app.jar
+COPY dataset ./dataset
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+
+ENV DATASET_PATH=/app/dataset
+EXPOSE 8080
+
+ENTRYPOINT ["dumb-init", "--", "/entrypoint.sh"]

@@ -1,0 +1,43 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Java / Maven
+target/
+*.class
+*.jar
+!gb-standalone/**/app.jar
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Frontend build
+gb-web/dist/
+
+# Logs
+*.log
+data-extraction/logs/
+gb-web/node_modules/
+
+# 打包产物
+*.zip

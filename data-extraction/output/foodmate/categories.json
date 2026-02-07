@@ -1,0 +1,2330 @@
+[
+  {
+    "category_code": "01.0",
+    "category_name": "乳及乳制品（13.0特殊膳食用食品涉及品种除外）",
+    "limit_id": 2,
+    "url": "https://2760.foodmate.net/category/limit/2.html"
+  },
+  {
+    "category_code": "01.01",
+    "category_name": "巴氏杀菌乳、灭菌乳、高温杀菌乳和调制乳",
+    "limit_id": 3,
+    "url": "https://2760.foodmate.net/category/limit/3.html"
+  },
+  {
+    "category_code": "01.01.01",
+    "category_name": "巴氏杀菌乳",
+    "limit_id": 4,
+    "url": "https://2760.foodmate.net/category/limit/4.html"
+  },
+  {
+    "category_code": "01.01.02",
+    "category_name": "灭菌乳和高温杀菌乳",
+    "limit_id": 5,
+    "url": "https://2760.foodmate.net/category/limit/5.html"
+  },
+  {
+    "category_code": "01.01.03",
+    "category_name": "调制乳",
+    "limit_id": 6,
+    "url": "https://2760.foodmate.net/category/limit/6.html"
+  },
+  {
+    "category_code": "01.02",
+    "category_name": "发酵乳和风味发酵乳",
+    "limit_id": 7,
+    "url": "https://2760.foodmate.net/category/limit/7.html"
+  },
+  {
+    "category_code": "01.02.01",
+    "category_name": "发酵乳",
+    "limit_id": 8,
+    "url": "https://2760.foodmate.net/category/limit/8.html"
+  },
+  {
+    "category_code": "01.02.02",
+    "category_name": "风味发酵乳",
+    "limit_id": 9,
+    "url": "https://2760.foodmate.net/category/limit/9.html"
+  },
+  {
+    "category_code": "01.03",
+    "category_name": "乳粉和奶油粉及其调制产品",
+    "limit_id": 10,
+    "url": "https://2760.foodmate.net/category/limit/10.html"
+  },
+  {
+    "category_code": "01.03.01",
+    "category_name": "乳粉和奶油粉",
+    "limit_id": 11,
+    "url": "https://2760.foodmate.net/category/limit/11.html"
+  },
+  {
+    "category_code": "01.03.02",
+    "category_name": "调制乳粉和调制奶油粉",
+    "limit_id": 12,
+    "url": "https://2760.foodmate.net/category/limit/12.html"
+  },
+  {
+    "category_code": "01.04",
+    "category_name": "炼乳及其调制产品",
+    "limit_id": 13,
+    "url": "https://2760.foodmate.net/category/limit/13.html"
+  },
+  {
+    "category_code": "01.04.01",
+    "category_name": "淡炼乳（原味）",
+    "limit_id": 14,
+    "url": "https://2760.foodmate.net/category/limit/14.html"
+  },
+  {
+    "category_code": "01.04.02",
+    "category_name": "调制炼乳（包括加糖炼乳及使用了非乳原料的调制炼乳等）",
+    "limit_id": 15,
+    "url": "https://2760.foodmate.net/category/limit/15.html"
+  },
+  {
+    "category_code": "01.05",
+    "category_name": "稀奶油（淡奶油）及其类似品",
+    "limit_id": 16,
+    "url": "https://2760.foodmate.net/category/limit/16.html"
+  },
+  {
+    "category_code": "01.05.01",
+    "category_name": "稀奶油",
+    "limit_id": 17,
+    "url": "https://2760.foodmate.net/category/limit/17.html"
+  },
+  {
+    "category_code": "01.05.02",
+    "category_name": "—",
+    "limit_id": 18,
+    "url": "https://2760.foodmate.net/category/limit/18.html"
+  },
+  {
+    "category_code": "01.05.03",
+    "category_name": "调制稀奶油",
+    "limit_id": 19,
+    "url": "https://2760.foodmate.net/category/limit/19.html"
+  },
+  {
+    "category_code": "01.05.04",
+    "category_name": "稀奶油类似品",
+    "limit_id": 20,
+    "url": "https://2760.foodmate.net/category/limit/20.html"
+  },
+  {
+    "category_code": "01.06",
+    "category_name": "干酪、再制干酪、干酪制品及干酪类似品",
+    "limit_id": 21,
+    "url": "https://2760.foodmate.net/category/limit/21.html"
+  },
+  {
+    "category_code": "01.06.01",
+    "category_name": "非熟化干酪",
+    "limit_id": 22,
+    "url": "https://2760.foodmate.net/category/limit/22.html"
+  },
+  {
+    "category_code": "01.06.02",
+    "category_name": "熟化干酪",
+    "limit_id": 23,
+    "url": "https://2760.foodmate.net/category/limit/23.html"
+  },
+  {
+    "category_code": "01.06.03",
+    "category_name": "乳清干酪",
+    "limit_id": 24,
+    "url": "https://2760.foodmate.net/category/limit/24.html"
+  },
+  {
+    "category_code": "01.06.04",
+    "category_name": "再制干酪及干酪制品",
+    "limit_id": 25,
+    "url": "https://2760.foodmate.net/category/limit/25.html"
+  },
+  {
+    "category_code": "01.06.04.01",
+    "category_name": "普通再制干酪",
+    "limit_id": 26,
+    "url": "https://2760.foodmate.net/category/limit/26.html"
+  },
+  {
+    "category_code": "01.06.04.02",
+    "category_name": "调味再制干酪",
+    "limit_id": 27,
+    "url": "https://2760.foodmate.net/category/limit/27.html"
+  },
+  {
+    "category_code": "01.06.05",
+    "category_name": "干酪类似品",
+    "limit_id": 28,
+    "url": "https://2760.foodmate.net/category/limit/28.html"
+  },
+  {
+    "category_code": "01.06.06",
+    "category_name": "乳清蛋白干酪",
+    "limit_id": 29,
+    "url": "https://2760.foodmate.net/category/limit/29.html"
+  },
+  {
+    "category_code": "01.07",
+    "category_name": "以乳为主要配料的即食风味食品或其预制产品（不包括冰淇淋和风味发酵乳）",
+    "limit_id": 30,
+    "url": "https://2760.foodmate.net/category/limit/30.html"
+  },
+  {
+    "category_code": "01.08",
+    "category_name": "其他乳制品（如乳清粉、酪蛋白粉等）",
+    "limit_id": 31,
+    "url": "https://2760.foodmate.net/category/limit/31.html"
+  },
+  {
+    "category_code": "02.0",
+    "category_name": "脂肪，油和乳化脂肪制品",
+    "limit_id": 32,
+    "url": "https://2760.foodmate.net/category/limit/32.html"
+  },
+  {
+    "category_code": "02.01",
+    "category_name": "基本不含水的脂肪和油",
+    "limit_id": 33,
+    "url": "https://2760.foodmate.net/category/limit/33.html"
+  },
+  {
+    "category_code": "02.01.01",
+    "category_name": "植物油脂",
+    "limit_id": 34,
+    "url": "https://2760.foodmate.net/category/limit/34.html"
+  },
+  {
+    "category_code": "02.01.01.01",
+    "category_name": "植物油",
+    "limit_id": 35,
+    "url": "https://2760.foodmate.net/category/limit/35.html"
+  },
+  {
+    "category_code": "02.01.01.02",
+    "category_name": "氢化植物油",
+    "limit_id": 36,
+    "url": "https://2760.foodmate.net/category/limit/36.html"
+  },
+  {
+    "category_code": "02.01.02",
+    "category_name": "动物油脂（包括猪油、牛油、鱼油和其他动物脂肪等）",
+    "limit_id": 37,
+    "url": "https://2760.foodmate.net/category/limit/37.html"
+  },
+  {
+    "category_code": "02.01.03",
+    "category_name": "无水黄油，无水乳脂",
+    "limit_id": 38,
+    "url": "https://2760.foodmate.net/category/limit/38.html"
+  },
+  {
+    "category_code": "02.02",
+    "category_name": "水油状脂肪乳化制品",
+    "limit_id": 39,
+    "url": "https://2760.foodmate.net/category/limit/39.html"
+  },
+  {
+    "category_code": "02.02.01",
+    "category_name": "脂肪含量80%以上的乳化制品",
+    "limit_id": 40,
+    "url": "https://2760.foodmate.net/category/limit/40.html"
+  },
+  {
+    "category_code": "02.02.01.01",
+    "category_name": "黄油和浓缩黄油",
+    "limit_id": 41,
+    "url": "https://2760.foodmate.net/category/limit/41.html"
+  },
+  {
+    "category_code": "02.02.01.02",
+    "category_name": "人造黄油（人造奶油）及其类似制品（如黄油和人造黄油混合品）",
+    "limit_id": 42,
+    "url": "https://2760.foodmate.net/category/limit/42.html"
+  },
+  {
+    "category_code": "02.02.02",
+    "category_name": "脂肪含量80%以下的乳化制品",
+    "limit_id": 43,
+    "url": "https://2760.foodmate.net/category/limit/43.html"
+  },
+  {
+    "category_code": "02.03",
+    "category_name": "02.02类以外的脂肪乳化制品，包括混合的和（或）调味的脂肪乳化制品",
+    "limit_id": 44,
+    "url": "https://2760.foodmate.net/category/limit/44.html"
+  },
+  {
+    "category_code": "02.04",
+    "category_name": "脂肪类甜品",
+    "limit_id": 45,
+    "url": "https://2760.foodmate.net/category/limit/45.html"
+  },
+  {
+    "category_code": "02.05",
+    "category_name": "其他油脂或油脂制品",
+    "limit_id": 46,
+    "url": "https://2760.foodmate.net/category/limit/46.html"
+  },
+  {
+    "category_code": "03.0",
+    "category_name": "冷冻饮品",
+    "limit_id": 47,
+    "url": "https://2760.foodmate.net/category/limit/47.html"
+  },
+  {
+    "category_code": "03.01",
+    "category_name": "冰淇淋、雪糕类",
+    "limit_id": 48,
+    "url": "https://2760.foodmate.net/category/limit/48.html"
+  },
+  {
+    "category_code": "03.02",
+    "category_name": "—",
+    "limit_id": 49,
+    "url": "https://2760.foodmate.net/category/limit/49.html"
+  },
+  {
+    "category_code": "03.03",
+    "category_name": "风味冰、冰棍类",
+    "limit_id": 50,
+    "url": "https://2760.foodmate.net/category/limit/50.html"
+  },
+  {
+    "category_code": "03.04",
+    "category_name": "食用冰",
+    "limit_id": 51,
+    "url": "https://2760.foodmate.net/category/limit/51.html"
+  },
+  {
+    "category_code": "03.05",
+    "category_name": "其他冷冻饮品",
+    "limit_id": 52,
+    "url": "https://2760.foodmate.net/category/limit/52.html"
+  },
+  {
+    "category_code": "04.0",
+    "category_name": "水果、蔬菜（包括块根类）、豆类、食用菌、藻类、坚果以及籽类等",
+    "limit_id": 53,
+    "url": "https://2760.foodmate.net/category/limit/53.html"
+  },
+  {
+    "category_code": "04.01",
+    "category_name": "水果",
+    "limit_id": 54,
+    "url": "https://2760.foodmate.net/category/limit/54.html"
+  },
+  {
+    "category_code": "04.01.01",
+    "category_name": "新鲜水果",
+    "limit_id": 55,
+    "url": "https://2760.foodmate.net/category/limit/55.html"
+  },
+  {
+    "category_code": "04.01.01.01",
+    "category_name": "未经加工的鲜水果",
+    "limit_id": 56,
+    "url": "https://2760.foodmate.net/category/limit/56.html"
+  },
+  {
+    "category_code": "04.01.01.02",
+    "category_name": "经表面处理的鲜水果",
+    "limit_id": 57,
+    "url": "https://2760.foodmate.net/category/limit/57.html"
+  },
+  {
+    "category_code": "04.01.01.03",
+    "category_name": "去皮或预切的鲜水果",
+    "limit_id": 58,
+    "url": "https://2760.foodmate.net/category/limit/58.html"
+  },
+  {
+    "category_code": "04.01.02",
+    "category_name": "加工水果",
+    "limit_id": 59,
+    "url": "https://2760.foodmate.net/category/limit/59.html"
+  },
+  {
+    "category_code": "04.01.02.01",
+    "category_name": "冷冻水果",
+    "limit_id": 60,
+    "url": "https://2760.foodmate.net/category/limit/60.html"
+  },
+  {
+    "category_code": "04.01.02.02",
+    "category_name": "水果干类",
+    "limit_id": 61,
+    "url": "https://2760.foodmate.net/category/limit/61.html"
+  },
+  {
+    "category_code": "04.01.02.03",
+    "category_name": "醋、油或盐渍水果",
+    "limit_id": 62,
+    "url": "https://2760.foodmate.net/category/limit/62.html"
+  },
+  {
+    "category_code": "04.01.02.04",
+    "category_name": "水果罐头",
+    "limit_id": 63,
+    "url": "https://2760.foodmate.net/category/limit/63.html"
+  },
+  {
+    "category_code": "04.01.02.05",
+    "category_name": "果酱",
+    "limit_id": 64,
+    "url": "https://2760.foodmate.net/category/limit/64.html"
+  },
+  {
+    "category_code": "04.01.02.06",
+    "category_name": "果泥",
+    "limit_id": 65,
+    "url": "https://2760.foodmate.net/category/limit/65.html"
+  },
+  {
+    "category_code": "04.01.02.07",
+    "category_name": "除04.01.02.05以外的果酱（如印度酸辣酱）",
+    "limit_id": 66,
+    "url": "https://2760.foodmate.net/category/limit/66.html"
+  },
+  {
+    "category_code": "04.01.02.08",
+    "category_name": "蜜饯",
+    "limit_id": 67,
+    "url": "https://2760.foodmate.net/category/limit/67.html"
+  },
+  {
+    "category_code": "04.01.02.08.01",
+    "category_name": "蜜饯类、凉果类",
+    "limit_id": 68,
+    "url": "https://2760.foodmate.net/category/limit/68.html"
+  },
+  {
+    "category_code": "04.01.02.08.02",
+    "category_name": "—",
+    "limit_id": 69,
+    "url": "https://2760.foodmate.net/category/limit/69.html"
+  },
+  {
+    "category_code": "04.01.02.08.03",
+    "category_name": "果脯类",
+    "limit_id": 70,
+    "url": "https://2760.foodmate.net/category/limit/70.html"
+  },
+  {
+    "category_code": "04.01.02.08.04",
+    "category_name": "话化类",
+    "limit_id": 71,
+    "url": "https://2760.foodmate.net/category/limit/71.html"
+  },
+  {
+    "category_code": "04.01.02.08.05",
+    "category_name": "果糕类",
+    "limit_id": 72,
+    "url": "https://2760.foodmate.net/category/limit/72.html"
+  },
+  {
+    "category_code": "04.01.02.09",
+    "category_name": "装饰性果蔬",
+    "limit_id": 73,
+    "url": "https://2760.foodmate.net/category/limit/73.html"
+  },
+  {
+    "category_code": "04.01.02.10",
+    "category_name": "水果甜品，包括果味液体甜品",
+    "limit_id": 74,
+    "url": "https://2760.foodmate.net/category/limit/74.html"
+  },
+  {
+    "category_code": "04.01.02.11",
+    "category_name": "发酵的水果制品",
+    "limit_id": 75,
+    "url": "https://2760.foodmate.net/category/limit/75.html"
+  },
+  {
+    "category_code": "04.01.02.12",
+    "category_name": "煮熟的或油炸的水果",
+    "limit_id": 76,
+    "url": "https://2760.foodmate.net/category/limit/76.html"
+  },
+  {
+    "category_code": "04.01.02.13",
+    "category_name": "其他加工水果",
+    "limit_id": 77,
+    "url": "https://2760.foodmate.net/category/limit/77.html"
+  },
+  {
+    "category_code": "04.02",
+    "category_name": "蔬菜",
+    "limit_id": 78,
+    "url": "https://2760.foodmate.net/category/limit/78.html"
+  },
+  {
+    "category_code": "04.02.01",
+    "category_name": "新鲜蔬菜",
+    "limit_id": 79,
+    "url": "https://2760.foodmate.net/category/limit/79.html"
+  },
+  {
+    "category_code": "04.02.01.01",
+    "category_name": "未经加工鲜蔬菜",
+    "limit_id": 80,
+    "url": "https://2760.foodmate.net/category/limit/80.html"
+  },
+  {
+    "category_code": "04.02.01.02",
+    "category_name": "经表面处理的新鲜蔬菜",
+    "limit_id": 81,
+    "url": "https://2760.foodmate.net/category/limit/81.html"
+  },
+  {
+    "category_code": "04.02.01.03",
+    "category_name": "去皮、切块或切丝的蔬菜",
+    "limit_id": 82,
+    "url": "https://2760.foodmate.net/category/limit/82.html"
+  },
+  {
+    "category_code": "04.02.01.04",
+    "category_name": "芽菜类",
+    "limit_id": 83,
+    "url": "https://2760.foodmate.net/category/limit/83.html"
+  },
+  {
+    "category_code": "04.02.02",
+    "category_name": "加工蔬菜",
+    "limit_id": 84,
+    "url": "https://2760.foodmate.net/category/limit/84.html"
+  },
+  {
+    "category_code": "04.02.02.01",
+    "category_name": "冷冻蔬菜",
+    "limit_id": 85,
+    "url": "https://2760.foodmate.net/category/limit/85.html"
+  },
+  {
+    "category_code": "04.02.02.02",
+    "category_name": "干制蔬菜",
+    "limit_id": 86,
+    "url": "https://2760.foodmate.net/category/limit/86.html"
+  },
+  {
+    "category_code": "04.02.02.03",
+    "category_name": "腌渍的蔬菜",
+    "limit_id": 87,
+    "url": "https://2760.foodmate.net/category/limit/87.html"
+  },
+  {
+    "category_code": "04.02.02.04",
+    "category_name": "蔬菜罐头",
+    "limit_id": 88,
+    "url": "https://2760.foodmate.net/category/limit/88.html"
+  },
+  {
+    "category_code": "04.02.02.05",
+    "category_name": "蔬菜泥（酱），番茄沙司除外",
+    "limit_id": 89,
+    "url": "https://2760.foodmate.net/category/limit/89.html"
+  },
+  {
+    "category_code": "04.02.02.06",
+    "category_name": "发酵蔬菜制品",
+    "limit_id": 90,
+    "url": "https://2760.foodmate.net/category/limit/90.html"
+  },
+  {
+    "category_code": "04.02.02.07",
+    "category_name": "经水煮或油炸的蔬菜",
+    "limit_id": 91,
+    "url": "https://2760.foodmate.net/category/limit/91.html"
+  },
+  {
+    "category_code": "04.02.02.08",
+    "category_name": "其他加工蔬菜",
+    "limit_id": 92,
+    "url": "https://2760.foodmate.net/category/limit/92.html"
+  },
+  {
+    "category_code": "04.03",
+    "category_name": "食用菌和藻类",
+    "limit_id": 93,
+    "url": "https://2760.foodmate.net/category/limit/93.html"
+  },
+  {
+    "category_code": "04.03.01",
+    "category_name": "新鲜食用菌和藻类",
+    "limit_id": 94,
+    "url": "https://2760.foodmate.net/category/limit/94.html"
+  },
+  {
+    "category_code": "04.03.01.01",
+    "category_name": "未经加工鲜食用菌和藻类",
+    "limit_id": 95,
+    "url": "https://2760.foodmate.net/category/limit/95.html"
+  },
+  {
+    "category_code": "04.03.01.02",
+    "category_name": "经表面处理的鲜食用菌和藻类",
+    "limit_id": 96,
+    "url": "https://2760.foodmate.net/category/limit/96.html"
+  },
+  {
+    "category_code": "04.03.01.03",
+    "category_name": "去皮、切块或切丝的食用菌和藻类",
+    "limit_id": 97,
+    "url": "https://2760.foodmate.net/category/limit/97.html"
+  },
+  {
+    "category_code": "04.03.02",
+    "category_name": "加工食用菌和藻类",
+    "limit_id": 98,
+    "url": "https://2760.foodmate.net/category/limit/98.html"
+  },
+  {
+    "category_code": "04.03.02.01",
+    "category_name": "冷冻食用菌和藻类",
+    "limit_id": 99,
+    "url": "https://2760.foodmate.net/category/limit/99.html"
+  },
+  {
+    "category_code": "04.03.02.02",
+    "category_name": "干制食用菌和藻类",
+    "limit_id": 100,
+    "url": "https://2760.foodmate.net/category/limit/100.html"
+  },
+  {
+    "category_code": "04.03.02.03",
+    "category_name": "腌渍的食用菌和藻类",
+    "limit_id": 101,
+    "url": "https://2760.foodmate.net/category/limit/101.html"
+  },
+  {
+    "category_code": "04.03.02.04",
+    "category_name": "食用菌和藻类罐头",
+    "limit_id": 102,
+    "url": "https://2760.foodmate.net/category/limit/102.html"
+  },
+  {
+    "category_code": "04.03.02.05",
+    "category_name": "经水煮或油炸的藻类",
+    "limit_id": 103,
+    "url": "https://2760.foodmate.net/category/limit/103.html"
+  },
+  {
+    "category_code": "04.03.02.06",
+    "category_name": "其他加工食用菌和藻类",
+    "limit_id": 104,
+    "url": "https://2760.foodmate.net/category/limit/104.html"
+  },
+  {
+    "category_code": "04.04",
+    "category_name": "豆类制品",
+    "limit_id": 105,
+    "url": "https://2760.foodmate.net/category/limit/105.html"
+  },
+  {
+    "category_code": "04.04.01",
+    "category_name": "非发酵豆制品",
+    "limit_id": 106,
+    "url": "https://2760.foodmate.net/category/limit/106.html"
+  },
+  {
+    "category_code": "04.04.01.01",
+    "category_name": "豆腐类",
+    "limit_id": 107,
+    "url": "https://2760.foodmate.net/category/limit/107.html"
+  },
+  {
+    "category_code": "04.04.01.02",
+    "category_name": "豆干类",
+    "limit_id": 108,
+    "url": "https://2760.foodmate.net/category/limit/108.html"
+  },
+  {
+    "category_code": "04.04.01.03",
+    "category_name": "豆干再制品",
+    "limit_id": 109,
+    "url": "https://2760.foodmate.net/category/limit/109.html"
+  },
+  {
+    "category_code": "04.04.01.03.01",
+    "category_name": "炸制豆干",
+    "limit_id": 110,
+    "url": "https://2760.foodmate.net/category/limit/110.html"
+  },
+  {
+    "category_code": "04.04.01.03.02",
+    "category_name": "卤制豆干",
+    "limit_id": 111,
+    "url": "https://2760.foodmate.net/category/limit/111.html"
+  },
+  {
+    "category_code": "04.04.01.03.03",
+    "category_name": "熏制豆干",
+    "limit_id": 112,
+    "url": "https://2760.foodmate.net/category/limit/112.html"
+  },
+  {
+    "category_code": "04.04.01.03.04",
+    "category_name": "其他豆干",
+    "limit_id": 113,
+    "url": "https://2760.foodmate.net/category/limit/113.html"
+  },
+  {
+    "category_code": "04.04.01.04",
+    "category_name": "腐竹类（包括腐竹、油皮等）",
+    "limit_id": 114,
+    "url": "https://2760.foodmate.net/category/limit/114.html"
+  },
+  {
+    "category_code": "04.04.01.05",
+    "category_name": "新型豆制品（大豆蛋白及其膨化食品、大豆素肉等）",
+    "limit_id": 115,
+    "url": "https://2760.foodmate.net/category/limit/115.html"
+  },
+  {
+    "category_code": "04.04.01.06",
+    "category_name": "熟制豆类",
+    "limit_id": 116,
+    "url": "https://2760.foodmate.net/category/limit/116.html"
+  },
+  {
+    "category_code": "04.04.02",
+    "category_name": "发酵豆制品",
+    "limit_id": 117,
+    "url": "https://2760.foodmate.net/category/limit/117.html"
+  },
+  {
+    "category_code": "04.04.02.01",
+    "category_name": "腐乳类",
+    "limit_id": 118,
+    "url": "https://2760.foodmate.net/category/limit/118.html"
+  },
+  {
+    "category_code": "04.04.02.02",
+    "category_name": "豆豉及其制品（包括纳豆）",
+    "limit_id": 119,
+    "url": "https://2760.foodmate.net/category/limit/119.html"
+  },
+  {
+    "category_code": "04.04.03",
+    "category_name": "其他豆制品",
+    "limit_id": 120,
+    "url": "https://2760.foodmate.net/category/limit/120.html"
+  },
+  {
+    "category_code": "04.05",
+    "category_name": "坚果和籽类",
+    "limit_id": 121,
+    "url": "https://2760.foodmate.net/category/limit/121.html"
+  },
+  {
+    "category_code": "04.05.01",
+    "category_name": "新鲜坚果与籽类",
+    "limit_id": 122,
+    "url": "https://2760.foodmate.net/category/limit/122.html"
+  },
+  {
+    "category_code": "04.05.02",
+    "category_name": "加工坚果与籽类",
+    "limit_id": 123,
+    "url": "https://2760.foodmate.net/category/limit/123.html"
+  },
+  {
+    "category_code": "04.05.02.01",
+    "category_name": "熟制坚果与籽类",
+    "limit_id": 124,
+    "url": "https://2760.foodmate.net/category/limit/124.html"
+  },
+  {
+    "category_code": "04.05.02.01.01",
+    "category_name": "带壳熟制坚果与籽类",
+    "limit_id": 125,
+    "url": "https://2760.foodmate.net/category/limit/125.html"
+  },
+  {
+    "category_code": "04.05.02.01.02",
+    "category_name": "脱壳熟制坚果与籽类",
+    "limit_id": 126,
+    "url": "https://2760.foodmate.net/category/limit/126.html"
+  },
+  {
+    "category_code": "04.05.02.02",
+    "category_name": "—",
+    "limit_id": 127,
+    "url": "https://2760.foodmate.net/category/limit/127.html"
+  },
+  {
+    "category_code": "04.05.02.03",
+    "category_name": "坚果与籽类罐头",
+    "limit_id": 128,
+    "url": "https://2760.foodmate.net/category/limit/128.html"
+  },
+  {
+    "category_code": "04.05.02.04",
+    "category_name": "坚果与籽类的泥（酱），包括花生酱等",
+    "limit_id": 129,
+    "url": "https://2760.foodmate.net/category/limit/129.html"
+  },
+  {
+    "category_code": "04.05.02.05",
+    "category_name": "其他加工的坚果与籽类（如腌渍的果仁）",
+    "limit_id": 130,
+    "url": "https://2760.foodmate.net/category/limit/130.html"
+  },
+  {
+    "category_code": "05.0",
+    "category_name": "可可制品、巧克力和巧克力制品（包括代可可脂巧克力及制品）以及糖果",
+    "limit_id": 131,
+    "url": "https://2760.foodmate.net/category/limit/131.html"
+  },
+  {
+    "category_code": "05.01",
+    "category_name": "可可制品、巧克力和巧克力制品,包括代可可脂巧克力及制品",
+    "limit_id": 132,
+    "url": "https://2760.foodmate.net/category/limit/132.html"
+  },
+  {
+    "category_code": "05.01.01",
+    "category_name": "可可制品（包括以可可为主要原料的脂、粉、浆、酱、馅等）",
+    "limit_id": 133,
+    "url": "https://2760.foodmate.net/category/limit/133.html"
+  },
+  {
+    "category_code": "05.01.02",
+    "category_name": "巧克力和巧克力制品、除05.01.01以外的可可制品",
+    "limit_id": 134,
+    "url": "https://2760.foodmate.net/category/limit/134.html"
+  },
+  {
+    "category_code": "05.01.03",
+    "category_name": "代可可脂巧克力及其制品",
+    "limit_id": 135,
+    "url": "https://2760.foodmate.net/category/limit/135.html"
+  },
+  {
+    "category_code": "05.02",
+    "category_name": "糖果",
+    "limit_id": 136,
+    "url": "https://2760.foodmate.net/category/limit/136.html"
+  },
+  {
+    "category_code": "05.02.01",
+    "category_name": "胶基糖果",
+    "limit_id": 137,
+    "url": "https://2760.foodmate.net/category/limit/137.html"
+  },
+  {
+    "category_code": "05.02.02",
+    "category_name": "除胶基糖果以外的其他糖果",
+    "limit_id": 138,
+    "url": "https://2760.foodmate.net/category/limit/138.html"
+  },
+  {
+    "category_code": "05.03",
+    "category_name": "糖果和巧克力制品包衣",
+    "limit_id": 139,
+    "url": "https://2760.foodmate.net/category/limit/139.html"
+  },
+  {
+    "category_code": "05.04",
+    "category_name": "装饰糖果（如工艺造型，或用于蛋糕装饰）、顶饰（非水果材料）和甜汁",
+    "limit_id": 140,
+    "url": "https://2760.foodmate.net/category/limit/140.html"
+  },
+  {
+    "category_code": "06.0",
+    "category_name": "粮食和粮食制品，包括大米、面粉、杂粮、块根植物、豆类和玉米提取的淀粉等（不包括07.0类焙烤制品）",
+    "limit_id": 141,
+    "url": "https://2760.foodmate.net/category/limit/141.html"
+  },
+  {
+    "category_code": "06.01",
+    "category_name": "原粮",
+    "limit_id": 142,
+    "url": "https://2760.foodmate.net/category/limit/142.html"
+  },
+  {
+    "category_code": "06.02",
+    "category_name": "大米及其制品",
+    "limit_id": 143,
+    "url": "https://2760.foodmate.net/category/limit/143.html"
+  },
+  {
+    "category_code": "06.02.01",
+    "category_name": "大米",
+    "limit_id": 144,
+    "url": "https://2760.foodmate.net/category/limit/144.html"
+  },
+  {
+    "category_code": "06.02.02",
+    "category_name": "大米制品",
+    "limit_id": 145,
+    "url": "https://2760.foodmate.net/category/limit/145.html"
+  },
+  {
+    "category_code": "06.02.03",
+    "category_name": "米粉（包括汤圆粉等）",
+    "limit_id": 146,
+    "url": "https://2760.foodmate.net/category/limit/146.html"
+  },
+  {
+    "category_code": "06.02.04",
+    "category_name": "米粉制品",
+    "limit_id": 147,
+    "url": "https://2760.foodmate.net/category/limit/147.html"
+  },
+  {
+    "category_code": "06.03",
+    "category_name": "小麦粉及其制品",
+    "limit_id": 148,
+    "url": "https://2760.foodmate.net/category/limit/148.html"
+  },
+  {
+    "category_code": "06.03.01",
+    "category_name": "小麦粉",
+    "limit_id": 149,
+    "url": "https://2760.foodmate.net/category/limit/149.html"
+  },
+  {
+    "category_code": "06.03.01.01",
+    "category_name": "通用小麦粉",
+    "limit_id": 150,
+    "url": "https://2760.foodmate.net/category/limit/150.html"
+  },
+  {
+    "category_code": "06.03.01.02",
+    "category_name": "专用小麦粉（如自发粉、饺子粉等）",
+    "limit_id": 151,
+    "url": "https://2760.foodmate.net/category/limit/151.html"
+  },
+  {
+    "category_code": "06.03.02",
+    "category_name": "小麦粉制品",
+    "limit_id": 152,
+    "url": "https://2760.foodmate.net/category/limit/152.html"
+  },
+  {
+    "category_code": "06.03.02.01",
+    "category_name": "生湿面制品（如面条、饺子皮、馄饨皮、烧麦皮）",
+    "limit_id": 153,
+    "url": "https://2760.foodmate.net/category/limit/153.html"
+  },
+  {
+    "category_code": "06.03.02.02",
+    "category_name": "生干面制品",
+    "limit_id": 154,
+    "url": "https://2760.foodmate.net/category/limit/154.html"
+  },
+  {
+    "category_code": "06.03.02.03",
+    "category_name": "发酵面制品",
+    "limit_id": 155,
+    "url": "https://2760.foodmate.net/category/limit/155.html"
+  },
+  {
+    "category_code": "06.03.02.04",
+    "category_name": "—",
+    "limit_id": 156,
+    "url": "https://2760.foodmate.net/category/limit/156.html"
+  },
+  {
+    "category_code": "06.03.02.05",
+    "category_name": "油炸面制品",
+    "limit_id": 157,
+    "url": "https://2760.foodmate.net/category/limit/157.html"
+  },
+  {
+    "category_code": "06.03.02.06",
+    "category_name": "其他小麦粉制品（如面筋等）",
+    "limit_id": 158,
+    "url": "https://2760.foodmate.net/category/limit/158.html"
+  },
+  {
+    "category_code": "06.04",
+    "category_name": "杂粮粉及其制品",
+    "limit_id": 159,
+    "url": "https://2760.foodmate.net/category/limit/159.html"
+  },
+  {
+    "category_code": "06.04.01",
+    "category_name": "杂粮粉",
+    "limit_id": 160,
+    "url": "https://2760.foodmate.net/category/limit/160.html"
+  },
+  {
+    "category_code": "06.04.02",
+    "category_name": "杂粮制品",
+    "limit_id": 161,
+    "url": "https://2760.foodmate.net/category/limit/161.html"
+  },
+  {
+    "category_code": "06.04.02.01",
+    "category_name": "杂粮罐头",
+    "limit_id": 162,
+    "url": "https://2760.foodmate.net/category/limit/162.html"
+  },
+  {
+    "category_code": "06.04.02.02",
+    "category_name": "其他杂粮制品",
+    "limit_id": 163,
+    "url": "https://2760.foodmate.net/category/limit/163.html"
+  },
+  {
+    "category_code": "06.05",
+    "category_name": "淀粉及淀粉类制品",
+    "limit_id": 164,
+    "url": "https://2760.foodmate.net/category/limit/164.html"
+  },
+  {
+    "category_code": "06.05.01",
+    "category_name": "食用淀粉",
+    "limit_id": 165,
+    "url": "https://2760.foodmate.net/category/limit/165.html"
+  },
+  {
+    "category_code": "06.05.02",
+    "category_name": "淀粉制品",
+    "limit_id": 166,
+    "url": "https://2760.foodmate.net/category/limit/166.html"
+  },
+  {
+    "category_code": "06.05.02.01",
+    "category_name": "粉丝、粉条",
+    "limit_id": 167,
+    "url": "https://2760.foodmate.net/category/limit/167.html"
+  },
+  {
+    "category_code": "06.05.02.02",
+    "category_name": "虾味片",
+    "limit_id": 168,
+    "url": "https://2760.foodmate.net/category/limit/168.html"
+  },
+  {
+    "category_code": "06.05.02.03",
+    "category_name": "藕粉",
+    "limit_id": 169,
+    "url": "https://2760.foodmate.net/category/limit/169.html"
+  },
+  {
+    "category_code": "06.05.02.04",
+    "category_name": "粉圆",
+    "limit_id": 170,
+    "url": "https://2760.foodmate.net/category/limit/170.html"
+  },
+  {
+    "category_code": "06.05.02.05",
+    "category_name": "其他淀粉制品（如凉粉等）",
+    "limit_id": 171,
+    "url": "https://2760.foodmate.net/category/limit/171.html"
+  },
+  {
+    "category_code": "06.06",
+    "category_name": "即食谷物，包括碾轧燕麦（片）",
+    "limit_id": 172,
+    "url": "https://2760.foodmate.net/category/limit/172.html"
+  },
+  {
+    "category_code": "06.07",
+    "category_name": "方便米面制品",
+    "limit_id": 173,
+    "url": "https://2760.foodmate.net/category/limit/173.html"
+  },
+  {
+    "category_code": "06.08",
+    "category_name": "冷冻米面制品",
+    "limit_id": 174,
+    "url": "https://2760.foodmate.net/category/limit/174.html"
+  },
+  {
+    "category_code": "06.09",
+    "category_name": "谷类和淀粉类甜品（如米布丁、木薯布丁）",
+    "limit_id": 175,
+    "url": "https://2760.foodmate.net/category/limit/175.html"
+  },
+  {
+    "category_code": "06.10",
+    "category_name": "粮食制品馅料",
+    "limit_id": 176,
+    "url": "https://2760.foodmate.net/category/limit/176.html"
+  },
+  {
+    "category_code": "06.11",
+    "category_name": "面糊（如用于鱼和禽肉的拖面糊）、裹粉、煎炸粉",
+    "limit_id": 177,
+    "url": "https://2760.foodmate.net/category/limit/177.html"
+  },
+  {
+    "category_code": "06.12",
+    "category_name": "其他粮食制品",
+    "limit_id": 178,
+    "url": "https://2760.foodmate.net/category/limit/178.html"
+  },
+  {
+    "category_code": "07.0",
+    "category_name": "焙烤食品",
+    "limit_id": 179,
+    "url": "https://2760.foodmate.net/category/limit/179.html"
+  },
+  {
+    "category_code": "07.01",
+    "category_name": "面包",
+    "limit_id": 180,
+    "url": "https://2760.foodmate.net/category/limit/180.html"
+  },
+  {
+    "category_code": "07.02",
+    "category_name": "糕点",
+    "limit_id": 181,
+    "url": "https://2760.foodmate.net/category/limit/181.html"
+  },
+  {
+    "category_code": "07.02.01",
+    "category_name": "中式糕点（月饼除外）",
+    "limit_id": 182,
+    "url": "https://2760.foodmate.net/category/limit/182.html"
+  },
+  {
+    "category_code": "07.02.02",
+    "category_name": "西式糕点",
+    "limit_id": 183,
+    "url": "https://2760.foodmate.net/category/limit/183.html"
+  },
+  {
+    "category_code": "07.02.03",
+    "category_name": "月饼",
+    "limit_id": 184,
+    "url": "https://2760.foodmate.net/category/limit/184.html"
+  },
+  {
+    "category_code": "07.02.04",
+    "category_name": "糕点上彩装",
+    "limit_id": 185,
+    "url": "https://2760.foodmate.net/category/limit/185.html"
+  },
+  {
+    "category_code": "07.03",
+    "category_name": "饼干",
+    "limit_id": 186,
+    "url": "https://2760.foodmate.net/category/limit/186.html"
+  },
+  {
+    "category_code": "07.03.01",
+    "category_name": "夹心及装饰类饼干",
+    "limit_id": 187,
+    "url": "https://2760.foodmate.net/category/limit/187.html"
+  },
+  {
+    "category_code": "07.03.02",
+    "category_name": "威化饼干",
+    "limit_id": 188,
+    "url": "https://2760.foodmate.net/category/limit/188.html"
+  },
+  {
+    "category_code": "07.03.03",
+    "category_name": "蛋卷",
+    "limit_id": 189,
+    "url": "https://2760.foodmate.net/category/limit/189.html"
+  },
+  {
+    "category_code": "07.03.04",
+    "category_name": "其他饼干",
+    "limit_id": 190,
+    "url": "https://2760.foodmate.net/category/limit/190.html"
+  },
+  {
+    "category_code": "07.04",
+    "category_name": "焙烤食品馅料及表面用挂浆",
+    "limit_id": 191,
+    "url": "https://2760.foodmate.net/category/limit/191.html"
+  },
+  {
+    "category_code": "07.05",
+    "category_name": "其他焙烤食品",
+    "limit_id": 192,
+    "url": "https://2760.foodmate.net/category/limit/192.html"
+  },
+  {
+    "category_code": "08.0",
+    "category_name": "肉及肉制品",
+    "limit_id": 193,
+    "url": "https://2760.foodmate.net/category/limit/193.html"
+  },
+  {
+    "category_code": "08.01",
+    "category_name": "生、鲜肉",
+    "limit_id": 194,
+    "url": "https://2760.foodmate.net/category/limit/194.html"
+  },
+  {
+    "category_code": "08.01.01",
+    "category_name": "生鲜肉",
+    "limit_id": 195,
+    "url": "https://2760.foodmate.net/category/limit/195.html"
+  },
+  {
+    "category_code": "08.01.02",
+    "category_name": "冷却肉、冰鲜肉",
+    "limit_id": 196,
+    "url": "https://2760.foodmate.net/category/limit/196.html"
+  },
+  {
+    "category_code": "08.01.03",
+    "category_name": "冻肉",
+    "limit_id": 197,
+    "url": "https://2760.foodmate.net/category/limit/197.html"
+  },
+  {
+    "category_code": "08.02",
+    "category_name": "预制肉制品",
+    "limit_id": 198,
+    "url": "https://2760.foodmate.net/category/limit/198.html"
+  },
+  {
+    "category_code": "08.02.01",
+    "category_name": "调理肉制品（生肉添加调理料）",
+    "limit_id": 199,
+    "url": "https://2760.foodmate.net/category/limit/199.html"
+  },
+  {
+    "category_code": "08.02.02",
+    "category_name": "腌腊肉制品类（如咸肉、腊肉、板鸭、中式火腿、腊肠）",
+    "limit_id": 200,
+    "url": "https://2760.foodmate.net/category/limit/200.html"
+  },
+  {
+    "category_code": "08.02.03",
+    "category_name": "肉丸类",
+    "limit_id": 201,
+    "url": "https://2760.foodmate.net/category/limit/201.html"
+  },
+  {
+    "category_code": "08.02.04",
+    "category_name": "其他预制肉制品",
+    "limit_id": 202,
+    "url": "https://2760.foodmate.net/category/limit/202.html"
+  },
+  {
+    "category_code": "08.03",
+    "category_name": "熟肉制品",
+    "limit_id": 203,
+    "url": "https://2760.foodmate.net/category/limit/203.html"
+  },
+  {
+    "category_code": "08.03.01",
+    "category_name": "酱卤肉制品类",
+    "limit_id": 204,
+    "url": "https://2760.foodmate.net/category/limit/204.html"
+  },
+  {
+    "category_code": "08.03.01.01",
+    "category_name": "白煮肉类",
+    "limit_id": 205,
+    "url": "https://2760.foodmate.net/category/limit/205.html"
+  },
+  {
+    "category_code": "08.03.01.02",
+    "category_name": "酱卤肉类",
+    "limit_id": 206,
+    "url": "https://2760.foodmate.net/category/limit/206.html"
+  },
+  {
+    "category_code": "08.03.01.03",
+    "category_name": "糟肉类",
+    "limit_id": 207,
+    "url": "https://2760.foodmate.net/category/limit/207.html"
+  },
+  {
+    "category_code": "08.03.02",
+    "category_name": "熏、烧、烤肉类（熏肉、叉烧肉、烤鸭、肉脯等）",
+    "limit_id": 208,
+    "url": "https://2760.foodmate.net/category/limit/208.html"
+  },
+  {
+    "category_code": "08.03.03",
+    "category_name": "油炸肉类",
+    "limit_id": 209,
+    "url": "https://2760.foodmate.net/category/limit/209.html"
+  },
+  {
+    "category_code": "08.03.04",
+    "category_name": "西式火腿（熏烤、烟熏、蒸煮火腿）类",
+    "limit_id": 210,
+    "url": "https://2760.foodmate.net/category/limit/210.html"
+  },
+  {
+    "category_code": "08.03.05",
+    "category_name": "肉灌肠类",
+    "limit_id": 211,
+    "url": "https://2760.foodmate.net/category/limit/211.html"
+  },
+  {
+    "category_code": "08.03.06",
+    "category_name": "发酵肉制品类",
+    "limit_id": 212,
+    "url": "https://2760.foodmate.net/category/limit/212.html"
+  },
+  {
+    "category_code": "08.03.07",
+    "category_name": "熟肉干制品",
+    "limit_id": 213,
+    "url": "https://2760.foodmate.net/category/limit/213.html"
+  },
+  {
+    "category_code": "08.03.07.01",
+    "category_name": "肉松类",
+    "limit_id": 214,
+    "url": "https://2760.foodmate.net/category/limit/214.html"
+  },
+  {
+    "category_code": "08.03.07.02",
+    "category_name": "肉干类",
+    "limit_id": 215,
+    "url": "https://2760.foodmate.net/category/limit/215.html"
+  },
+  {
+    "category_code": "08.03.07.03",
+    "category_name": "—",
+    "limit_id": 216,
+    "url": "https://2760.foodmate.net/category/limit/216.html"
+  },
+  {
+    "category_code": "08.03.08",
+    "category_name": "肉罐头类",
+    "limit_id": 217,
+    "url": "https://2760.foodmate.net/category/limit/217.html"
+  },
+  {
+    "category_code": "08.03.09",
+    "category_name": "其他熟肉制品",
+    "limit_id": 218,
+    "url": "https://2760.foodmate.net/category/limit/218.html"
+  },
+  {
+    "category_code": "08.04",
+    "category_name": "肉制品的可食用动物肠衣类",
+    "limit_id": 219,
+    "url": "https://2760.foodmate.net/category/limit/219.html"
+  },
+  {
+    "category_code": "09.0",
+    "category_name": "水产及其制品（包括鱼类、甲壳类、贝类、软体类、棘皮类等水产及其加工制品等）",
+    "limit_id": 220,
+    "url": "https://2760.foodmate.net/category/limit/220.html"
+  },
+  {
+    "category_code": "09.01",
+    "category_name": "鲜水产",
+    "limit_id": 221,
+    "url": "https://2760.foodmate.net/category/limit/221.html"
+  },
+  {
+    "category_code": "09.02",
+    "category_name": "冷冻水产品及其制品",
+    "limit_id": 222,
+    "url": "https://2760.foodmate.net/category/limit/222.html"
+  },
+  {
+    "category_code": "09.02.01",
+    "category_name": "冷冻水产品",
+    "limit_id": 223,
+    "url": "https://2760.foodmate.net/category/limit/223.html"
+  },
+  {
+    "category_code": "09.02.02",
+    "category_name": "冷冻挂浆制品",
+    "limit_id": 224,
+    "url": "https://2760.foodmate.net/category/limit/224.html"
+  },
+  {
+    "category_code": "09.02.03",
+    "category_name": "冷冻水产糜及其制品（包括冷冻丸类产品等）",
+    "limit_id": 225,
+    "url": "https://2760.foodmate.net/category/limit/225.html"
+  },
+  {
+    "category_code": "09.03",
+    "category_name": "预制水产品（半成品）",
+    "limit_id": 226,
+    "url": "https://2760.foodmate.net/category/limit/226.html"
+  },
+  {
+    "category_code": "09.03.01",
+    "category_name": "醋渍或肉冻状水产品",
+    "limit_id": 227,
+    "url": "https://2760.foodmate.net/category/limit/227.html"
+  },
+  {
+    "category_code": "09.03.02",
+    "category_name": "腌制水产品",
+    "limit_id": 228,
+    "url": "https://2760.foodmate.net/category/limit/228.html"
+  },
+  {
+    "category_code": "09.03.03",
+    "category_name": "鱼子制品",
+    "limit_id": 229,
+    "url": "https://2760.foodmate.net/category/limit/229.html"
+  },
+  {
+    "category_code": "09.03.04",
+    "category_name": "风干、烘干、压干等水产品",
+    "limit_id": 230,
+    "url": "https://2760.foodmate.net/category/limit/230.html"
+  },
+  {
+    "category_code": "09.03.05",
+    "category_name": "其他预制水产品（如鱼肉饺皮）",
+    "limit_id": 231,
+    "url": "https://2760.foodmate.net/category/limit/231.html"
+  },
+  {
+    "category_code": "09.04",
+    "category_name": "熟制水产品（可直接食用）",
+    "limit_id": 232,
+    "url": "https://2760.foodmate.net/category/limit/232.html"
+  },
+  {
+    "category_code": "09.04.01",
+    "category_name": "熟干水产品",
+    "limit_id": 233,
+    "url": "https://2760.foodmate.net/category/limit/233.html"
+  },
+  {
+    "category_code": "09.04.02",
+    "category_name": "经烹调或油炸的水产品",
+    "limit_id": 234,
+    "url": "https://2760.foodmate.net/category/limit/234.html"
+  },
+  {
+    "category_code": "09.04.03",
+    "category_name": "熏、烤水产品",
+    "limit_id": 235,
+    "url": "https://2760.foodmate.net/category/limit/235.html"
+  },
+  {
+    "category_code": "09.04.04",
+    "category_name": "发酵水产品",
+    "limit_id": 236,
+    "url": "https://2760.foodmate.net/category/limit/236.html"
+  },
+  {
+    "category_code": "09.04.05",
+    "category_name": "鱼肉灌肠类",
+    "limit_id": 237,
+    "url": "https://2760.foodmate.net/category/limit/237.html"
+  },
+  {
+    "category_code": "09.05",
+    "category_name": "水产品罐头",
+    "limit_id": 238,
+    "url": "https://2760.foodmate.net/category/limit/238.html"
+  },
+  {
+    "category_code": "09.06",
+    "category_name": "其他水产品及其制品",
+    "limit_id": 239,
+    "url": "https://2760.foodmate.net/category/limit/239.html"
+  },
+  {
+    "category_code": "10.0",
+    "category_name": "蛋及蛋制品",
+    "limit_id": 240,
+    "url": "https://2760.foodmate.net/category/limit/240.html"
+  },
+  {
+    "category_code": "10.01",
+    "category_name": "鲜蛋",
+    "limit_id": 241,
+    "url": "https://2760.foodmate.net/category/limit/241.html"
+  },
+  {
+    "category_code": "10.02",
+    "category_name": "再制蛋（不改变物理性状）",
+    "limit_id": 242,
+    "url": "https://2760.foodmate.net/category/limit/242.html"
+  },
+  {
+    "category_code": "10.02.01",
+    "category_name": "卤蛋",
+    "limit_id": 243,
+    "url": "https://2760.foodmate.net/category/limit/243.html"
+  },
+  {
+    "category_code": "10.02.02",
+    "category_name": "糟蛋",
+    "limit_id": 244,
+    "url": "https://2760.foodmate.net/category/limit/244.html"
+  },
+  {
+    "category_code": "10.02.03",
+    "category_name": "皮蛋",
+    "limit_id": 245,
+    "url": "https://2760.foodmate.net/category/limit/245.html"
+  },
+  {
+    "category_code": "10.02.04",
+    "category_name": "咸蛋",
+    "limit_id": 246,
+    "url": "https://2760.foodmate.net/category/limit/246.html"
+  },
+  {
+    "category_code": "10.02.05",
+    "category_name": "其他再制蛋",
+    "limit_id": 247,
+    "url": "https://2760.foodmate.net/category/limit/247.html"
+  },
+  {
+    "category_code": "10.03",
+    "category_name": "蛋制品（改变其物理性状）",
+    "limit_id": 248,
+    "url": "https://2760.foodmate.net/category/limit/248.html"
+  },
+  {
+    "category_code": "10.03.01",
+    "category_name": "脱水蛋制品（如蛋白粉、蛋黄粉、蛋白片）",
+    "limit_id": 249,
+    "url": "https://2760.foodmate.net/category/limit/249.html"
+  },
+  {
+    "category_code": "10.03.02",
+    "category_name": "热凝固蛋制品（如蛋黄酪、皮蛋肠）",
+    "limit_id": 250,
+    "url": "https://2760.foodmate.net/category/limit/250.html"
+  },
+  {
+    "category_code": "10.03.03",
+    "category_name": "蛋液与液态蛋",
+    "limit_id": 251,
+    "url": "https://2760.foodmate.net/category/limit/251.html"
+  },
+  {
+    "category_code": "10.04",
+    "category_name": "其他蛋制品",
+    "limit_id": 252,
+    "url": "https://2760.foodmate.net/category/limit/252.html"
+  },
+  {
+    "category_code": "11.0",
+    "category_name": "甜味料，包括蜂蜜",
+    "limit_id": 253,
+    "url": "https://2760.foodmate.net/category/limit/253.html"
+  },
+  {
+    "category_code": "11.01",
+    "category_name": "食糖",
+    "limit_id": 254,
+    "url": "https://2760.foodmate.net/category/limit/254.html"
+  },
+  {
+    "category_code": "11.01.01",
+    "category_name": "白砂糖及白砂糖制品、绵白糖、红糖、冰片糖",
+    "limit_id": 255,
+    "url": "https://2760.foodmate.net/category/limit/255.html"
+  },
+  {
+    "category_code": "11.01.02",
+    "category_name": "赤砂糖、原糖、其他糖和糖浆",
+    "limit_id": 256,
+    "url": "https://2760.foodmate.net/category/limit/256.html"
+  },
+  {
+    "category_code": "11.02",
+    "category_name": "淀粉糖（食用葡萄糖、低聚异麦芽糖、果葡糖浆、麦芽糖、麦芽糊精、葡萄糖浆等）",
+    "limit_id": 257,
+    "url": "https://2760.foodmate.net/category/limit/257.html"
+  },
+  {
+    "category_code": "11.03",
+    "category_name": "蜂蜜及花粉",
+    "limit_id": 258,
+    "url": "https://2760.foodmate.net/category/limit/258.html"
+  },
+  {
+    "category_code": "11.03.01",
+    "category_name": "蜂蜜",
+    "limit_id": 259,
+    "url": "https://2760.foodmate.net/category/limit/259.html"
+  },
+  {
+    "category_code": "11.03.02",
+    "category_name": "花粉",
+    "limit_id": 260,
+    "url": "https://2760.foodmate.net/category/limit/260.html"
+  },
+  {
+    "category_code": "11.04",
+    "category_name": "餐桌甜味料",
+    "limit_id": 261,
+    "url": "https://2760.foodmate.net/category/limit/261.html"
+  },
+  {
+    "category_code": "11.05",
+    "category_name": "调味糖浆",
+    "limit_id": 262,
+    "url": "https://2760.foodmate.net/category/limit/262.html"
+  },
+  {
+    "category_code": "11.05.01",
+    "category_name": "水果调味糖浆",
+    "limit_id": 263,
+    "url": "https://2760.foodmate.net/category/limit/263.html"
+  },
+  {
+    "category_code": "11.05.02",
+    "category_name": "其他调味糖浆",
+    "limit_id": 264,
+    "url": "https://2760.foodmate.net/category/limit/264.html"
+  },
+  {
+    "category_code": "11.06",
+    "category_name": "其他甜味料",
+    "limit_id": 265,
+    "url": "https://2760.foodmate.net/category/limit/265.html"
+  },
+  {
+    "category_code": "12.0",
+    "category_name": "调味品",
+    "limit_id": 266,
+    "url": "https://2760.foodmate.net/category/limit/266.html"
+  },
+  {
+    "category_code": "12.01",
+    "category_name": "盐及代盐制品",
+    "limit_id": 267,
+    "url": "https://2760.foodmate.net/category/limit/267.html"
+  },
+  {
+    "category_code": "12.02",
+    "category_name": "鲜味剂和助鲜剂",
+    "limit_id": 268,
+    "url": "https://2760.foodmate.net/category/limit/268.html"
+  },
+  {
+    "category_code": "12.03",
+    "category_name": "食醋",
+    "limit_id": 269,
+    "url": "https://2760.foodmate.net/category/limit/269.html"
+  },
+  {
+    "category_code": "12.04",
+    "category_name": "酱油",
+    "limit_id": 270,
+    "url": "https://2760.foodmate.net/category/limit/270.html"
+  },
+  {
+    "category_code": "12.05",
+    "category_name": "酿造酱",
+    "limit_id": 271,
+    "url": "https://2760.foodmate.net/category/limit/271.html"
+  },
+  {
+    "category_code": "12.06",
+    "category_name": "—",
+    "limit_id": 272,
+    "url": "https://2760.foodmate.net/category/limit/272.html"
+  },
+  {
+    "category_code": "12.07",
+    "category_name": "料酒及制品",
+    "limit_id": 273,
+    "url": "https://2760.foodmate.net/category/limit/273.html"
+  },
+  {
+    "category_code": "12.08",
+    "category_name": "—",
+    "limit_id": 274,
+    "url": "https://2760.foodmate.net/category/limit/274.html"
+  },
+  {
+    "category_code": "12.09",
+    "category_name": "香辛料类",
+    "limit_id": 275,
+    "url": "https://2760.foodmate.net/category/limit/275.html"
+  },
+  {
+    "category_code": "12.09.01",
+    "category_name": "香辛料及粉",
+    "limit_id": 276,
+    "url": "https://2760.foodmate.net/category/limit/276.html"
+  },
+  {
+    "category_code": "12.09.02",
+    "category_name": "香辛料油",
+    "limit_id": 277,
+    "url": "https://2760.foodmate.net/category/limit/277.html"
+  },
+  {
+    "category_code": "12.09.03",
+    "category_name": "香辛料酱（如芥末酱、青芥酱）",
+    "limit_id": 278,
+    "url": "https://2760.foodmate.net/category/limit/278.html"
+  },
+  {
+    "category_code": "12.09.04",
+    "category_name": "其他香辛料加工品",
+    "limit_id": 279,
+    "url": "https://2760.foodmate.net/category/limit/279.html"
+  },
+  {
+    "category_code": "12.10",
+    "category_name": "复合调味料",
+    "limit_id": 280,
+    "url": "https://2760.foodmate.net/category/limit/280.html"
+  },
+  {
+    "category_code": "12.10.01",
+    "category_name": "固体复合调味料",
+    "limit_id": 281,
+    "url": "https://2760.foodmate.net/category/limit/281.html"
+  },
+  {
+    "category_code": "12.10.01.01",
+    "category_name": "固体汤料",
+    "limit_id": 282,
+    "url": "https://2760.foodmate.net/category/limit/282.html"
+  },
+  {
+    "category_code": "12.10.01.02",
+    "category_name": "鸡精、鸡粉",
+    "limit_id": 283,
+    "url": "https://2760.foodmate.net/category/limit/283.html"
+  },
+  {
+    "category_code": "12.10.01.03",
+    "category_name": "其他固体复合调味料",
+    "limit_id": 284,
+    "url": "https://2760.foodmate.net/category/limit/284.html"
+  },
+  {
+    "category_code": "12.10.02",
+    "category_name": "半固体复合调味料",
+    "limit_id": 285,
+    "url": "https://2760.foodmate.net/category/limit/285.html"
+  },
+  {
+    "category_code": "12.10.02.01",
+    "category_name": "蛋黄酱、沙拉酱",
+    "limit_id": 286,
+    "url": "https://2760.foodmate.net/category/limit/286.html"
+  },
+  {
+    "category_code": "12.10.02.02",
+    "category_name": "调味酱",
+    "limit_id": 287,
+    "url": "https://2760.foodmate.net/category/limit/287.html"
+  },
+  {
+    "category_code": "12.10.02.03",
+    "category_name": "—",
+    "limit_id": 288,
+    "url": "https://2760.foodmate.net/category/limit/288.html"
+  },
+  {
+    "category_code": "12.10.02.04",
+    "category_name": "其他半固体复合调味料",
+    "limit_id": 289,
+    "url": "https://2760.foodmate.net/category/limit/289.html"
+  },
+  {
+    "category_code": "12.10.03",
+    "category_name": "液体复合调味料",
+    "limit_id": 290,
+    "url": "https://2760.foodmate.net/category/limit/290.html"
+  },
+  {
+    "category_code": "12.10.03.01",
+    "category_name": "浓缩汤",
+    "limit_id": 291,
+    "url": "https://2760.foodmate.net/category/limit/291.html"
+  },
+  {
+    "category_code": "12.10.03.02",
+    "category_name": "肉汤、骨汤",
+    "limit_id": 292,
+    "url": "https://2760.foodmate.net/category/limit/292.html"
+  },
+  {
+    "category_code": "12.10.03.03",
+    "category_name": "调味汁",
+    "limit_id": 293,
+    "url": "https://2760.foodmate.net/category/limit/293.html"
+  },
+  {
+    "category_code": "12.10.03.04",
+    "category_name": "蚝油、虾油、鱼露等",
+    "limit_id": 294,
+    "url": "https://2760.foodmate.net/category/limit/294.html"
+  },
+  {
+    "category_code": "12.10.03.05",
+    "category_name": "其他液体复合调味料",
+    "limit_id": 295,
+    "url": "https://2760.foodmate.net/category/limit/295.html"
+  },
+  {
+    "category_code": "12.11",
+    "category_name": "其他调味品",
+    "limit_id": 296,
+    "url": "https://2760.foodmate.net/category/limit/296.html"
+  },
+  {
+    "category_code": "13.0",
+    "category_name": "特殊膳食用食品",
+    "limit_id": 297,
+    "url": "https://2760.foodmate.net/category/limit/297.html"
+  },
+  {
+    "category_code": "13.01",
+    "category_name": "婴幼儿配方食品",
+    "limit_id": 298,
+    "url": "https://2760.foodmate.net/category/limit/298.html"
+  },
+  {
+    "category_code": "13.01.01",
+    "category_name": "婴儿配方食品",
+    "limit_id": 299,
+    "url": "https://2760.foodmate.net/category/limit/299.html"
+  },
+  {
+    "category_code": "13.01.02",
+    "category_name": "较大婴儿和幼儿配方食品",
+    "limit_id": 300,
+    "url": "https://2760.foodmate.net/category/limit/300.html"
+  },
+  {
+    "category_code": "13.01.03",
+    "category_name": "特殊医学用途婴儿配方食品",
+    "limit_id": 301,
+    "url": "https://2760.foodmate.net/category/limit/301.html"
+  },
+  {
+    "category_code": "13.02",
+    "category_name": "婴幼儿辅助食品",
+    "limit_id": 302,
+    "url": "https://2760.foodmate.net/category/limit/302.html"
+  },
+  {
+    "category_code": "13.02.01",
+    "category_name": "婴幼儿谷类辅助食品",
+    "limit_id": 303,
+    "url": "https://2760.foodmate.net/category/limit/303.html"
+  },
+  {
+    "category_code": "13.02.02",
+    "category_name": "婴幼儿罐装辅助食品",
+    "limit_id": 304,
+    "url": "https://2760.foodmate.net/category/limit/304.html"
+  },
+  {
+    "category_code": "13.03",
+    "category_name": "其他特殊膳食用食品",
+    "limit_id": 305,
+    "url": "https://2760.foodmate.net/category/limit/305.html"
+  },
+  {
+    "category_code": "14.0",
+    "category_name": "饮料类",
+    "limit_id": 306,
+    "url": "https://2760.foodmate.net/category/limit/306.html"
+  },
+  {
+    "category_code": "14.01",
+    "category_name": "包装饮用水",
+    "limit_id": 307,
+    "url": "https://2760.foodmate.net/category/limit/307.html"
+  },
+  {
+    "category_code": "14.01.01",
+    "category_name": "饮用天然矿泉水",
+    "limit_id": 308,
+    "url": "https://2760.foodmate.net/category/limit/308.html"
+  },
+  {
+    "category_code": "14.01.02",
+    "category_name": "饮用纯净水",
+    "limit_id": 309,
+    "url": "https://2760.foodmate.net/category/limit/309.html"
+  },
+  {
+    "category_code": "14.01.03",
+    "category_name": "其他类饮用水",
+    "limit_id": 310,
+    "url": "https://2760.foodmate.net/category/limit/310.html"
+  },
+  {
+    "category_code": "14.02",
+    "category_name": "果蔬汁类及其饮料",
+    "limit_id": 311,
+    "url": "https://2760.foodmate.net/category/limit/311.html"
+  },
+  {
+    "category_code": "14.02.01",
+    "category_name": "果蔬汁（浆）",
+    "limit_id": 312,
+    "url": "https://2760.foodmate.net/category/limit/312.html"
+  },
+  {
+    "category_code": "14.02.02",
+    "category_name": "浓缩果蔬汁（浆）",
+    "limit_id": 313,
+    "url": "https://2760.foodmate.net/category/limit/313.html"
+  },
+  {
+    "category_code": "14.02.03",
+    "category_name": "果蔬汁（浆）类饮料",
+    "limit_id": 314,
+    "url": "https://2760.foodmate.net/category/limit/314.html"
+  },
+  {
+    "category_code": "14.03",
+    "category_name": "蛋白饮料",
+    "limit_id": 315,
+    "url": "https://2760.foodmate.net/category/limit/315.html"
+  },
+  {
+    "category_code": "14.03.01",
+    "category_name": "含乳饮料",
+    "limit_id": 316,
+    "url": "https://2760.foodmate.net/category/limit/316.html"
+  },
+  {
+    "category_code": "14.03.01.01",
+    "category_name": "发酵型含乳饮料",
+    "limit_id": 317,
+    "url": "https://2760.foodmate.net/category/limit/317.html"
+  },
+  {
+    "category_code": "14.03.01.02",
+    "category_name": "配制型含乳饮料",
+    "limit_id": 318,
+    "url": "https://2760.foodmate.net/category/limit/318.html"
+  },
+  {
+    "category_code": "14.03.01.03",
+    "category_name": "乳酸菌饮料",
+    "limit_id": 319,
+    "url": "https://2760.foodmate.net/category/limit/319.html"
+  },
+  {
+    "category_code": "14.03.02",
+    "category_name": "植物蛋白饮料",
+    "limit_id": 320,
+    "url": "https://2760.foodmate.net/category/limit/320.html"
+  },
+  {
+    "category_code": "14.03.03",
+    "category_name": "复合蛋白饮料",
+    "limit_id": 321,
+    "url": "https://2760.foodmate.net/category/limit/321.html"
+  },
+  {
+    "category_code": "14.03.04",
+    "category_name": "其他蛋白饮料",
+    "limit_id": 322,
+    "url": "https://2760.foodmate.net/category/limit/322.html"
+  },
+  {
+    "category_code": "14.04",
+    "category_name": "碳酸饮料",
+    "limit_id": 323,
+    "url": "https://2760.foodmate.net/category/limit/323.html"
+  },
+  {
+    "category_code": "14.04.01",
+    "category_name": "可乐型碳酸饮料",
+    "limit_id": 324,
+    "url": "https://2760.foodmate.net/category/limit/324.html"
+  },
+  {
+    "category_code": "14.04.02",
+    "category_name": "其他型碳酸饮料",
+    "limit_id": 325,
+    "url": "https://2760.foodmate.net/category/limit/325.html"
+  },
+  {
+    "category_code": "14.05",
+    "category_name": "茶、咖啡、植物（类）饮料",
+    "limit_id": 326,
+    "url": "https://2760.foodmate.net/category/limit/326.html"
+  },
+  {
+    "category_code": "14.05.01",
+    "category_name": "茶（类）饮料",
+    "limit_id": 327,
+    "url": "https://2760.foodmate.net/category/limit/327.html"
+  },
+  {
+    "category_code": "14.05.02",
+    "category_name": "咖啡（类）饮料",
+    "limit_id": 328,
+    "url": "https://2760.foodmate.net/category/limit/328.html"
+  },
+  {
+    "category_code": "14.05.03",
+    "category_name": "植物饮料",
+    "limit_id": 329,
+    "url": "https://2760.foodmate.net/category/limit/329.html"
+  },
+  {
+    "category_code": "14.06",
+    "category_name": "固体饮料",
+    "limit_id": 330,
+    "url": "https://2760.foodmate.net/category/limit/330.html"
+  },
+  {
+    "category_code": "14.06.01",
+    "category_name": "—",
+    "limit_id": 331,
+    "url": "https://2760.foodmate.net/category/limit/331.html"
+  },
+  {
+    "category_code": "14.06.02",
+    "category_name": "蛋白固体饮料",
+    "limit_id": 332,
+    "url": "https://2760.foodmate.net/category/limit/332.html"
+  },
+  {
+    "category_code": "14.06.02.01",
+    "category_name": "含乳蛋白固体饮料",
+    "limit_id": 371,
+    "url": "https://2760.foodmate.net/category/limit/371.html"
+  },
+  {
+    "category_code": "14.06.02.01.01",
+    "category_name": "发酵型含乳蛋白固体饮料",
+    "limit_id": 372,
+    "url": "https://2760.foodmate.net/category/limit/372.html"
+  },
+  {
+    "category_code": "14.06.02.01.02",
+    "category_name": "配制型含乳蛋白固体饮料",
+    "limit_id": 373,
+    "url": "https://2760.foodmate.net/category/limit/373.html"
+  },
+  {
+    "category_code": "14.06.02.01.03",
+    "category_name": "乳酸菌含乳蛋白固体饮料",
+    "limit_id": 374,
+    "url": "https://2760.foodmate.net/category/limit/374.html"
+  },
+  {
+    "category_code": "14.06.02.02",
+    "category_name": "植物蛋白固体饮料",
+    "limit_id": 375,
+    "url": "https://2760.foodmate.net/category/limit/375.html"
+  },
+  {
+    "category_code": "14.06.02.03",
+    "category_name": "复合蛋白固体饮料",
+    "limit_id": 376,
+    "url": "https://2760.foodmate.net/category/limit/376.html"
+  },
+  {
+    "category_code": "14.06.02.04",
+    "category_name": "其他蛋白固体饮料",
+    "limit_id": 377,
+    "url": "https://2760.foodmate.net/category/limit/377.html"
+  },
+  {
+    "category_code": "14.06.03",
+    "category_name": "速溶咖啡",
+    "limit_id": 333,
+    "url": "https://2760.foodmate.net/category/limit/333.html"
+  },
+  {
+    "category_code": "14.06.04",
+    "category_name": "其他固体饮料",
+    "limit_id": 334,
+    "url": "https://2760.foodmate.net/category/limit/334.html"
+  },
+  {
+    "category_code": "14.06.04.01",
+    "category_name": "果蔬粉",
+    "limit_id": 378,
+    "url": "https://2760.foodmate.net/category/limit/378.html"
+  },
+  {
+    "category_code": "14.06.04.02",
+    "category_name": "果蔬固体饮料",
+    "limit_id": 379,
+    "url": "https://2760.foodmate.net/category/limit/379.html"
+  },
+  {
+    "category_code": "14.06.04.03",
+    "category_name": "茶类固体饮料",
+    "limit_id": 380,
+    "url": "https://2760.foodmate.net/category/limit/380.html"
+  },
+  {
+    "category_code": "14.06.04.04",
+    "category_name": "植物固体饮料",
+    "limit_id": 381,
+    "url": "https://2760.foodmate.net/category/limit/381.html"
+  },
+  {
+    "category_code": "14.06.04.05",
+    "category_name": "风味固体饮料",
+    "limit_id": 382,
+    "url": "https://2760.foodmate.net/category/limit/382.html"
+  },
+  {
+    "category_code": "14.06.04.05.01",
+    "category_name": "果味风味固体饮料",
+    "limit_id": 383,
+    "url": "https://2760.foodmate.net/category/limit/383.html"
+  },
+  {
+    "category_code": "14.06.04.06",
+    "category_name": "特殊用途固体饮料",
+    "limit_id": 384,
+    "url": "https://2760.foodmate.net/category/limit/384.html"
+  },
+  {
+    "category_code": "14.06.04.07",
+    "category_name": "固体碳酸饮料",
+    "limit_id": 385,
+    "url": "https://2760.foodmate.net/category/limit/385.html"
+  },
+  {
+    "category_code": "14.06.04.07.01",
+    "category_name": "可乐型固体碳酸饮料",
+    "limit_id": 386,
+    "url": "https://2760.foodmate.net/category/limit/386.html"
+  },
+  {
+    "category_code": "14.06.04.07.02",
+    "category_name": "其他型固体碳酸饮料",
+    "limit_id": 387,
+    "url": "https://2760.foodmate.net/category/limit/387.html"
+  },
+  {
+    "category_code": "14.06.04.08",
+    "category_name": "咖啡固体饮料（速溶咖啡除外）",
+    "limit_id": 388,
+    "url": "https://2760.foodmate.net/category/limit/388.html"
+  },
+  {
+    "category_code": "14.06.04.09",
+    "category_name": "除上述之外的其他固体饮料",
+    "limit_id": 389,
+    "url": "https://2760.foodmate.net/category/limit/389.html"
+  },
+  {
+    "category_code": "14.07",
+    "category_name": "特殊用途饮料",
+    "limit_id": 335,
+    "url": "https://2760.foodmate.net/category/limit/335.html"
+  },
+  {
+    "category_code": "14.08",
+    "category_name": "风味饮料",
+    "limit_id": 336,
+    "url": "https://2760.foodmate.net/category/limit/336.html"
+  },
+  {
+    "category_code": "14.09",
+    "category_name": "其他类饮料",
+    "limit_id": 337,
+    "url": "https://2760.foodmate.net/category/limit/337.html"
+  },
+  {
+    "category_code": "15.0",
+    "category_name": "酒类",
+    "limit_id": 338,
+    "url": "https://2760.foodmate.net/category/limit/338.html"
+  },
+  {
+    "category_code": "15.01",
+    "category_name": "蒸馏酒",
+    "limit_id": 339,
+    "url": "https://2760.foodmate.net/category/limit/339.html"
+  },
+  {
+    "category_code": "15.01.01",
+    "category_name": "白酒",
+    "limit_id": 340,
+    "url": "https://2760.foodmate.net/category/limit/340.html"
+  },
+  {
+    "category_code": "15.01.02",
+    "category_name": "调香蒸馏酒",
+    "limit_id": 341,
+    "url": "https://2760.foodmate.net/category/limit/341.html"
+  },
+  {
+    "category_code": "15.01.03",
+    "category_name": "白兰地",
+    "limit_id": 342,
+    "url": "https://2760.foodmate.net/category/limit/342.html"
+  },
+  {
+    "category_code": "15.01.04",
+    "category_name": "威士忌",
+    "limit_id": 343,
+    "url": "https://2760.foodmate.net/category/limit/343.html"
+  },
+  {
+    "category_code": "15.01.05",
+    "category_name": "伏特加",
+    "limit_id": 344,
+    "url": "https://2760.foodmate.net/category/limit/344.html"
+  },
+  {
+    "category_code": "15.01.06",
+    "category_name": "朗姆酒",
+    "limit_id": 345,
+    "url": "https://2760.foodmate.net/category/limit/345.html"
+  },
+  {
+    "category_code": "15.01.07",
+    "category_name": "其他蒸馏酒",
+    "limit_id": 346,
+    "url": "https://2760.foodmate.net/category/limit/346.html"
+  },
+  {
+    "category_code": "15.02",
+    "category_name": "配制酒",
+    "limit_id": 347,
+    "url": "https://2760.foodmate.net/category/limit/347.html"
+  },
+  {
+    "category_code": "15.03",
+    "category_name": "发酵酒",
+    "limit_id": 348,
+    "url": "https://2760.foodmate.net/category/limit/348.html"
+  },
+  {
+    "category_code": "15.03.01",
+    "category_name": "葡萄酒",
+    "limit_id": 349,
+    "url": "https://2760.foodmate.net/category/limit/349.html"
+  },
+  {
+    "category_code": "15.03.01.01",
+    "category_name": "无汽葡萄酒",
+    "limit_id": 350,
+    "url": "https://2760.foodmate.net/category/limit/350.html"
+  },
+  {
+    "category_code": "15.03.01.02",
+    "category_name": "起泡葡萄酒",
+    "limit_id": 351,
+    "url": "https://2760.foodmate.net/category/limit/351.html"
+  },
+  {
+    "category_code": "15.03.01.03",
+    "category_name": "调香葡萄酒",
+    "limit_id": 352,
+    "url": "https://2760.foodmate.net/category/limit/352.html"
+  },
+  {
+    "category_code": "15.03.01.04",
+    "category_name": "特种葡萄酒（按特殊工艺加工制作的葡萄酒，如在葡萄原酒中加入白兰地，浓缩葡萄汁等）",
+    "limit_id": 353,
+    "url": "https://2760.foodmate.net/category/limit/353.html"
+  },
+  {
+    "category_code": "15.03.02",
+    "category_name": "黄酒",
+    "limit_id": 354,
+    "url": "https://2760.foodmate.net/category/limit/354.html"
+  },
+  {
+    "category_code": "15.03.03",
+    "category_name": "果酒",
+    "limit_id": 355,
+    "url": "https://2760.foodmate.net/category/limit/355.html"
+  },
+  {
+    "category_code": "15.03.04",
+    "category_name": "蜂蜜酒",
+    "limit_id": 356,
+    "url": "https://2760.foodmate.net/category/limit/356.html"
+  },
+  {
+    "category_code": "15.03.05",
+    "category_name": "啤酒和麦芽饮料",
+    "limit_id": 357,
+    "url": "https://2760.foodmate.net/category/limit/357.html"
+  },
+  {
+    "category_code": "15.03.06",
+    "category_name": "其他发酵酒类（充气型）",
+    "limit_id": 358,
+    "url": "https://2760.foodmate.net/category/limit/358.html"
+  },
+  {
+    "category_code": "16.0",
+    "category_name": "其他类（01.0～15.0类除外）",
+    "limit_id": 359,
+    "url": "https://2760.foodmate.net/category/limit/359.html"
+  },
+  {
+    "category_code": "16.01",
+    "category_name": "果冻",
+    "limit_id": 360,
+    "url": "https://2760.foodmate.net/category/limit/360.html"
+  },
+  {
+    "category_code": "16.02",
+    "category_name": "茶叶、咖啡和茶制品",
+    "limit_id": 361,
+    "url": "https://2760.foodmate.net/category/limit/361.html"
+  },
+  {
+    "category_code": "16.02.01",
+    "category_name": "茶叶、咖啡",
+    "limit_id": 362,
+    "url": "https://2760.foodmate.net/category/limit/362.html"
+  },
+  {
+    "category_code": "16.02.02",
+    "category_name": "茶制品（包括调味茶和代用茶）",
+    "limit_id": 363,
+    "url": "https://2760.foodmate.net/category/limit/363.html"
+  },
+  {
+    "category_code": "16.03",
+    "category_name": "胶原蛋白肠衣",
+    "limit_id": 364,
+    "url": "https://2760.foodmate.net/category/limit/364.html"
+  },
+  {
+    "category_code": "16.04",
+    "category_name": "酵母及酵母类制品",
+    "limit_id": 365,
+    "url": "https://2760.foodmate.net/category/limit/365.html"
+  },
+  {
+    "category_code": "16.04.01",
+    "category_name": "干酵母",
+    "limit_id": 366,
+    "url": "https://2760.foodmate.net/category/limit/366.html"
+  },
+  {
+    "category_code": "16.04.02",
+    "category_name": "其他酵母及酵母类制品",
+    "limit_id": 367,
+    "url": "https://2760.foodmate.net/category/limit/367.html"
+  },
+  {
+    "category_code": "16.05",
+    "category_name": "食品加工用菌种制剂（16.04除外）",
+    "limit_id": 368,
+    "url": "https://2760.foodmate.net/category/limit/368.html"
+  },
+  {
+    "category_code": "16.06",
+    "category_name": "膨化食品",
+    "limit_id": 369,
+    "url": "https://2760.foodmate.net/category/limit/369.html"
+  },
+  {
+    "category_code": "16.07",
+    "category_name": "其他",
+    "limit_id": 370,
+    "url": "https://2760.foodmate.net/category/limit/370.html"
+  }
+]

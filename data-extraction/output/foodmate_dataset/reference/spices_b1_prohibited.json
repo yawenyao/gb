@@ -1,0 +1,118 @@
+[
+  {
+    "category_code": "01.01.01",
+    "category_name": "巴氏杀菌乳"
+  },
+  {
+    "category_code": "01.01.02",
+    "category_name": "灭菌乳和高温杀菌乳"
+  },
+  {
+    "category_code": "01.02.01",
+    "category_name": "发酵乳"
+  },
+  {
+    "category_code": "01.05.01",
+    "category_name": "稀奶油"
+  },
+  {
+    "category_code": "02.01.01",
+    "category_name": "植物油脂"
+  },
+  {
+    "category_code": "02.01.02",
+    "category_name": "动物油脂（包括猪油、牛油、鱼油和其他动物脂肪等）"
+  },
+  {
+    "category_code": "02.01.03",
+    "category_name": "无水黄油、无水乳脂"
+  },
+  {
+    "category_code": "04.01.01",
+    "category_name": "新鲜水果"
+  },
+  {
+    "category_code": "04.02.01",
+    "category_name": "新鲜蔬菜"
+  },
+  {
+    "category_code": "04.02.02.01",
+    "category_name": "冷冻蔬菜"
+  },
+  {
+    "category_code": "04.03.01",
+    "category_name": "新鲜食用菌和藻类"
+  },
+  {
+    "category_code": "04.03.02.01",
+    "category_name": "冷冻食用菌和藻类"
+  },
+  {
+    "category_code": "06.01",
+    "category_name": "原粮"
+  },
+  {
+    "category_code": "06.02.01",
+    "category_name": "大米"
+  },
+  {
+    "category_code": "06.03.01",
+    "category_name": "小麦粉"
+  },
+  {
+    "category_code": "06.04.01",
+    "category_name": "杂粮粉"
+  },
+  {
+    "category_code": "06.05.01",
+    "category_name": "食用淀粉"
+  },
+  {
+    "category_code": "08.01",
+    "category_name": "生、鲜肉"
+  },
+  {
+    "category_code": "09.01",
+    "category_name": "鲜水产"
+  },
+  {
+    "category_code": "10.01",
+    "category_name": "鲜蛋"
+  },
+  {
+    "category_code": "11.01",
+    "category_name": "食糖"
+  },
+  {
+    "category_code": "11.03.01",
+    "category_name": "蜂蜜"
+  },
+  {
+    "category_code": "12.01",
+    "category_name": "盐及代盐制品"
+  },
+  {
+    "category_code": "13.01",
+    "category_name": "婴幼儿配方食品a"
+  },
+  {
+    "category_code": "13.02",
+    "category_name": "婴幼儿辅助食品a"
+  },
+  {
+    "category_code": "14.01.01",
+    "category_name": "饮用天然矿泉水"
+  },
+  {
+    "category_code": "14.01.02",
+    "category_name": "饮用纯净水"
+  },
+  {
+    "category_code": "14.01.03",
+    "category_name": "其他类饮用水"
+  },
+  {
+    "category_code": "16.02.01",
+    "category_name": "茶叶、咖啡"
+  }
+]

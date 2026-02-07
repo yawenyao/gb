@@ -1,0 +1,3494 @@
+[
+  {
+    "category": "食品用天然香料",
+    "name_cn": "丁香叶油",
+    "name_en": "Clove leaf oil(Eugenia spp.)",
+    "code_no": "N001",
+    "fema_no": "2325",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "丁香花蕾酊（提取物）",
+    "name_en": "Clove bud tincture (extract) (Eugenia spp.)",
+    "code_no": "N002",
+    "fema_no": "2322",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "丁香花蕾油",
+    "name_en": "Clove bud oil (Eugenia spp.)",
+    "code_no": "N003",
+    "fema_no": "2323",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "罗勒油",
+    "name_en": "Basil oil (Ocimum basilicum L.)",
+    "code_no": "N004",
+    "fema_no": "2119",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "八角茴香油",
+    "name_en": "Anise star oil (Illicium verum Hook,F.)",
+    "code_no": "N005",
+    "fema_no": "2096",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "九里香浸膏",
+    "name_en": "Common Jasmin orange concrete (Murraya paniculata)",
+    "code_no": "N006",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "广藿香油",
+    "name_en": "Patchouli oil (Pogostemon cablin)",
+    "code_no": "N007",
+    "fema_no": "2838",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "万寿菊油",
+    "name_en": "Tagetes oil (Tagetes spp.)",
+    "code_no": "N008",
+    "fema_no": "3040",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小豆蔻油",
+    "name_en": "Cardamom oil (Elletaria cardamomum)",
+    "code_no": "N010",
+    "fema_no": "2241",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小豆蔻酊",
+    "name_en": "Cardamom tincture(Elletaria cardamomum)",
+    "code_no": "N011",
+    "fema_no": "2240",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小茴香酊",
+    "name_en": "Fennel tincture (Foeniculum vulgare Mill.)",
+    "code_no": "N012",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "山苍子油",
+    "name_en": "Litsea cubeba berry oil",
+    "code_no": "N013",
+    "fema_no": "3846",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "山楂酊",
+    "name_en": "Hawthorn fruit tincture (Crataegus spp.)",
+    "code_no": "N014",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "大蒜油",
+    "name_en": "Garlic oil (Allium sativum L.)",
+    "code_no": "N015",
+    "fema_no": "2503",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "大蒜油树脂",
+    "name_en": "Garlic oleoresin (Allium sativum L.)",
+    "code_no": "N016",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "天然康酿克油",
+    "name_en": "Cognac oil, green",
+    "code_no": "N017",
+    "fema_no": "2331",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "天然薄荷脑",
+    "name_en": "l-Menthol, natural",
+    "code_no": "N018",
+    "fema_no": "2665",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "云木香油",
+    "name_en": "Costus root oil (Saussures lappa Clanke)",
+    "code_no": "N019",
+    "fema_no": "2336",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "月桂叶油",
+    "name_en": "Bay, sweet, oil (Laurus nobilis L.)",
+    "code_no": "N020",
+    "fema_no": "2125",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "乌梅酊",
+    "name_en": "Wumei tincture (Prunus mume)",
+    "code_no": "N021",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "布枯叶油",
+    "name_en": "Buchu leaves oil (Barosma spp.)",
+    "code_no": "N022",
+    "fema_no": "2169",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "可可酊",
+    "name_en": "Cocoa tincture (Theobroma cacao Linn.)",
+    "code_no": "N023",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "可可壳酊",
+    "name_en": "Cocoa husk tincture(Theobroma cacao Linn.)",
+    "code_no": "N024",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘松油",
+    "name_en": "China nardostachys oil (Nardostachys chinensis Batal.)",
+    "code_no": "N025",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘草酊",
+    "name_en": "Licorice tincture (Glycyrrhiza spp.)",
+    "code_no": "N026",
+    "fema_no": "2628",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘草流浸膏",
+    "name_en": "Licorice extract (Glycyrrhiza spp.)",
+    "code_no": "N027",
+    "fema_no": "2628",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "冬青油",
+    "name_en": "Wintergreen oil (Gaultheria procumbens L.)",
+    "code_no": "N028",
+    "fema_no": "3113",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白兰花油",
+    "name_en": "Michelia alba flower oil",
+    "code_no": "N029",
+    "fema_no": "3950",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白兰叶油",
+    "name_en": "Michelia alba leaf oil",
+    "code_no": "N030",
+    "fema_no": "3950",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白兰花净油",
+    "name_en": "Michelia alba flower absolute",
+    "code_no": "N031",
+    "fema_no": "3950",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白兰花浸膏",
+    "name_en": "Michelia alba flower concrete",
+    "code_no": "N032",
+    "fema_no": "3950",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白芷酊",
+    "name_en": "Angelica dahurica tincture",
+    "code_no": "N033",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白柠檬油",
+    "name_en": "Lime oil [Citrus aurantifolia (Christman) Swingle]",
+    "code_no": "N034",
+    "fema_no": "2631",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白柠檬萜烯",
+    "name_en": "Lime oil terpene",
+    "code_no": "N035",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "生姜油树脂",
+    "name_en": "Ginger oleoresin (Zingiber officinale Rosc.)",
+    "code_no": "N036",
+    "fema_no": "2523",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "肉豆蔻油",
+    "name_en": "Nutmeg oil (Myristica fragrans Houtt.)",
+    "code_no": "N037",
+    "fema_no": "2793",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "肉豆蔻酊",
+    "name_en": "Nutmeg tincture (Myristica fragrans Houtt.)",
+    "code_no": "N038",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "中国肉桂油",
+    "name_en": "Cassia oil (Cinnamomum cassia Blume)",
+    "code_no": "N039",
+    "fema_no": "2258",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "中国肉桂皮酊（提取物）",
+    "name_en": "Cassia bark tincture (extract) (Cinnamomum cassia Blume)",
+    "code_no": "N040",
+    "fema_no": "2257",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "红茶酊",
+    "name_en": "Black tea tincture (Camellia sinensis)",
+    "code_no": "N041",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "印蒿油",
+    "name_en": "Davana oil (Artemisia pallens Wall.)",
+    "code_no": "N042",
+    "fema_no": "2359",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "吐鲁酊（提取物）",
+    "name_en": "Tolu balsam tincture (extract) (Myroxylon spp.)",
+    "code_no": "N043",
+    "fema_no": "3069",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "吐鲁香膏",
+    "name_en": "Tolu balsam gum (Myroxylon spp.)",
+    "code_no": "N044",
+    "fema_no": "3070",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "豆豉酊",
+    "name_en": "Soya bean fermented tincture",
+    "code_no": "N045",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "杜松籽油（又名刺柏子油）",
+    "name_en": "Juniper berry oil (Juniperus communis L.)",
+    "code_no": "N046",
+    "fema_no": "2604",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芫荽籽油",
+    "name_en": "Coriander oil (Coriandrum sativum L.)",
+    "code_no": "N047",
+    "fema_no": "2334",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芹菜花油",
+    "name_en": "Celery flower oil (Apium graveolens L.)",
+    "code_no": "N048",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芹菜籽油",
+    "name_en": "Celery seed oil (Apium graveolens L.)",
+    "code_no": "N049",
+    "fema_no": "2271",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "牡荆叶油",
+    "name_en": "Vitex cannabifolia leaf oil",
+    "code_no": "N050",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "圆柚油",
+    "name_en": "Grapefruit oil, expressed (Citrus paradisi Mact.)",
+    "code_no": "N051",
+    "fema_no": "2530",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苍术脂（又名苍术硬脂、苍术油）",
+    "name_en": "Atractylodes oil(Atractylodes lancea)",
+    "code_no": "N052",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "枣子酊",
+    "name_en": "Chinese date (common Jujube) tincture (Ziziphus jujuba Mill.)",
+    "code_no": "N053",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玫瑰油",
+    "name_en": "Rose oil (Rosa spp.)",
+    "code_no": "N054",
+    "fema_no": "2989",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玫瑰净油",
+    "name_en": "Rose absolute (Rosa spp.)",
+    "code_no": "N055",
+    "fema_no": "2988",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玫瑰浸膏",
+    "name_en": "Rose concrete (Rosa spp.)",
+    "code_no": "N056",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "鸢尾浸膏",
+    "name_en": "Orris concrete (Iris florentina L.,Iris germanica L.,and Iris pallida L.)",
+    "code_no": "N057",
+    "fema_no": "2829",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "鸢尾脂（又名鸢尾凝脂）",
+    "name_en": "Orris root extract (Iris florentina L.,Irisgermanica L.,and Iris pallida L.)",
+    "code_no": "N058",
+    "fema_no": "2830",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "杭白菊花油",
+    "name_en": "Chrysanthemum Hang Zhou flower oil (Dendranthema morifolium or Chrysanthemum morifolium)",
+    "code_no": "N059",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "杭白菊花浸膏（又名杭菊花流浸膏）",
+    "name_en": "Chrysanthemum Hang Zhou flower extract (Dendranthema morifolium or Chrysanthemum morifolium)",
+    "code_no": "N060",
+    "fema_no": "4689",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "枫槭油",
+    "name_en": "Maple oil (Acer spp.)",
+    "code_no": "N061",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "枫槭浸膏",
+    "name_en": "Maple concrete (Acer spp.)",
+    "code_no": "N062",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "岩蔷薇浸膏（又名赖百当浸膏）",
+    "name_en": "Labdanum extract(Cistus ladaniferus)",
+    "code_no": "N063",
+    "fema_no": "2610",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "咖啡酊",
+    "name_en": "Coffee tincture (Coffee spp.)",
+    "code_no": "N064",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "罗汉果酊",
+    "name_en": "Luohanfruit tincture [Siraitia grosvenorii (Swingle) C.Jeffrey]",
+    "code_no": "N065",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "金合欢浸膏",
+    "name_en": "Cassie concrete (Acacia farnesiana Willd.)",
+    "code_no": "N066",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "依兰依兰油",
+    "name_en": "Ylang ylang oil (Cananga odorata Hook.f.and Thomas)",
+    "code_no": "N067",
+    "fema_no": "3119",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "大花茉莉净油",
+    "name_en": "Jasminum grandiflorum absolute",
+    "code_no": "N068",
+    "fema_no": "2598",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "大花茉莉浸膏",
+    "name_en": "Jasminum grandiflorum concrete",
+    "code_no": "N069",
+    "fema_no": "2599",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小花茉莉净油",
+    "name_en": "Jasminum sambac absolute",
+    "code_no": "N070",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小花茉莉浸膏",
+    "name_en": "Jasminum sambac concrete",
+    "code_no": "N071",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "佛手油",
+    "name_en": "Sarcodactylis oil (Citrus medica var.Sarcodactylis Swingle)",
+    "code_no": "N072",
+    "fema_no": "3899",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "圆叶当归根酊（又名独活酊）",
+    "name_en": "Angelica root tincture (extract) (Angelica archangelica L.)",
+    "code_no": "N073",
+    "fema_no": "2087",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "洋葱油",
+    "name_en": "Onion oil (Allium cepa L.)",
+    "code_no": "N074",
+    "fema_no": "2817",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "生姜油",
+    "name_en": "Ginger oil (Zingiber officinale Rosc.)",
+    "code_no": "N075",
+    "fema_no": "2522",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "姜黄油",
+    "name_en": "Turmeric oil (Curcuma longa L.)",
+    "code_no": "N076",
+    "fema_no": "3085",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "姜黄油树脂",
+    "name_en": "Turmeric oleoresin (Curcuma longa L.)",
+    "code_no": "N077",
+    "fema_no": "3087",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "姜黄浸膏",
+    "name_en": "Turmeric extract (Curcuma longa L.)",
+    "code_no": "N078",
+    "fema_no": "3086",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葫芦巴酊",
+    "name_en": "Fenugreek tincture (extract) (Trigonella foenum graecum L.)",
+    "code_no": "N079",
+    "fema_no": "2485",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玳玳花油",
+    "name_en": "Daidai flower oil(Citrus aurantium L.‘Daidai’)",
+    "code_no": "N080",
+    "fema_no": "2771",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玳玳花浸膏",
+    "name_en": "Daidai flower concrete(Citrus aurantium L.‘Daidai’)",
+    "code_no": "N081",
+    "fema_no": "2771",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玳玳果油",
+    "name_en": "Daidai fruit oil(Citrus aurantium L.‘Daidai’)",
+    "code_no": "N082",
+    "fema_no": "2771",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柚皮油",
+    "name_en": "Pummelo peel oil [Citrus grandis (L.) Osbeck]",
+    "code_no": "N083",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柏木叶油（北美香柏）",
+    "name_en": "Cedar leaf oil (Thuja occidentalis L.)",
+    "code_no": "N084",
+    "fema_no": "2267",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "枯茗籽油（又名孜然油）",
+    "name_en": "Cumin seed oil (Cuminum cyminum L.)",
+    "code_no": "N085",
+    "fema_no": "2343",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柠檬油",
+    "name_en": "Lemon oil [Citrus limon (L.) Burm.f.]",
+    "code_no": "N086",
+    "fema_no": "2625",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "无萜柠檬油",
+    "name_en": "Lemon oil, terpeneless [Citrus limon (L.) Burm.f.]",
+    "code_no": "N087",
+    "fema_no": "2626",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柠檬油萜烯",
+    "name_en": "Terpenes of lemon oil",
+    "code_no": "N088",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柠檬叶油",
+    "name_en": "Petitgrain lemon oil [Citrus limon (L.) Burm.f.]",
+    "code_no": "N089",
+    "fema_no": "2853",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柠檬草油",
+    "name_en": "Lemongrass oil (Cymbopogon citratus DC. and C. flexuosus)",
+    "code_no": "N090",
+    "fema_no": "2624",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "栀子花浸膏",
+    "name_en": "Gardenia flower concrete (Gardenia jasminoides Ellis)",
+    "code_no": "N091",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "树兰花油",
+    "name_en": "Aglaia odorata flower oil",
+    "code_no": "N092",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "树兰花酊",
+    "name_en": "Aglaia odorata flower tincture",
+    "code_no": "N093",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "树兰花浸膏",
+    "name_en": "Aglaia odorata flower concrete",
+    "code_no": "N094",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "树苔净油",
+    "name_en": "Treemoss absolute (Evernia furfuraceae)",
+    "code_no": "N095",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "树苔浸膏",
+    "name_en": "Treemoss concrete (Evernia furfuraceae)",
+    "code_no": "N096",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香叶油（又名玫瑰香叶油）",
+    "name_en": "Geranium oil (geranium rose oil) (Pelargonium graveolens L'Her)",
+    "code_no": "N097",
+    "fema_no": "2508",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "除萜香叶油",
+    "name_en": "Geranium oil terpeneless",
+    "code_no": "N098",
+    "fema_no": "2508",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香风茶油(又名香茶菜油)",
+    "name_en": "Xiang Feng cha oil(Rabdosia spp.)",
+    "code_no": "N099",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香柠檬油",
+    "name_en": "Bergamot oil (Citrus aurantium L.subsp. bergamia)",
+    "code_no": "N101",
+    "fema_no": "2153",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香根油",
+    "name_en": "Vertiver oil (Vetiveria zizanioides Nash.)",
+    "code_no": "N102",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香根浸膏",
+    "name_en": "Vertiver concrete (Vetiveria zizanioides Nash.)",
+    "code_no": "N103",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香荚兰豆酊",
+    "name_en": "Vanilla bean tincture (Vanilla spp.)",
+    "code_no": "N104",
+    "fema_no": "3105",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香荚兰豆浸膏(提取物)",
+    "name_en": "Vanilla bean concrete (extract) (Vanilla spp.)",
+    "code_no": "N105",
+    "fema_no": "3105",
+    "category_table": "B.2",
+    "remarks": "当使用于较大婴儿和幼儿配方食品中时，按照生产需要适量使用。"
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香附子油",
+    "name_en": "Cyperus oil (Cupressus sempervirens)",
+    "code_no": "N106",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香葱油",
+    "name_en": "Chives oil (Allium schoenoprasum)",
+    "code_no": "N107",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香紫苏油",
+    "name_en": "Clary sage oil (Salvia sclarea L.)",
+    "code_no": "N108",
+    "fema_no": "2321",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香榧子壳浸膏",
+    "name_en": "Torreya grandis shell concrete",
+    "code_no": "N109",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橘子油",
+    "name_en": "Mandarin oil (Citrus reticulata Blanco)",
+    "code_no": "N110",
+    "fema_no": "2657",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "除萜橘子油",
+    "name_en": "Mandarin oil, terpeneless",
+    "code_no": "N111",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "酒花酊",
+    "name_en": "Hops tincture (extract) (Humulus lupulus L.)",
+    "code_no": "N112",
+    "fema_no": "2578",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "酒花浸膏",
+    "name_en": "Hops extract,solid (Humulus lupulus L.)",
+    "code_no": "N113",
+    "fema_no": "2579",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桉叶油(蓝桉油)",
+    "name_en": "Eucalyptus oil (Eucalyptus globulus Labille)",
+    "code_no": "N114",
+    "fema_no": "2466",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "海狸酊",
+    "name_en": "Castoreum tincture (extract) (Castor spp.)",
+    "code_no": "N115",
+    "fema_no": "2261",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "斯里兰卡肉桂皮油",
+    "name_en": "Cinnamon bark oil (Cinnamomum spp.)",
+    "code_no": "N116",
+    "fema_no": "2291",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "斯里兰卡肉桂叶油",
+    "name_en": "Cinnamon leaf oil (Cinnamomum spp.)",
+    "code_no": "N117",
+    "fema_no": "2292",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桂花净油",
+    "name_en": "Osmanthus fragrans flower absolute",
+    "code_no": "N118",
+    "fema_no": "3750",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桂花酊",
+    "name_en": "Osmanthus fragrans flower tincture",
+    "code_no": "N119",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桂花浸膏",
+    "name_en": "Osmanthus fragrans flower concrete",
+    "code_no": "N120",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桂圆酊",
+    "name_en": "Longan tincture (Euphoria longana)",
+    "code_no": "N121",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "留兰香油",
+    "name_en": "Spearmint oil (Mentha spicata)",
+    "code_no": "N122",
+    "fema_no": "3032",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "核桃壳提取物",
+    "name_en": "Walnut hull extract (Juglans spp.)",
+    "code_no": "N123",
+    "fema_no": "3111",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "素方花净油",
+    "name_en": "Common white jasmine flower absolute (Jasminum officinale L.)",
+    "code_no": "N124",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桦焦油",
+    "name_en": "Birch sweet oil (Betula lenta L.)",
+    "code_no": "N125",
+    "fema_no": "2154",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蚕豆花酊",
+    "name_en": "Broad bean flower tincture (Vicia faba Linn.)",
+    "code_no": "N126",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "绿茶酊",
+    "name_en": "Green tea tincture(Thea sinensis or Camellia sinensis)",
+    "code_no": "N127",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "野玫瑰浸膏",
+    "name_en": "Wild rose concrete (Rosa multiflora)",
+    "code_no": "N128",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜小茴香油",
+    "name_en": "Fennel oil, sweet (Foeniculum vulgare Mill. var. dulce D.C.)",
+    "code_no": "N129",
+    "fema_no": "2483",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜叶菊油",
+    "name_en": "Stevia rebaudiana oil",
+    "code_no": "N130",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜橙油",
+    "name_en": "Orange oil [Citrus sinensis (L.) Osbeck]",
+    "code_no": "N131",
+    "fema_no": "2821",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "除萜甜橙油",
+    "name_en": "Orange oil, terpeneless [Citrus sinensis (L.) Osbeck]",
+    "code_no": "N132",
+    "fema_no": "2822",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜橙油萜烯",
+    "name_en": "Terpenes of orange oil",
+    "code_no": "N133",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "菊苣浸膏",
+    "name_en": "Chicory concrete (extract) (Cichorium intybus L.)",
+    "code_no": "N134",
+    "fema_no": "2280",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "晚香玉浸膏",
+    "name_en": "Tuberose concrete (Polianthes tuberosa)",
+    "code_no": "N135",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "紫罗兰叶净油/浸膏",
+    "name_en": "Violet leaves absolute/concrete(Viola odorata L.)",
+    "code_no": "N136",
+    "fema_no": "3110",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "椒样薄荷油",
+    "name_en": "Peppermint oil (Mentha piperita L.)",
+    "code_no": "N137",
+    "fema_no": "2848",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黑加仑酊",
+    "name_en": "Black currant tincture (Ribes nigrum L.)",
+    "code_no": "N138",
+    "fema_no": "2346",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黑加仑浸膏",
+    "name_en": "Black currant concrete (Ribes nigrum L.)",
+    "code_no": "N139",
+    "fema_no": "2346",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "槐树花净油",
+    "name_en": "Sophora japonica flower absolute",
+    "code_no": "N140",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "槐树花浸膏",
+    "name_en": "Sophora japonica flower concrete",
+    "code_no": "N141",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "辣椒酊",
+    "name_en": "Capsicum tincture (extract) (Capsicum spp.)",
+    "code_no": "N142",
+    "fema_no": "2233",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "辣椒油树脂(又名灯笼辣椒油树脂)",
+    "name_en": "Paprika oleoresin (Capsicum annuum L.)",
+    "code_no": "N143",
+    "fema_no": "2834",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "愈疮木油",
+    "name_en": "Guaiac wood oil (Bulnesia sarmienti Lor.)",
+    "code_no": "N144",
+    "fema_no": "2534",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "缬草油",
+    "name_en": "Valerian root oil (Valeriana officinalis L.)",
+    "code_no": "N145",
+    "fema_no": "3100",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "墨红花净油",
+    "name_en": "Rose crimsonglory flower absolute",
+    "code_no": "N146",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "墨红花浸膏",
+    "name_en": "Rose crimsonglory flower concrete",
+    "code_no": "N147",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橙叶油",
+    "name_en": "Petitgrain bigarade oil (Citrus aurantium L.)",
+    "code_no": "N149",
+    "fema_no": "2855",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "亚洲薄荷油",
+    "name_en": "Mentha arvensis oil (Cornmint oil)",
+    "code_no": "N150",
+    "fema_no": "4219",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "亚洲薄荷素油",
+    "name_en": "Mentha arvensis oil, partially dementholized",
+    "code_no": "N151",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "檀香油",
+    "name_en": "Sandalwood oil (Santalum album L.)",
+    "code_no": "N152",
+    "fema_no": "3005",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "薰衣草油",
+    "name_en": "Lavender oil (Lavandula angustifolia)",
+    "code_no": "N153",
+    "fema_no": "2622",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "头状百里香油(又名西班牙牛至油)",
+    "name_en": "Origanum oil (Thymus capitatus)",
+    "code_no": "N154",
+    "fema_no": "2828",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "可乐果提取物",
+    "name_en": "Kolas nut extract (Cola acuminate Schott et EndL.)",
+    "code_no": "N155",
+    "fema_no": "2607",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "加州胡椒油",
+    "name_en": "Schinus molle oil (Schinus molle L.)",
+    "code_no": "N156",
+    "fema_no": "3018",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "卡黎皮油",
+    "name_en": "Cascarilla bark oil (Croton spp.)",
+    "code_no": "N157",
+    "fema_no": "2255",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "百里香油",
+    "name_en": "Thyme oil (Thymus vulgaris L.)",
+    "code_no": "N158",
+    "fema_no": "3064",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "奶油发酵起子蒸馏物(又名黄油蒸馏物)",
+    "name_en": "Butter starters distillate",
+    "code_no": "N159",
+    "fema_no": "2173",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "卡南伽油",
+    "name_en": "Cananga oil (Cananga odorata Hook. F. and Thoms)",
+    "code_no": "N160",
+    "fema_no": "2232",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "月桂叶提取物/油树脂",
+    "name_en": "Laurel leaves extract/oleoresin (Laurus nobilis L.)",
+    "code_no": "N161",
+    "fema_no": "2613",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "生姜提取物(生姜浸膏)",
+    "name_en": "Ginger extract (Ginger concrete.) ( Zingiber officinale)",
+    "code_no": "N162",
+    "fema_no": "2521",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白栎木屑提取物",
+    "name_en": "Oak chips extract (Quercus alba L.)",
+    "code_no": "N163",
+    "fema_no": "2794",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "龙蒿油",
+    "name_en": "Estragon oil (Artemisia dracunculus L.)",
+    "code_no": "N164",
+    "fema_no": "2412",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白樟油",
+    "name_en": "Camphor oil, white (Cinnamomum camphora (L.) Presl)",
+    "code_no": "N165",
+    "fema_no": "2231",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "肉豆蔻衣油",
+    "name_en": "Mace oil (Myristica fragrans Houtt.)",
+    "code_no": "N166",
+    "fema_no": "2653",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "众香叶油",
+    "name_en": "Pimento leaf oil (Pimenta officinalis Lindl.)",
+    "code_no": "N167",
+    "fema_no": "2901",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "西班牙鼠尾草油",
+    "name_en": "Sage oil, Spanish (Salvia lavandulaefolia VahL.)",
+    "code_no": "N168",
+    "fema_no": "3003",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "红橘油",
+    "name_en": "Tangerine oil (Citrus reticulata Blanco)",
+    "code_no": "N169",
+    "fema_no": "3041",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "杂薰衣草油",
+    "name_en": "Lavandin oil (Lavandula hydrida)",
+    "code_no": "N170",
+    "fema_no": "2618",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "杏仁油",
+    "name_en": "Apricot Kernel oil (Prunus armeniaca L.)",
+    "code_no": "N171",
+    "fema_no": "2105",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苏合香油",
+    "name_en": "Styrax oil (Liquidambar spp.)",
+    "code_no": "N172",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苏合香提取物",
+    "name_en": "Styrax extract (Liquidambar spp.)",
+    "code_no": "N173",
+    "fema_no": "3037",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "长角豆油",
+    "name_en": "Locust bean oil (Ceratonia siliqua L.)",
+    "code_no": "N174",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "角豆提取物",
+    "name_en": "Carob bean extract (Ceratonia siliqua L.)",
+    "code_no": "N175",
+    "fema_no": "2243",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "皂树皮提取物",
+    "name_en": "Quillaia (Quillaja saponaria Molina)",
+    "code_no": "N176",
+    "fema_no": "2973",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "乳香油",
+    "name_en": "Olibanum oil (Boswellia spp.)",
+    "code_no": "N177",
+    "fema_no": "2816",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "没药油",
+    "name_en": "Myrrh oil (Commiphora spp.)",
+    "code_no": "N178",
+    "fema_no": "2766",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "良姜根提取物",
+    "name_en": "Galangal root extract (Alpinia spp.)",
+    "code_no": "N179",
+    "fema_no": "2499",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苏格兰松油",
+    "name_en": "Pine oil, scotch (Pinus sylvestris L.)",
+    "code_no": "N180",
+    "fema_no": "2906",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小茴香油(又名普通小茴香油)",
+    "name_en": "Fennel oil, (common) (Foeniculum  vulgare Mill)",
+    "code_no": "N181",
+    "fema_no": "2481",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦杏仁油",
+    "name_en": "Almond oil, bitter (Prunus amygdalus)",
+    "code_no": "N182",
+    "fema_no": "2046",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "阿魏油",
+    "name_en": "Asafoetida oil (Ferula asafoetida L.)",
+    "code_no": "N183",
+    "fema_no": "2108",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "金合欢净油",
+    "name_en": "Cassie absolute[Acacia farnesiana (L.) Willd.]",
+    "code_no": "N184",
+    "fema_no": "2260",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "欧芹叶油",
+    "name_en": "Parsley leaf oil (Petroselinum crispum)",
+    "code_no": "N185",
+    "fema_no": "2836",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "松针油",
+    "name_en": "Pine needle oil (Abies spp.)",
+    "code_no": "N186",
+    "fema_no": "2905",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "波罗尼花净油",
+    "name_en": "Boronia absolute (Boronia megastigma Nees)",
+    "code_no": "N187",
+    "fema_no": "2167",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玫瑰木油",
+    "name_en": "Bois de rose oil (Aniba rosaeodora Ducke)",
+    "code_no": "N188",
+    "fema_no": "2156",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玫瑰草油",
+    "name_en": "Palmarosa oil [Cymbopogon martini (Roxb.) Stapf]",
+    "code_no": "N189",
+    "fema_no": "2831",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香茅油",
+    "name_en": "Citronella oil (Cymbopogon nardus Rendle or Cymbopogon winterianus Jowitt)",
+    "code_no": "N190",
+    "fema_no": "2308",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "迷迭香油",
+    "name_en": "Rosemary oil (Rosemarinus officinalis L.)",
+    "code_no": "N191",
+    "fema_no": "2992",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香脂冷杉油",
+    "name_en": "Balsam  fir oil [Abies balsamea (L.) Mill.]",
+    "code_no": "N192",
+    "fema_no": "2114",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香脂冷杉油树脂",
+    "name_en": "Balsam fir oleoresin[Abies balsamea (L.) Mill.]",
+    "code_no": "N193",
+    "fema_no": "2115",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "胡萝卜籽油",
+    "name_en": "Carrot seed oil (Daucus carota L.)",
+    "code_no": "N194",
+    "fema_no": "2244",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "春黄菊花油（罗马）",
+    "name_en": "Chamomile flower oil (Roman) (Anthemis nobilis L.)",
+    "code_no": "N195",
+    "fema_no": "2275",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "春黄菊花净油（提取物）（罗马）",
+    "name_en": "Chamomile flower absolute (extract) (Roman) (Anthemis nobilis L.)",
+    "code_no": "N196",
+    "fema_no": "2274",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "药鼠李提取物",
+    "name_en": "Cascara bitterless extract (Rhamnus purshiana DC.)",
+    "code_no": "N197",
+    "fema_no": "2253",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "荜澄茄油",
+    "name_en": "Cubeb oil (Piper cubeba L.f.)",
+    "code_no": "N198",
+    "fema_no": "2339",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "胡薄荷油（又名唇萼薄荷油）",
+    "name_en": "Pennyroyal oil (Mentha pulegium L.)",
+    "code_no": "N199",
+    "fema_no": "2839",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "欧当归油",
+    "name_en": "Lovage oil (Levisticum officinale Koch.)",
+    "code_no": "N200",
+    "fema_no": "2651",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "夏至草提取物",
+    "name_en": "Horehound extract (Marrubium vulgare L.)",
+    "code_no": "N201",
+    "fema_no": "2581",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "莫哈弗丝兰提取物",
+    "name_en": "Yucca mohave extract (Yucca spp.)",
+    "code_no": "N202",
+    "fema_no": "3121",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "海草（藻）提取物",
+    "name_en": "Kelp (Laminaria and Kereocystis spp.)",
+    "code_no": "N203",
+    "fema_no": "2606",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "海索草油",
+    "name_en": "Hyssop oil (Hyssopus officinalis L.)",
+    "code_no": "N204",
+    "fema_no": "2591",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "莳萝草油（又名莳萝油）",
+    "name_en": "Dill herb oil (Anethum graveolens)",
+    "code_no": "N205",
+    "fema_no": "2383",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "秘鲁香脂",
+    "name_en": "Balsam peru (Myroxylon pereirae Klotzsch)",
+    "code_no": "N206",
+    "fema_no": "2116",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "格蓬油",
+    "name_en": "Galbanum oil (Ferula galbaniflua)",
+    "code_no": "N207",
+    "fema_no": "2501",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "脂檀油",
+    "name_en": "Amyris oil (Amyris balsamifera L.)",
+    "code_no": "N208",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "银白金合欢净油（又名含羞草净油）",
+    "name_en": "Mimosa absolute (Acacia decurrens Will. Var. dealbata)",
+    "code_no": "N209",
+    "fema_no": "2755",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "接骨木花净油",
+    "name_en": "Elder flower absolute (Sambucus canadensis L. and S.nigra L.)",
+    "code_no": "N210",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘牛至油",
+    "name_en": "Marjoram oil, sweet [Majorana hortensis Moench (Origanum majorana L.)]",
+    "code_no": "N211",
+    "fema_no": "2663",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄龙胆根提取物",
+    "name_en": "Gentian root extract (Gentiana lutea L.)",
+    "code_no": "N212",
+    "fema_no": "2506",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄葵籽油",
+    "name_en": "Ambrette seed oil (Hibiscus abelmoschus L.)",
+    "code_no": "N213",
+    "fema_no": "2051",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "野黑樱桃树皮提取物",
+    "name_en": "Cherry bark extract (wild) (Prunus serotina Ehrh.)",
+    "code_no": "N214",
+    "fema_no": "2276",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黑胡椒油",
+    "name_en": "Pepper oil, black (Piper nigrum L.)",
+    "code_no": "N215",
+    "fema_no": "2845",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葛缕籽油",
+    "name_en": "Caraway seed oil (Carum carvi L.)",
+    "code_no": "N216",
+    "fema_no": "2238",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "榄香香树脂",
+    "name_en": "Elemi resinoid (Canarium ssp.)",
+    "code_no": "N217",
+    "fema_no": "2407",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蜡菊提取物",
+    "name_en": "Immortelle extract (Helichrysum angustifolium DC.)",
+    "code_no": "N218",
+    "fema_no": "2592",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香蜂花油",
+    "name_en": "Balm oil (Melissa officinalis L.)",
+    "code_no": "N219",
+    "fema_no": "2113",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "d-樟脑",
+    "name_en": "d-Camphor",
+    "code_no": "N220",
+    "fema_no": "2230",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橙花净油",
+    "name_en": "Orange flower absolute (Citrus aurantium L. subsp. amara)",
+    "code_no": "N221",
+    "fema_no": "2818",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柚苷（又名柚皮甙提取物）",
+    "name_en": "Naringin extract (Citrus paradisi Macf.)",
+    "code_no": "N222",
+    "fema_no": "2769",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "穗薰衣草油",
+    "name_en": "Spike lavender oil (Lavandula latifolia L.)",
+    "code_no": "N223",
+    "fema_no": "3033",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "鹰爪豆净油",
+    "name_en": "Genet absolute (Spartium junceum L.)",
+    "code_no": "N224",
+    "fema_no": "2504",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玳玳果皮油",
+    "name_en": "Daidai peel oil(Citrus aurantium L.‘Daidai’)",
+    "code_no": "N225",
+    "fema_no": "3823",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜橙油（橙皮压榨法）",
+    "name_en": "Orange oil, sweet, cold pressed [Citrus sinensis (L.) osbeck]",
+    "code_no": "N226",
+    "fema_no": "2825",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "小米辣椒油树脂",
+    "name_en": "Bush red pepper oleoresin (Capsicum frutescens L.)",
+    "code_no": "N227",
+    "fema_no": "2234",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "丁香茎油",
+    "name_en": "Clove stem oil (Eugenia spp.)",
+    "code_no": "N228",
+    "fema_no": "2328",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "大茴香油（又名茴芹油）",
+    "name_en": "Anise oil (Pimpinella anisum L.)",
+    "code_no": "N229",
+    "fema_no": "2094",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "L-天冬酰胺",
+    "name_en": "L-Asparagine",
+    "code_no": "N230",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "巴拉圭茶净油/提取物",
+    "name_en": "Mate absolute/extract (Ilex paraguariensis St.Hil.)",
+    "code_no": "N231",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白山核桃树皮提取物",
+    "name_en": "Hickory bark extract (Carya spp.)",
+    "code_no": "N232",
+    "fema_no": "2577",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "瓜拉纳提取物",
+    "name_en": "Guarana extract (Paullinia cupana HBK)",
+    "code_no": "N233",
+    "fema_no": "2536",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白百里香油",
+    "name_en": "Thyme oil, white (Thymus zygis L.)",
+    "code_no": "N235",
+    "fema_no": "3065",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白胡椒油",
+    "name_en": "Pepper oil, white (Piper nigrum L.)",
+    "code_no": "N236",
+    "fema_no": "2851",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白胡椒油树脂",
+    "name_en": "Pepper oleoresin, white (Piper nigrum L.)",
+    "code_no": "N237",
+    "fema_no": "2852",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白康酿克油",
+    "name_en": "Cognac oil, white",
+    "code_no": "N238",
+    "fema_no": "2332",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白脱酯",
+    "name_en": "Butter esters",
+    "code_no": "N239",
+    "fema_no": "2172",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白脱酸",
+    "name_en": "Butter acids",
+    "code_no": "N240",
+    "fema_no": "2171",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "众香果油",
+    "name_en": "Pimenta oil (Pimenta officinalis)",
+    "code_no": "N241",
+    "fema_no": "2018",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "安息香树脂",
+    "name_en": "Benzoin resinoid (Styrax tonkinensis Pierre)",
+    "code_no": "N242",
+    "fema_no": "2133",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "当归籽油",
+    "name_en": "Angelica seed oil (Angelica archanglica L.or Angelica sinensis)",
+    "code_no": "N243",
+    "fema_no": "2090",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "当归根油",
+    "name_en": "Angelica root oil (Angelica archangelica L.or Angelica sinensis)",
+    "code_no": "N244",
+    "fema_no": "2088",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "肉豆蔻衣油树脂/提取物",
+    "name_en": "Mace oleoresin/extract (Myristica fragrans Houtt)",
+    "code_no": "N245",
+    "fema_no": "2654",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "西印度月桂叶提取物",
+    "name_en": "Bay leaves,west Indian, extract (Pimenta acris kostel)",
+    "code_no": "N246",
+    "fema_no": "2121",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "西印度月桂叶油",
+    "name_en": "Bay leaves, West Indian, oil (Pimenta acris kostel)",
+    "code_no": "N247",
+    "fema_no": "2122",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "L-阿拉伯糖",
+    "name_en": "L-Arabinose",
+    "code_no": "N248",
+    "fema_no": "3255",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "阿拉伯胶",
+    "name_en": "Arabic gum",
+    "code_no": "N249",
+    "fema_no": "2001",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "欧当归提取物",
+    "name_en": "Lovage extract (Levisticum officinale Koch)",
+    "code_no": "N250",
+    "fema_no": "2650",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "欧芹油树脂",
+    "name_en": "Parsley oleoresin (Petroselinum spp.)",
+    "code_no": "N251",
+    "fema_no": "2837",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "油酸",
+    "name_en": "Oleic acid",
+    "code_no": "N252",
+    "fema_no": "2815",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦木提取物",
+    "name_en": "Quassia extract [ Picrasma excelsa (sw.) planch.Quassia amara L.]",
+    "code_no": "N253",
+    "fema_no": "2971",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦橙叶净油",
+    "name_en": "Orange leaf absolute (Citrus aurantium L.)",
+    "code_no": "N254",
+    "fema_no": "2820",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦橙油",
+    "name_en": "Orange oil, bitter (Citrus aurantium L.)",
+    "code_no": "N255",
+    "fema_no": "2823",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "金鸡纳树皮",
+    "name_en": "Cinchona bark (yellow) (Cinchona spp.)",
+    "code_no": "N256",
+    "fema_no": "2283",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "金钮扣油树脂",
+    "name_en": "Jambu oleoresin (Spilanthes acmelia oleracea)",
+    "code_no": "N257",
+    "fema_no": "3783",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "奎宁盐酸盐",
+    "name_en": "Quinine hydrochloride",
+    "code_no": "N258",
+    "fema_no": "2976",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "洋葱油树脂",
+    "name_en": "Onion oleoresin (Allium cepa L.)",
+    "code_no": "N260",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "茶树油（又名互叶白千层油）",
+    "name_en": "Tea tree oil (Melaleuca alternifolia)",
+    "code_no": "N261",
+    "fema_no": "3902",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "除萜白柠檬油",
+    "name_en": "Lime oil, expressed terpeneless (Citrus aurantifolia Swingle)",
+    "code_no": "N262",
+    "fema_no": "2632",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "除萜甜橙皮油",
+    "name_en": "Orange peel oil, sweet, terpeneless (Citrus sinensis L.Osbeck)",
+    "code_no": "N263",
+    "fema_no": "2826",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄芥末提取物/黄芥末油树脂",
+    "name_en": "Mustard extract/oleoresin, yellow (Brassica spp.)",
+    "code_no": "N265",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "棕芥末提取物",
+    "name_en": "Mustard extract, brown (Brassica spp.)",
+    "code_no": "N266",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "焦木酸",
+    "name_en": "Pyroligneous acid",
+    "code_no": "N267",
+    "fema_no": "2967",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "紫苏油",
+    "name_en": "Perilla leaf oil (Shiso oil) (Perilla frutescens)",
+    "code_no": "N268",
+    "fema_no": "4013",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葡萄柚油萜烯",
+    "name_en": "Grapefruit oil terpenes (Citrus paradisi Macf)",
+    "code_no": "N269",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黑胡椒油树脂/黑胡椒提取物",
+    "name_en": "Pepper oleoresin/extract, black (Piper nigrum L.)",
+    "code_no": "N270",
+    "fema_no": "2846",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "榄香油/提取物/香树脂",
+    "name_en": "Elemi oil/extract/ resinoid (Canarium cimmune or Iuzonicum Miq)",
+    "code_no": "N271",
+    "fema_no": "2408",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蜂蜡净油",
+    "name_en": "Beeswax absolute (Apis mellifera L.)",
+    "code_no": "N272",
+    "fema_no": "2126",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "赖百当净油（又名岩蔷薇净油）",
+    "name_en": "Labdanum absolute (Cistus spp.)",
+    "code_no": "N273",
+    "fema_no": "2608",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "鼠尾草油（又名药鼠尾草油）",
+    "name_en": "Sage oil (Salvia officinalis L.)",
+    "code_no": "N274",
+    "fema_no": "3001",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蜡菊净油",
+    "name_en": "Helichrysum absolute (Helichrysum augustifolium)",
+    "code_no": "N275",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "糖蜜提取物",
+    "name_en": "Molasses extract",
+    "code_no": "N276",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "檀香醇 （包括α-檀香醇、β-檀香醇）",
+    "name_en": "Santalol, α- and β-",
+    "code_no": "N277",
+    "fema_no": "3006",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "山达草流浸膏",
+    "name_en": "Yerba santa fluid extract [Eriodictyon californicum (Hook and Arn) Torr]",
+    "code_no": "N278",
+    "fema_no": "3118",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苜蓿提取物",
+    "name_en": "Alfalfa extract (Medicago sativa L.)",
+    "code_no": "N279",
+    "fema_no": "2013",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "众香子油树脂/提取物",
+    "name_en": "Allspice oleoresin/extract (Pimenta officinalis Lindl.)",
+    "code_no": "N281",
+    "fema_no": "2019",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄葵籽净油",
+    "name_en": "Ambrette seed absolute (Hibiscus abelmoschus L.)",
+    "code_no": "N282",
+    "fema_no": "2050",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "秘鲁香膏油",
+    "name_en": "Balsam oil, Peru (Myroxylon pereirae Klotzsch)",
+    "code_no": "N283",
+    "fema_no": "2117",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "罗勒提取物",
+    "name_en": "Basil extract (Ocimum basilicum L.)",
+    "code_no": "N284",
+    "fema_no": "2120",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芹菜籽固体提取物",
+    "name_en": "Celery seed extract solid (Apium graveolens L.)",
+    "code_no": "N285",
+    "fema_no": "2270",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芹菜籽（含CO2）提取物",
+    "name_en": "Celery seed (CO2) Extract (Apium graveolens L.)",
+    "code_no": "N286",
+    "fema_no": "2269",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "母菊（匈牙利春黄菊）花油",
+    "name_en": "Chamomile flower oil (Hungarian) (Matricaria chamomilla L.)",
+    "code_no": "N287",
+    "fema_no": "2273",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄色金鸡纳树皮提取物",
+    "name_en": "Cinchona bark extract (yellow) (Cinchona spp.)",
+    "code_no": "N288",
+    "fema_no": "2284",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "丁香花蕾油树脂",
+    "name_en": "Clove bud oleoresin (Eugenia spp.)",
+    "code_no": "N289",
+    "fema_no": "2324",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "红三叶草提取物（固体）",
+    "name_en": "Clover tops red extract solid (Trifolium pratense L.)",
+    "code_no": "N290",
+    "fema_no": "2326",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蒲公英流浸膏",
+    "name_en": "Dandelion fluid extract (Taraxacum spp.)",
+    "code_no": "N291",
+    "fema_no": "2357",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蒲公英根固体提取物",
+    "name_en": "Dandelion root solid extract (Taraxacum spp.)",
+    "code_no": "N292",
+    "fema_no": "2358",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "加拿大飞蓬草油",
+    "name_en": "Fleabane oil(Erigeron canadensis)",
+    "code_no": "N293",
+    "fema_no": "2409",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "穗花槭提取物（固体）",
+    "name_en": "Mountain maple extract solid (Acer spicatum Lam.)",
+    "code_no": "N294",
+    "fema_no": "2757",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芸香油",
+    "name_en": "Rue oil (Ruta graveolens L.)",
+    "code_no": "N295",
+    "fema_no": "2995",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "鼠尾草油树脂/提取物",
+    "name_en": "Sage oleoresin/extract (Salvia officinalis L.)",
+    "code_no": "N296",
+    "fema_no": "3002",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "菝葜提取物",
+    "name_en": "Sarsaparilla extract (Smilax spp.)",
+    "code_no": "N297",
+    "fema_no": "3009",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "水蒸气蒸馏松节油",
+    "name_en": "Turpentine, steam-distilled (Pinus spp.)",
+    "code_no": "N298",
+    "fema_no": "3089",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "缬草根提取物",
+    "name_en": "Valerian root extract (Valeriana officinalis L.)",
+    "code_no": "N299",
+    "fema_no": "3099",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香荚兰油树脂",
+    "name_en": "Vanilla oleoresin (Vanilla fragrans)",
+    "code_no": "N300",
+    "fema_no": "3106",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "紫罗兰叶净油",
+    "name_en": "Violet leaves absolute (Viola odorata L.)",
+    "code_no": "N301",
+    "fema_no": "3110",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "洋艾油",
+    "name_en": "Wormwood oil (Artemisia absinthium L.)",
+    "code_no": "N302",
+    "fema_no": "3116",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橘柚油",
+    "name_en": "Tangelo oil",
+    "code_no": "N304",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "晚香玉净油",
+    "name_en": "Tuberose absolute (Polianthes tuberosa L.)",
+    "code_no": "N305",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "美国栗树叶提取物",
+    "name_en": "Chestnut leaves extract [Castanea dentate (Marsh.) Borkh.]",
+    "code_no": "N306",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "古巴香脂油",
+    "name_en": "Copaiba oil (South American spp. of Copaifera)",
+    "code_no": "N307",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "达迷草叶",
+    "name_en": "Damiana leaves (Turnera diffusa Willd.)",
+    "code_no": "N308",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "母菊（匈牙利春黄菊）花净油",
+    "name_en": "Chamomile flower absolute (Hungarian) (Matricaria chamomilla L.)",
+    "code_no": "N309",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "接骨木花提取物",
+    "name_en": "Elder flowers extract (Sambucus canadensis L.and S.nigra L.)",
+    "code_no": "N310",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "防风根油（又名没药油）",
+    "name_en": "Opoponax oil (Commiphora spp.)",
+    "code_no": "N311",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "藏红花提取物",
+    "name_en": "Saffron extract (Crocus sativus L.)",
+    "code_no": "N312",
+    "fema_no": "2999",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香叶提取物",
+    "name_en": "Geranium extract (Pelargonlium spp.)",
+    "code_no": "N313",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葫芦巴油树脂",
+    "name_en": "Fenugreek oleoresin(Trigonella foenum graecum L.)",
+    "code_no": "N314",
+    "fema_no": "2486",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柠檬提取物",
+    "name_en": "Lemon extract[Citrus limon (L.) Burm.f.]",
+    "code_no": "N315",
+    "fema_no": "2623",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "德国鸢尾树脂",
+    "name_en": "Orris resinoid (Iris germanical L.)",
+    "code_no": "N316",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "罗望子提取物（浸膏）",
+    "name_en": "Tamarind extract (Tamarindus indica L.)",
+    "code_no": "N317",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "辣根油",
+    "name_en": "Horseradish oil (Armoracia lapathifolia Gilib)",
+    "code_no": "N318",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葫芦巴籽浸膏",
+    "name_en": "Fenugreek seed extract(Trigonella foenum graecum L.)",
+    "code_no": "N319",
+    "fema_no": "2485",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芹菜叶油",
+    "name_en": "Celery leaf oil (Apium graveolens L.)",
+    "code_no": "N320",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "柏木油萜烯",
+    "name_en": "Cedarwood oil terpenes",
+    "code_no": "N321",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "肉豆蔻油树脂",
+    "name_en": "Nutmeg oleoresin (Myristica fragrans Houtt)",
+    "code_no": "N322",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芫荽油/油树脂",
+    "name_en": "Coriander oil/oleoresin (Coriandrum sativum L.)",
+    "code_no": "N324",
+    "fema_no": "2334",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "韭葱油",
+    "name_en": "Leek oil (Allium porrum)",
+    "code_no": "N326",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜橙皮提取物",
+    "name_en": "Orange peel extract, sweet [Citrus sinensis (L.) Osbeck]",
+    "code_no": "N327",
+    "fema_no": "2824",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香橙皮油",
+    "name_en": "Citrus junos peel oil",
+    "code_no": "N329",
+    "fema_no": "2318",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "海藻净油",
+    "name_en": "Algues absolute",
+    "code_no": "N330",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "墨西哥鼠尾草油树脂（又名棘枝油树脂）",
+    "name_en": "Oregano oleoresin (Lippia spp.)",
+    "code_no": "N331",
+    "fema_no": "2827",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘草酸铵",
+    "name_en": "Glycyrrhizin, ammoniated (Glycyrrhiza spp.)",
+    "code_no": "N332",
+    "fema_no": "2528",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "冬香草油",
+    "name_en": "Savory winter oil (Satureja montana L.)",
+    "code_no": "N333",
+    "fema_no": "3016",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苏合香",
+    "name_en": "Styrax (Liquidambar spp.)",
+    "code_no": "N334",
+    "fema_no": "3036",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "阿魏液态提取物(流浸膏)",
+    "name_en": "Asafoetida fluid extract (Ferula assafoetida L.)",
+    "code_no": "N335",
+    "fema_no": "2106",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "桃树叶净油",
+    "name_en": "Peach tree leaf absolute (Prunus persica L.Batsch)",
+    "code_no": "N336",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白藓牛至",
+    "name_en": "Dittany of crete (Origanum dictamnus L.)",
+    "code_no": "N337",
+    "fema_no": "2399",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "酒花油",
+    "name_en": "Hops oil (Humulus lupulus L.)",
+    "code_no": "N338",
+    "fema_no": "2580",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "赖百当油",
+    "name_en": "Labdanum oil (Cistus ladaniferus)",
+    "code_no": "N339",
+    "fema_no": "2609",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "薰衣草净油",
+    "name_en": "Lavender absolute (Lavandula angustidolia)",
+    "code_no": "N340",
+    "fema_no": "2620",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "没药树脂提取物",
+    "name_en": "Opoponax extract resinoid (Commiphora spp.)",
+    "code_no": "N341",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "花椒提取物",
+    "name_en": "Ash bark, prickly, extract (Zanthoxylum spp.)",
+    "code_no": "N342",
+    "fema_no": "21104754",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "蓖麻油",
+    "name_en": "Castor oil (Ricinus communis)",
+    "code_no": "N343",
+    "fema_no": "2263",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "儿茶粉",
+    "name_en": "Catechu powder (Acacia catechu Willd.)",
+    "code_no": "N344",
+    "fema_no": "2265",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦艾",
+    "name_en": "Wormwood (Artemisia absinthium L.)",
+    "code_no": "N345",
+    "fema_no": "3114",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦橙花油",
+    "name_en": "Neroli bigarade oil (Citrus aurantium L.)",
+    "code_no": "N346",
+    "fema_no": "2771",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "达瓦树胶",
+    "name_en": "Ghatti gum (Anogeissus latifolia Wall.)",
+    "code_no": "N347",
+    "fema_no": "2519",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苦艾提取物",
+    "name_en": "Wormwood extract (Artemisia absinthium L.)",
+    "code_no": "N348",
+    "fema_no": "3115",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "刺柏提取物",
+    "name_en": "Juniper extract (Juniperus communis L.)",
+    "code_no": "N349",
+    "fema_no": "2603",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘草提取物（粉）",
+    "name_en": "Licorice extract powder (Glycyrrhiza glabra L.)",
+    "code_no": "N350",
+    "fema_no": "2629",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甜菜碱（天然提取）",
+    "name_en": "Betaine (Natural Extract)",
+    "code_no": "N351",
+    "fema_no": "4223",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "松焦油",
+    "name_en": "Pine tar oil (Pinus spp.)",
+    "code_no": "N352",
+    "fema_no": "2907",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橡苔净油",
+    "name_en": "Oakmoss absolute(Evernia spp.)",
+    "code_no": "N353",
+    "fema_no": "2795",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "苏格兰留兰香油",
+    "name_en": "Scotch spearmint oil (Mentha cardiaca L.)",
+    "code_no": "N354",
+    "fema_no": "4221",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "海索草提取物（又名神香草提取物）",
+    "name_en": "Hyssop extract (Hyssopus officinalis L.)",
+    "code_no": "N355",
+    "fema_no": "2590",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "安古树皮提取物",
+    "name_en": "Angostura extract (Galipea offincinalis Hancock)",
+    "code_no": "N356",
+    "fema_no": "2092",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "德国春黄菊花（母菊花）提取物",
+    "name_en": "Chamomile (German) extract (Matricaria chamomilla L.)",
+    "code_no": "N357",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "L-苏氨酸",
+    "name_en": "L-Threonine",
+    "code_no": "N359",
+    "fema_no": "4710",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "L-丝氨酸",
+    "name_en": "L-Serine",
+    "code_no": "N360",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "灵猫净油",
+    "name_en": "Civet absolute (Viverra civetta Schreber V. zibetha Schreber)",
+    "code_no": "N361",
+    "fema_no": "2319",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "胭脂树提取物",
+    "name_en": "Annatto extract (Bixa orellana L.)",
+    "code_no": "N362",
+    "fema_no": "2103",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "卡黎皮提取物",
+    "name_en": "Cascarilla bark extract (Croton spp.)",
+    "code_no": "N363",
+    "fema_no": "2254",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "肉桂皮油/油树脂",
+    "name_en": "Cinnamon bark oil/oleoresin (Cinnamomaum spp.)",
+    "code_no": "N364",
+    "fema_no": "2290",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "刺梧桐树胶",
+    "name_en": "Karaya gum (Sterculia urens)",
+    "code_no": "N365",
+    "fema_no": "2605",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橘叶油",
+    "name_en": "Petitgrain mandarin oil (Citrus reticulate Blanco var. mandarin)",
+    "code_no": "N366",
+    "fema_no": "2854",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "欧洲山松针叶油",
+    "name_en": "Pineneedle oil,dwarf,oil [Pinus mugo turra\nvar.pumilio (Haenke)Zenari]",
+    "code_no": "N367",
+    "fema_no": "2904",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "玫瑰果籽提取物",
+    "name_en": "Rose hips extract (Rosa spp.)",
+    "code_no": "N368",
+    "fema_no": "2990",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "夏香草油",
+    "name_en": "Savory summer oil (Satureja hortensis L.)",
+    "code_no": "N369",
+    "fema_no": "3013",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "加拿大细辛油",
+    "name_en": "Snakeroot oil, Canadian (Asarum canadense L.)",
+    "code_no": "N370",
+    "fema_no": "3023",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "单宁酸",
+    "name_en": "Tannic acid",
+    "code_no": "N371",
+    "fema_no": "3042",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄蓍胶",
+    "name_en": "Tragacanth gum (Astragalus spp.)",
+    "code_no": "N372",
+    "fema_no": "3079",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "甘牛至油树脂/提取物",
+    "name_en": "Marjoram oleoresin/extract [Majorana hortensis Moench (Origanum majorana L.)]",
+    "code_no": "N373",
+    "fema_no": "2659",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "摩洛哥豆蔻提取物",
+    "name_en": "Grains of paradise extract[Aframomum melegueta (Rosc.) K. Schum]",
+    "code_no": "N374",
+    "fema_no": "2529",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "橙皮素",
+    "name_en": "Hesperetin",
+    "code_no": "N375",
+    "fema_no": "4313",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芝麻（CO2）提取物",
+    "name_en": "Sesame CO2extract",
+    "code_no": "N377",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芝麻蒸馏物",
+    "name_en": "Sesame dist.",
+    "code_no": "N378",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "干制鲣鱼（CO2）提取物",
+    "name_en": "Katsuobushi CO2extract",
+    "code_no": "N379",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "郎姆酒净油",
+    "name_en": "Rum absolute",
+    "code_no": "N380",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "豆豉油树脂",
+    "name_en": "Toushi oleoresin (Douchi oleoresin)",
+    "code_no": "N381",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "药蜀葵",
+    "name_en": "Althea root (Althea officinalis L.)",
+    "code_no": "N382",
+    "fema_no": "2048",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香蜂草",
+    "name_en": "Balm (Melissa officinalis L.)",
+    "code_no": "N383",
+    "fema_no": "2111",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "白千层油",
+    "name_en": "Cajeput oil (Melaleuca cajuputi Powell)",
+    "code_no": "N384",
+    "fema_no": "2225",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "毕澄茄",
+    "name_en": "Cubebs (Piper cubeba L. f.)",
+    "code_no": "N388",
+    "fema_no": "2338",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "芦荟提取物",
+    "name_en": "Aloe extract (Aloe spp.)",
+    "code_no": "N389",
+    "fema_no": "2047",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "龙涎香酊",
+    "name_en": "Ambergris tincture",
+    "code_no": "N390",
+    "fema_no": "2049",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "黄葵酊",
+    "name_en": "Ambrette tincture (Hibiscus abelmoschus L.)",
+    "code_no": "N391",
+    "fema_no": "2052",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "燕根（萝藦科植物）提取物",
+    "name_en": "Swallowroot (Decalepis hamiltonii) extract",
+    "code_no": "N392",
+    "fema_no": "4283",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "红枣浸膏",
+    "name_en": "Date concrete (Ziziphus jujuba)",
+    "code_no": "N393",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "高倍天然苹果香料",
+    "name_en": "Folded apple essence",
+    "code_no": "N394",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "β-愈疮木烯",
+    "name_en": "β-Guaiene Guaia-1(5),7(11)-diene",
+    "code_no": "N395",
+    "fema_no": "―",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "褐藻胶",
+    "name_en": "Algin (Laminaria spp. and other kelps)",
+    "code_no": "N396",
+    "fema_no": "2014",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "香厚壳桂皮油",
+    "name_en": "Massoia bark oil (Cryptocarya massoio)",
+    "code_no": "N397",
+    "fema_no": "3747",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "（-）-高圣草酚钠盐",
+    "name_en": "(-)-Homoeriodyctiol sodium salt",
+    "code_no": "N398",
+    "fema_no": "4228",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "酶处理异槲皮苷",
+    "name_en": "Isoquercitrin, enzymatically modified",
+    "code_no": "N399",
+    "fema_no": "4225",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葡萄籽提取物",
+    "name_en": "Grape seed extract (Vitis vinifera)",
+    "code_no": "N400",
+    "fema_no": "4045",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "留兰香提取物",
+    "name_en": "Spearmint extract (Mentha spicata L.)",
+    "code_no": "N401",
+    "fema_no": "3031",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "杂醇油（精制过）",
+    "name_en": "Fusel oil, refined",
+    "code_no": "N402",
+    "fema_no": "2497",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "葡萄糖基甜菊糖苷",
+    "name_en": "Glucosyl steviol glycosides",
+    "code_no": "N403",
+    "fema_no": "4728",
+    "category_table": "B.2",
+    "remarks": null
+  },
+  {
+    "category": "食品用天然香料",
+    "name_cn": "非洲竹芋提取物",
+    "name_en": "Katemfe fruit extract (Thaumatococcus daniellii fruit extract)",
+    "code_no": "N404",
+    "fema_no": "4831",
+    "category_table": "B.2",
+    "remarks": null
+  }
+]

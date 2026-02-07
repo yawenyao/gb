@@ -1,0 +1,16 @@
+server:
+  port: 8080
+spring:
+  neo4j:
+    uri: ${NEO4J_URI:bolt://localhost:7687}
+    authentication:
+      username: neo4j
+      password: ${NEO4J_PASSWORD:neo4j123}
+  data:
+    neo4j:
+      database: neo4j
+  jackson:
+    default-property-inclusion: non_null
+# 可选：从本地 dataset 目录加载参考数据（加工助剂、酶制剂等）
+dataset:
+  path: ${DATASET_PATH:../data-extraction/output/foodmate_dataset}

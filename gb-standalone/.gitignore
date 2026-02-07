@@ -1,0 +1,4 @@
+# 由 prepare.sh 复制生成，不提交到仓库
+backend/
+frontend/
+dataset/
